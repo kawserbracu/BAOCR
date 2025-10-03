@@ -1,0 +1,10 @@
+Total images: 85
+Total annotations (words): 0
+Bengali words: 0
+English words: 0
+Mixed words: 0
+Other words: 0
+
+Images with no annotations: 85
+Empty labels: 0
+Corrupt images (failed to read): 85

@@ -1,0 +1,67 @@
+{
+  "items": [
+    {
+      "img_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\d2\\Unknown-6.jpeg",
+      "img_dimensions": [
+        711,
+        1600
+      ],
+      "boxes": [],
+      "labels": []
+    },
+    {
+      "img_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\d2\\Unknown-24.jpeg",
+      "img_dimensions": [
+        428,
+        1600
+      ],
+      "boxes": [],
+      "labels": []
+    },
+    {
+      "img_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\d2\\Unknown-25.jpeg",
+      "img_dimensions": [
+        389,
+        1280
+      ],
+      "boxes": [],
+      "labels": []
+    },
+    {
+      "img_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\d2\\Unknown-38.jpeg",
+      "img_dimensions": [
+        803,
+        1600
+      ],
+      "boxes": [],
+      "labels": []
+    },
+    {
+      "img_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\d2\\Unknown-39.jpeg",
+      "img_dimensions": [
+        1470,
+        1600
+      ],
+      "boxes": [],
+      "labels": []
+    },
+    {
+      "img_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\d2\\Unknown-41.jpeg",
+      "img_dimensions": [
+        579,
+        1280
+      ],
+      "boxes": [],
+      "labels": []
+    },
+    {
+      "img_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\d2\\Unknown-46.jpeg",
+      "img_dimensions": [
+        1182,
+        1600
+      ],
+      "boxes": [],
+      "labels": []
+    }
+  ]
+}

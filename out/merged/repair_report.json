@@ -1,0 +1,17 @@
+{
+  "detection_train.json": {
+    "fixed": 171,
+    "missing": 0,
+    "total": 314
+  },
+  "detection_val.json": {
+    "fixed": 42,
+    "missing": 0,
+    "total": 67
+  },
+  "detection_test.json": {
+    "fixed": 47,
+    "missing": 0,
+    "total": 68
+  }
+}

@@ -1,0 +1,2307 @@
+{
+  "items": [
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\1f11c111-f08a-4ab1-80e8-afcc0ab0d5ee_word1.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\1f11c111-f08a-4ab1-80e8-afcc0ab0d5ee_word2.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\1f11c111-f08a-4ab1-80e8-afcc0ab0d5ee_word3.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\1f11c111-f08a-4ab1-80e8-afcc0ab0d5ee_word4.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\1f11c111-f08a-4ab1-80e8-afcc0ab0d5ee_word5.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\1f11c111-f08a-4ab1-80e8-afcc0ab0d5ee_word6.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\1f11c111-f08a-4ab1-80e8-afcc0ab0d5ee_word7.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\1f11c111-f08a-4ab1-80e8-afcc0ab0d5ee_word8.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\1f11c111-f08a-4ab1-80e8-afcc0ab0d5ee_word9.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\1f11c111-f08a-4ab1-80e8-afcc0ab0d5ee_word10.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\1f11c111-f08a-4ab1-80e8-afcc0ab0d5ee_word11.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\1f11c111-f08a-4ab1-80e8-afcc0ab0d5ee_word12.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\1f11c111-f08a-4ab1-80e8-afcc0ab0d5ee_word13.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\1f11c111-f08a-4ab1-80e8-afcc0ab0d5ee_word14.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\1f11c111-f08a-4ab1-80e8-afcc0ab0d5ee_word15.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\5f94abc9-b0eb-455f-8f7b-a33c9913a049_word1.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\5f94abc9-b0eb-455f-8f7b-a33c9913a049_word2.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\5f94abc9-b0eb-455f-8f7b-a33c9913a049_word3.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\5f94abc9-b0eb-455f-8f7b-a33c9913a049_word4.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\5f94abc9-b0eb-455f-8f7b-a33c9913a049_word5.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\5f94abc9-b0eb-455f-8f7b-a33c9913a049_word6.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\5f94abc9-b0eb-455f-8f7b-a33c9913a049_word7.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\5f94abc9-b0eb-455f-8f7b-a33c9913a049_word8.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\5f94abc9-b0eb-455f-8f7b-a33c9913a049_word9.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\5f94abc9-b0eb-455f-8f7b-a33c9913a049_word10.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\5f94abc9-b0eb-455f-8f7b-a33c9913a049_word11.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\5f94abc9-b0eb-455f-8f7b-a33c9913a049_word12.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\5f94abc9-b0eb-455f-8f7b-a33c9913a049_word13.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\5f94abc9-b0eb-455f-8f7b-a33c9913a049_word14.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\5f94abc9-b0eb-455f-8f7b-a33c9913a049_word15.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\5f94abc9-b0eb-455f-8f7b-a33c9913a049_word16.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\5f94abc9-b0eb-455f-8f7b-a33c9913a049_word17.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\5f94abc9-b0eb-455f-8f7b-a33c9913a049_word18.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\5f94abc9-b0eb-455f-8f7b-a33c9913a049_word19.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\5f94abc9-b0eb-455f-8f7b-a33c9913a049_word20.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\5f94abc9-b0eb-455f-8f7b-a33c9913a049_word21.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\5f94abc9-b0eb-455f-8f7b-a33c9913a049_word22.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\5f94abc9-b0eb-455f-8f7b-a33c9913a049_word23.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\5f94abc9-b0eb-455f-8f7b-a33c9913a049_word24.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\5f94abc9-b0eb-455f-8f7b-a33c9913a049_word25.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\5f94abc9-b0eb-455f-8f7b-a33c9913a049_word26.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\5f94abc9-b0eb-455f-8f7b-a33c9913a049_word27.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\8ffd7188-42b8-4aec-b791-1b39efefa01e_word1.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\8ffd7188-42b8-4aec-b791-1b39efefa01e_word2.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\8ffd7188-42b8-4aec-b791-1b39efefa01e_word3.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\8ffd7188-42b8-4aec-b791-1b39efefa01e_word4.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\8ffd7188-42b8-4aec-b791-1b39efefa01e_word5.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\8ffd7188-42b8-4aec-b791-1b39efefa01e_word6.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\8ffd7188-42b8-4aec-b791-1b39efefa01e_word7.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\8ffd7188-42b8-4aec-b791-1b39efefa01e_word8.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\8ffd7188-42b8-4aec-b791-1b39efefa01e_word9.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\8ffd7188-42b8-4aec-b791-1b39efefa01e_word10.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\8ffd7188-42b8-4aec-b791-1b39efefa01e_word11.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\8ffd7188-42b8-4aec-b791-1b39efefa01e_word12.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\8ffd7188-42b8-4aec-b791-1b39efefa01e_word13.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\8ffd7188-42b8-4aec-b791-1b39efefa01e_word14.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\8ffd7188-42b8-4aec-b791-1b39efefa01e_word15.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\8ffd7188-42b8-4aec-b791-1b39efefa01e_word16.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\8ffd7188-42b8-4aec-b791-1b39efefa01e_word17.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\8ffd7188-42b8-4aec-b791-1b39efefa01e_word18.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\8ffd7188-42b8-4aec-b791-1b39efefa01e_word19.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\8ffd7188-42b8-4aec-b791-1b39efefa01e_word20.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\8ffd7188-42b8-4aec-b791-1b39efefa01e_word21.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\29bbceae-4fb0-4890-9ed9-11ac76fe1144_word1.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\29bbceae-4fb0-4890-9ed9-11ac76fe1144_word2.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\29bbceae-4fb0-4890-9ed9-11ac76fe1144_word3.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\29bbceae-4fb0-4890-9ed9-11ac76fe1144_word4.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\29bbceae-4fb0-4890-9ed9-11ac76fe1144_word5.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\29bbceae-4fb0-4890-9ed9-11ac76fe1144_word6.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\29bbceae-4fb0-4890-9ed9-11ac76fe1144_word7.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\29bbceae-4fb0-4890-9ed9-11ac76fe1144_word8.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\29bbceae-4fb0-4890-9ed9-11ac76fe1144_word9.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\29bbceae-4fb0-4890-9ed9-11ac76fe1144_word10.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\29bbceae-4fb0-4890-9ed9-11ac76fe1144_word11.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\29bbceae-4fb0-4890-9ed9-11ac76fe1144_word12.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\29bbceae-4fb0-4890-9ed9-11ac76fe1144_word13.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\29bbceae-4fb0-4890-9ed9-11ac76fe1144_word14.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\29bbceae-4fb0-4890-9ed9-11ac76fe1144_word15.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\29bbceae-4fb0-4890-9ed9-11ac76fe1144_word16.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\29bbceae-4fb0-4890-9ed9-11ac76fe1144_word17.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\29bbceae-4fb0-4890-9ed9-11ac76fe1144_word18.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\29bbceae-4fb0-4890-9ed9-11ac76fe1144_word19.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\29bbceae-4fb0-4890-9ed9-11ac76fe1144_word20.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\29bbceae-4fb0-4890-9ed9-11ac76fe1144_word21.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\29bbceae-4fb0-4890-9ed9-11ac76fe1144_word22.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\29bbceae-4fb0-4890-9ed9-11ac76fe1144_word23.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\29bbceae-4fb0-4890-9ed9-11ac76fe1144_word24.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\29bbceae-4fb0-4890-9ed9-11ac76fe1144_word25.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\29bbceae-4fb0-4890-9ed9-11ac76fe1144_word26.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\29bbceae-4fb0-4890-9ed9-11ac76fe1144_word27.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\963aceb4-957a-4758-92ed-faf136f7809a_word1.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\963aceb4-957a-4758-92ed-faf136f7809a_word2.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\963aceb4-957a-4758-92ed-faf136f7809a_word3.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\963aceb4-957a-4758-92ed-faf136f7809a_word4.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\963aceb4-957a-4758-92ed-faf136f7809a_word5.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\963aceb4-957a-4758-92ed-faf136f7809a_word6.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\963aceb4-957a-4758-92ed-faf136f7809a_word7.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\963aceb4-957a-4758-92ed-faf136f7809a_word8.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\963aceb4-957a-4758-92ed-faf136f7809a_word9.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\963aceb4-957a-4758-92ed-faf136f7809a_word10.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\963aceb4-957a-4758-92ed-faf136f7809a_word11.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\963aceb4-957a-4758-92ed-faf136f7809a_word12.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\963aceb4-957a-4758-92ed-faf136f7809a_word13.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\963aceb4-957a-4758-92ed-faf136f7809a_word14.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\963aceb4-957a-4758-92ed-faf136f7809a_word15.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\963aceb4-957a-4758-92ed-faf136f7809a_word16.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\156478b2-6eb3-4982-92c3-bee5730da2e9_word1.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\156478b2-6eb3-4982-92c3-bee5730da2e9_word2.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\156478b2-6eb3-4982-92c3-bee5730da2e9_word3.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\156478b2-6eb3-4982-92c3-bee5730da2e9_word4.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\156478b2-6eb3-4982-92c3-bee5730da2e9_word5.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\156478b2-6eb3-4982-92c3-bee5730da2e9_word6.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\156478b2-6eb3-4982-92c3-bee5730da2e9_word7.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\156478b2-6eb3-4982-92c3-bee5730da2e9_word8.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\156478b2-6eb3-4982-92c3-bee5730da2e9_word9.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\156478b2-6eb3-4982-92c3-bee5730da2e9_word10.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\156478b2-6eb3-4982-92c3-bee5730da2e9_word11.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\156478b2-6eb3-4982-92c3-bee5730da2e9_word12.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\156478b2-6eb3-4982-92c3-bee5730da2e9_word13.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\156478b2-6eb3-4982-92c3-bee5730da2e9_word14.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\156478b2-6eb3-4982-92c3-bee5730da2e9_word15.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\156478b2-6eb3-4982-92c3-bee5730da2e9_word16.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\156478b2-6eb3-4982-92c3-bee5730da2e9_word17.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\156478b2-6eb3-4982-92c3-bee5730da2e9_word18.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\156478b2-6eb3-4982-92c3-bee5730da2e9_word19.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\156478b2-6eb3-4982-92c3-bee5730da2e9_word20.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\156478b2-6eb3-4982-92c3-bee5730da2e9_word21.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\156478b2-6eb3-4982-92c3-bee5730da2e9_word22.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\156478b2-6eb3-4982-92c3-bee5730da2e9_word23.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\156478b2-6eb3-4982-92c3-bee5730da2e9_word24.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\156478b2-6eb3-4982-92c3-bee5730da2e9_word25.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\156478b2-6eb3-4982-92c3-bee5730da2e9_word26.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\156478b2-6eb3-4982-92c3-bee5730da2e9_word27.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\156478b2-6eb3-4982-92c3-bee5730da2e9_word28.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\156478b2-6eb3-4982-92c3-bee5730da2e9_word29.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\156478b2-6eb3-4982-92c3-bee5730da2e9_word30.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\156478b2-6eb3-4982-92c3-bee5730da2e9_word31.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\156478b2-6eb3-4982-92c3-bee5730da2e9_word32.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\156478b2-6eb3-4982-92c3-bee5730da2e9_word33.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\156478b2-6eb3-4982-92c3-bee5730da2e9_word34.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\156478b2-6eb3-4982-92c3-bee5730da2e9_word35.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\156478b2-6eb3-4982-92c3-bee5730da2e9_word36.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\a3d63b7d-0124-4fa8-8d8f-8fe8a332f938_word1.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\a3d63b7d-0124-4fa8-8d8f-8fe8a332f938_word2.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\a3d63b7d-0124-4fa8-8d8f-8fe8a332f938_word3.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\a3d63b7d-0124-4fa8-8d8f-8fe8a332f938_word4.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\a3d63b7d-0124-4fa8-8d8f-8fe8a332f938_word5.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\a3d63b7d-0124-4fa8-8d8f-8fe8a332f938_word6.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\a3d63b7d-0124-4fa8-8d8f-8fe8a332f938_word7.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\a3d63b7d-0124-4fa8-8d8f-8fe8a332f938_word8.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\a3d63b7d-0124-4fa8-8d8f-8fe8a332f938_word9.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\a3d63b7d-0124-4fa8-8d8f-8fe8a332f938_word10.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\a3d63b7d-0124-4fa8-8d8f-8fe8a332f938_word11.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\a3d63b7d-0124-4fa8-8d8f-8fe8a332f938_word12.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\a3d63b7d-0124-4fa8-8d8f-8fe8a332f938_word13.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\a3d63b7d-0124-4fa8-8d8f-8fe8a332f938_word14.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\a3d63b7d-0124-4fa8-8d8f-8fe8a332f938_word15.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\a45fa135-216f-4ba7-8ed7-3549adecfa37_word1.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\a45fa135-216f-4ba7-8ed7-3549adecfa37_word2.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\a45fa135-216f-4ba7-8ed7-3549adecfa37_word3.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\a45fa135-216f-4ba7-8ed7-3549adecfa37_word4.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\a45fa135-216f-4ba7-8ed7-3549adecfa37_word5.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\a45fa135-216f-4ba7-8ed7-3549adecfa37_word6.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\a45fa135-216f-4ba7-8ed7-3549adecfa37_word7.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\a45fa135-216f-4ba7-8ed7-3549adecfa37_word8.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\a45fa135-216f-4ba7-8ed7-3549adecfa37_word9.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\a45fa135-216f-4ba7-8ed7-3549adecfa37_word10.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\a45fa135-216f-4ba7-8ed7-3549adecfa37_word11.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\a45fa135-216f-4ba7-8ed7-3549adecfa37_word12.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\a45fa135-216f-4ba7-8ed7-3549adecfa37_word13.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\a45fa135-216f-4ba7-8ed7-3549adecfa37_word14.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\a45fa135-216f-4ba7-8ed7-3549adecfa37_word15.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\a45fa135-216f-4ba7-8ed7-3549adecfa37_word16.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\a45fa135-216f-4ba7-8ed7-3549adecfa37_word17.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\a45fa135-216f-4ba7-8ed7-3549adecfa37_word18.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\a45fa135-216f-4ba7-8ed7-3549adecfa37_word19.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\a45fa135-216f-4ba7-8ed7-3549adecfa37_word20.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\a45fa135-216f-4ba7-8ed7-3549adecfa37_word21.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\a45fa135-216f-4ba7-8ed7-3549adecfa37_word22.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\a45fa135-216f-4ba7-8ed7-3549adecfa37_word23.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\a45fa135-216f-4ba7-8ed7-3549adecfa37_word24.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\a45fa135-216f-4ba7-8ed7-3549adecfa37_word25.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\a45fa135-216f-4ba7-8ed7-3549adecfa37_word26.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\a45fa135-216f-4ba7-8ed7-3549adecfa37_word27.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\a45fa135-216f-4ba7-8ed7-3549adecfa37_word28.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\a45fa135-216f-4ba7-8ed7-3549adecfa37_word29.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\a45fa135-216f-4ba7-8ed7-3549adecfa37_word30.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\a45fa135-216f-4ba7-8ed7-3549adecfa37_word31.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\a45fa135-216f-4ba7-8ed7-3549adecfa37_word32.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\a45fa135-216f-4ba7-8ed7-3549adecfa37_word33.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\a45fa135-216f-4ba7-8ed7-3549adecfa37_word34.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\a45fa135-216f-4ba7-8ed7-3549adecfa37_word35.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\a45fa135-216f-4ba7-8ed7-3549adecfa37_word36.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\a45fa135-216f-4ba7-8ed7-3549adecfa37_word37.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\a45fa135-216f-4ba7-8ed7-3549adecfa37_word38.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\a45fa135-216f-4ba7-8ed7-3549adecfa37_word39.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\a45fa135-216f-4ba7-8ed7-3549adecfa37_word40.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\a45fa135-216f-4ba7-8ed7-3549adecfa37_word41.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\a45fa135-216f-4ba7-8ed7-3549adecfa37_word42.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\ae804523-d0a6-4e41-822e-998090acd9d5_word1.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\ae804523-d0a6-4e41-822e-998090acd9d5_word2.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\ae804523-d0a6-4e41-822e-998090acd9d5_word3.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\ae804523-d0a6-4e41-822e-998090acd9d5_word4.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\ae804523-d0a6-4e41-822e-998090acd9d5_word5.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\ae804523-d0a6-4e41-822e-998090acd9d5_word6.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\ae804523-d0a6-4e41-822e-998090acd9d5_word7.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\ae804523-d0a6-4e41-822e-998090acd9d5_word8.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\ae804523-d0a6-4e41-822e-998090acd9d5_word9.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\ae804523-d0a6-4e41-822e-998090acd9d5_word10.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\ae804523-d0a6-4e41-822e-998090acd9d5_word11.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\ae804523-d0a6-4e41-822e-998090acd9d5_word12.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\ae804523-d0a6-4e41-822e-998090acd9d5_word13.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\ae804523-d0a6-4e41-822e-998090acd9d5_word14.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\ae804523-d0a6-4e41-822e-998090acd9d5_word15.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\ae804523-d0a6-4e41-822e-998090acd9d5_word16.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\ae804523-d0a6-4e41-822e-998090acd9d5_word17.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\ae804523-d0a6-4e41-822e-998090acd9d5_word18.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\ae804523-d0a6-4e41-822e-998090acd9d5_word19.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\ae804523-d0a6-4e41-822e-998090acd9d5_word20.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\ae804523-d0a6-4e41-822e-998090acd9d5_word21.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\ae804523-d0a6-4e41-822e-998090acd9d5_word22.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\ae804523-d0a6-4e41-822e-998090acd9d5_word23.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\bf7a2e35-48f5-4ef6-be3e-0260fb9d48fd_word1.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\bf7a2e35-48f5-4ef6-be3e-0260fb9d48fd_word2.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\bf7a2e35-48f5-4ef6-be3e-0260fb9d48fd_word3.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\bf7a2e35-48f5-4ef6-be3e-0260fb9d48fd_word4.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\bf7a2e35-48f5-4ef6-be3e-0260fb9d48fd_word5.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\bf7a2e35-48f5-4ef6-be3e-0260fb9d48fd_word6.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\bf7a2e35-48f5-4ef6-be3e-0260fb9d48fd_word7.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\bf7a2e35-48f5-4ef6-be3e-0260fb9d48fd_word8.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\bf7a2e35-48f5-4ef6-be3e-0260fb9d48fd_word9.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\bf7a2e35-48f5-4ef6-be3e-0260fb9d48fd_word10.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\bf7a2e35-48f5-4ef6-be3e-0260fb9d48fd_word11.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\bf7a2e35-48f5-4ef6-be3e-0260fb9d48fd_word12.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\bf7a2e35-48f5-4ef6-be3e-0260fb9d48fd_word13.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\bf7a2e35-48f5-4ef6-be3e-0260fb9d48fd_word14.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\bf7a2e35-48f5-4ef6-be3e-0260fb9d48fd_word15.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\bf7a2e35-48f5-4ef6-be3e-0260fb9d48fd_word16.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\bf7a2e35-48f5-4ef6-be3e-0260fb9d48fd_word17.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\bf7a2e35-48f5-4ef6-be3e-0260fb9d48fd_word18.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\bf7a2e35-48f5-4ef6-be3e-0260fb9d48fd_word19.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\bf7a2e35-48f5-4ef6-be3e-0260fb9d48fd_word20.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\bf7a2e35-48f5-4ef6-be3e-0260fb9d48fd_word21.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\bf7a2e35-48f5-4ef6-be3e-0260fb9d48fd_word22.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\bf7a2e35-48f5-4ef6-be3e-0260fb9d48fd_word23.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\bf7a2e35-48f5-4ef6-be3e-0260fb9d48fd_word24.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\bf7a2e35-48f5-4ef6-be3e-0260fb9d48fd_word25.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\bf7a2e35-48f5-4ef6-be3e-0260fb9d48fd_word26.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\bfc2d381-2281-4c43-8198-a3e853d32472_word1.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\bfc2d381-2281-4c43-8198-a3e853d32472_word2.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\bfc2d381-2281-4c43-8198-a3e853d32472_word3.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\bfc2d381-2281-4c43-8198-a3e853d32472_word4.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\bfc2d381-2281-4c43-8198-a3e853d32472_word5.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\bfc2d381-2281-4c43-8198-a3e853d32472_word6.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\bfc2d381-2281-4c43-8198-a3e853d32472_word7.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\bfc2d381-2281-4c43-8198-a3e853d32472_word8.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\bfc2d381-2281-4c43-8198-a3e853d32472_word9.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\bfc2d381-2281-4c43-8198-a3e853d32472_word10.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\bfc2d381-2281-4c43-8198-a3e853d32472_word11.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\bfc2d381-2281-4c43-8198-a3e853d32472_word12.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\bfc2d381-2281-4c43-8198-a3e853d32472_word13.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\bfc2d381-2281-4c43-8198-a3e853d32472_word14.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\bfc2d381-2281-4c43-8198-a3e853d32472_word15.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\bfc2d381-2281-4c43-8198-a3e853d32472_word16.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\bfc2d381-2281-4c43-8198-a3e853d32472_word17.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\bfc2d381-2281-4c43-8198-a3e853d32472_word18.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\bfc2d381-2281-4c43-8198-a3e853d32472_word19.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\bfc2d381-2281-4c43-8198-a3e853d32472_word20.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\bfc2d381-2281-4c43-8198-a3e853d32472_word21.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\bfc2d381-2281-4c43-8198-a3e853d32472_word22.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\bfc2d381-2281-4c43-8198-a3e853d32472_word23.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\bfc2d381-2281-4c43-8198-a3e853d32472_word24.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word1.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word2.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word3.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word4.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word5.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word6.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word7.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word8.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word9.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word10.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word11.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word12.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word13.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word14.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word15.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word16.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word17.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word18.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word19.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word20.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word21.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word22.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word23.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word24.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word25.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word26.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word27.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word28.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word29.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word30.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word31.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word32.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word33.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word34.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word35.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word36.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word37.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word38.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word39.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word40.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word41.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word42.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\f349ab3d-db93-4ac6-8d48-c5534da4290f_word1.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\f349ab3d-db93-4ac6-8d48-c5534da4290f_word2.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\f349ab3d-db93-4ac6-8d48-c5534da4290f_word3.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\f349ab3d-db93-4ac6-8d48-c5534da4290f_word4.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\f349ab3d-db93-4ac6-8d48-c5534da4290f_word5.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\f349ab3d-db93-4ac6-8d48-c5534da4290f_word6.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\f349ab3d-db93-4ac6-8d48-c5534da4290f_word7.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\f349ab3d-db93-4ac6-8d48-c5534da4290f_word8.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\f349ab3d-db93-4ac6-8d48-c5534da4290f_word9.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\f349ab3d-db93-4ac6-8d48-c5534da4290f_word10.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\f349ab3d-db93-4ac6-8d48-c5534da4290f_word11.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\f349ab3d-db93-4ac6-8d48-c5534da4290f_word12.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\f349ab3d-db93-4ac6-8d48-c5534da4290f_word13.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\f349ab3d-db93-4ac6-8d48-c5534da4290f_word14.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\f349ab3d-db93-4ac6-8d48-c5534da4290f_word15.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    }
+  ]
+}

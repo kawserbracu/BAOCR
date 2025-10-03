@@ -1,0 +1,10 @@
+Total images: 0
+Total annotations (words): 0
+Bengali words: 0
+English words: 0
+Mixed words: 0
+Other words: 0
+
+Images with no annotations: 0
+Empty labels: 0
+Corrupt images (failed to read): 0

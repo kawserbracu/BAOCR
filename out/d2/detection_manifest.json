@@ -1,0 +1,334 @@
+{
+  "images_root": "c:/Users/T2510600/Downloads/BAOCR/d2",
+  "items": [
+    {
+      "image_path": "d2/Unknown-1.jpeg",
+      "width": 1280,
+      "height": 729,
+      "boxes": [],
+      "transcriptions": []
+    },
+    {
+      "image_path": "d2/Unknown-2.jpeg",
+      "width": 1280,
+      "height": 493,
+      "boxes": [],
+      "transcriptions": []
+    },
+    {
+      "image_path": "d2/Unknown-3.jpeg",
+      "width": 1280,
+      "height": 574,
+      "boxes": [],
+      "transcriptions": []
+    },
+    {
+      "image_path": "d2/Unknown-4.jpeg",
+      "width": 1600,
+      "height": 1046,
+      "boxes": [],
+      "transcriptions": []
+    },
+    {
+      "image_path": "d2/Unknown-5.jpeg",
+      "width": 1600,
+      "height": 808,
+      "boxes": [],
+      "transcriptions": []
+    },
+    {
+      "image_path": "d2/Unknown-6.jpeg",
+      "width": 1600,
+      "height": 711,
+      "boxes": [],
+      "transcriptions": []
+    },
+    {
+      "image_path": "d2/Unknown-7.jpeg",
+      "width": 1600,
+      "height": 1120,
+      "boxes": [],
+      "transcriptions": []
+    },
+    {
+      "image_path": "d2/Unknown-8.jpeg",
+      "width": 1280,
+      "height": 411,
+      "boxes": [],
+      "transcriptions": []
+    },
+    {
+      "image_path": "d2/Unknown-9.jpeg",
+      "width": 1280,
+      "height": 411,
+      "boxes": [],
+      "transcriptions": []
+    },
+    {
+      "image_path": "d2/Unknown-10.jpeg",
+      "width": 1600,
+      "height": 845,
+      "boxes": [],
+      "transcriptions": []
+    },
+    {
+      "image_path": "d2/Unknown-11.jpeg",
+      "width": 1600,
+      "height": 404,
+      "boxes": [],
+      "transcriptions": []
+    },
+    {
+      "image_path": "d2/Unknown-12.jpeg",
+      "width": 1280,
+      "height": 480,
+      "boxes": [],
+      "transcriptions": []
+    },
+    {
+      "image_path": "d2/Unknown-13.jpeg",
+      "width": 1600,
+      "height": 837,
+      "boxes": [],
+      "transcriptions": []
+    },
+    {
+      "image_path": "d2/Unknown-14.jpeg",
+      "width": 1600,
+      "height": 1355,
+      "boxes": [],
+      "transcriptions": []
+    },
+    {
+      "image_path": "d2/Unknown-15.jpeg",
+      "width": 1280,
+      "height": 478,
+      "boxes": [],
+      "transcriptions": []
+    },
+    {
+      "image_path": "d2/Unknown-16.jpeg",
+      "width": 1280,
+      "height": 209,
+      "boxes": [],
+      "transcriptions": []
+    },
+    {
+      "image_path": "d2/Unknown-17.jpeg",
+      "width": 1600,
+      "height": 736,
+      "boxes": [],
+      "transcriptions": []
+    },
+    {
+      "image_path": "d2/Unknown-18.jpeg",
+      "width": 1600,
+      "height": 616,
+      "boxes": [],
+      "transcriptions": []
+    },
+    {
+      "image_path": "d2/Unknown-19.jpeg",
+      "width": 1280,
+      "height": 270,
+      "boxes": [],
+      "transcriptions": []
+    },
+    {
+      "image_path": "d2/Unknown-20.jpeg",
+      "width": 1600,
+      "height": 377,
+      "boxes": [],
+      "transcriptions": []
+    },
+    {
+      "image_path": "d2/Unknown-21.jpeg",
+      "width": 1600,
+      "height": 445,
+      "boxes": [],
+      "transcriptions": []
+    },
+    {
+      "image_path": "d2/Unknown-22.jpeg",
+      "width": 1280,
+      "height": 258,
+      "boxes": [],
+      "transcriptions": []
+    },
+    {
+      "image_path": "d2/Unknown-23.jpeg",
+      "width": 1600,
+      "height": 443,
+      "boxes": [],
+      "transcriptions": []
+    },
+    {
+      "image_path": "d2/Unknown-24.jpeg",
+      "width": 1600,
+      "height": 428,
+      "boxes": [],
+      "transcriptions": []
+    },
+    {
+      "image_path": "d2/Unknown-25.jpeg",
+      "width": 1280,
+      "height": 389,
+      "boxes": [],
+      "transcriptions": []
+    },
+    {
+      "image_path": "d2/Unknown-26.jpeg",
+      "width": 1600,
+      "height": 482,
+      "boxes": [],
+      "transcriptions": []
+    },
+    {
+      "image_path": "d2/Unknown-27.jpeg",
+      "width": 1600,
+      "height": 610,
+      "boxes": [],
+      "transcriptions": []
+    },
+    {
+      "image_path": "d2/Unknown-28.jpeg",
+      "width": 1280,
+      "height": 339,
+      "boxes": [],
+      "transcriptions": []
+    },
+    {
+      "image_path": "d2/Unknown-29.jpeg",
+      "width": 1600,
+      "height": 545,
+      "boxes": [],
+      "transcriptions": []
+    },
+    {
+      "image_path": "d2/Unknown-30.jpeg",
+      "width": 1600,
+      "height": 1029,
+      "boxes": [],
+      "transcriptions": []
+    },
+    {
+      "image_path": "d2/Unknown-31.jpeg",
+      "width": 1280,
+      "height": 345,
+      "boxes": [],
+      "transcriptions": []
+    },
+    {
+      "image_path": "d2/Unknown-32.jpeg",
+      "width": 1600,
+      "height": 352,
+      "boxes": [],
+      "transcriptions": []
+    },
+    {
+      "image_path": "d2/Unknown-33.jpeg",
+      "width": 1600,
+      "height": 547,
+      "boxes": [],
+      "transcriptions": []
+    },
+    {
+      "image_path": "d2/Unknown-34.jpeg",
+      "width": 1600,
+      "height": 452,
+      "boxes": [],
+      "transcriptions": []
+    },
+    {
+      "image_path": "d2/Unknown-35.jpeg",
+      "width": 1600,
+      "height": 497,
+      "boxes": [],
+      "transcriptions": []
+    },
+    {
+      "image_path": "d2/Unknown-36.jpeg",
+      "width": 1600,
+      "height": 751,
+      "boxes": [],
+      "transcriptions": []
+    },
+    {
+      "image_path": "d2/Unknown-37.jpeg",
+      "width": 1600,
+      "height": 934,
+      "boxes": [],
+      "transcriptions": []
+    },
+    {
+      "image_path": "d2/Unknown-38.jpeg",
+      "width": 1600,
+      "height": 803,
+      "boxes": [],
+      "transcriptions": []
+    },
+    {
+      "image_path": "d2/Unknown-39.jpeg",
+      "width": 1600,
+      "height": 1470,
+      "boxes": [],
+      "transcriptions": []
+    },
+    {
+      "image_path": "d2/Unknown-40.jpeg",
+      "width": 1600,
+      "height": 763,
+      "boxes": [],
+      "transcriptions": []
+    },
+    {
+      "image_path": "d2/Unknown-41.jpeg",
+      "width": 1280,
+      "height": 579,
+      "boxes": [],
+      "transcriptions": []
+    },
+    {
+      "image_path": "d2/Unknown-42.jpeg",
+      "width": 1280,
+      "height": 582,
+      "boxes": [],
+      "transcriptions": []
+    },
+    {
+      "image_path": "d2/Unknown-43.jpeg",
+      "width": 1600,
+      "height": 788,
+      "boxes": [],
+      "transcriptions": []
+    },
+    {
+      "image_path": "d2/Unknown-44.jpeg",
+      "width": 1600,
+      "height": 1251,
+      "boxes": [],
+      "transcriptions": []
+    },
+    {
+      "image_path": "d2/Unknown-45.jpeg",
+      "width": 1600,
+      "height": 1019,
+      "boxes": [],
+      "transcriptions": []
+    },
+    {
+      "image_path": "d2/Unknown-46.jpeg",
+      "width": 1600,
+      "height": 1182,
+      "boxes": [],
+      "transcriptions": []
+    },
+    {
+      "image_path": "d2/Unknown.jpeg",
+      "width": 1280,
+      "height": 931,
+      "boxes": [],
+      "transcriptions": []
+    }
+  ]
+}

@@ -1,0 +1,7230 @@
+{
+  "items": [
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\0fa5d7d8-9c2c-4d63-bde7-1803dc51da77_word1.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\0fa5d7d8-9c2c-4d63-bde7-1803dc51da77_word2.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\0fa5d7d8-9c2c-4d63-bde7-1803dc51da77_word3.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\0fa5d7d8-9c2c-4d63-bde7-1803dc51da77_word4.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\0fa5d7d8-9c2c-4d63-bde7-1803dc51da77_word5.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\0fa5d7d8-9c2c-4d63-bde7-1803dc51da77_word6.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\0fa5d7d8-9c2c-4d63-bde7-1803dc51da77_word7.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\0fa5d7d8-9c2c-4d63-bde7-1803dc51da77_word8.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\0fa5d7d8-9c2c-4d63-bde7-1803dc51da77_word9.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\0fa5d7d8-9c2c-4d63-bde7-1803dc51da77_word10.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\0fa5d7d8-9c2c-4d63-bde7-1803dc51da77_word11.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\0fa5d7d8-9c2c-4d63-bde7-1803dc51da77_word12.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\0fa5d7d8-9c2c-4d63-bde7-1803dc51da77_word13.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\0fa5d7d8-9c2c-4d63-bde7-1803dc51da77_word14.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\0fa5d7d8-9c2c-4d63-bde7-1803dc51da77_word15.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\0fa5d7d8-9c2c-4d63-bde7-1803dc51da77_word16.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\0fa5d7d8-9c2c-4d63-bde7-1803dc51da77_word17.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\0fa5d7d8-9c2c-4d63-bde7-1803dc51da77_word18.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\0fa5d7d8-9c2c-4d63-bde7-1803dc51da77_word19.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\0fa5d7d8-9c2c-4d63-bde7-1803dc51da77_word20.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\0fa5d7d8-9c2c-4d63-bde7-1803dc51da77_word21.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\0fa5d7d8-9c2c-4d63-bde7-1803dc51da77_word22.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\1b311405-5724-4aee-a8d8-9b58aba62012_word1.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\1b311405-5724-4aee-a8d8-9b58aba62012_word2.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\1b311405-5724-4aee-a8d8-9b58aba62012_word3.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\1b311405-5724-4aee-a8d8-9b58aba62012_word4.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\1b311405-5724-4aee-a8d8-9b58aba62012_word5.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\1b311405-5724-4aee-a8d8-9b58aba62012_word6.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\1b311405-5724-4aee-a8d8-9b58aba62012_word7.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\1b311405-5724-4aee-a8d8-9b58aba62012_word8.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\1b311405-5724-4aee-a8d8-9b58aba62012_word9.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\1b311405-5724-4aee-a8d8-9b58aba62012_word10.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\1b311405-5724-4aee-a8d8-9b58aba62012_word11.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\1b311405-5724-4aee-a8d8-9b58aba62012_word12.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\1b311405-5724-4aee-a8d8-9b58aba62012_word13.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\1b311405-5724-4aee-a8d8-9b58aba62012_word14.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\069fb245-4099-46c5-bc52-a263ccd209ee_word1.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\069fb245-4099-46c5-bc52-a263ccd209ee_word2.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\069fb245-4099-46c5-bc52-a263ccd209ee_word3.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\069fb245-4099-46c5-bc52-a263ccd209ee_word4.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\069fb245-4099-46c5-bc52-a263ccd209ee_word5.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\069fb245-4099-46c5-bc52-a263ccd209ee_word6.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\069fb245-4099-46c5-bc52-a263ccd209ee_word7.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\069fb245-4099-46c5-bc52-a263ccd209ee_word8.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\069fb245-4099-46c5-bc52-a263ccd209ee_word9.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\069fb245-4099-46c5-bc52-a263ccd209ee_word10.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\069fb245-4099-46c5-bc52-a263ccd209ee_word11.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\069fb245-4099-46c5-bc52-a263ccd209ee_word12.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\069fb245-4099-46c5-bc52-a263ccd209ee_word13.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\069fb245-4099-46c5-bc52-a263ccd209ee_word14.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\069fb245-4099-46c5-bc52-a263ccd209ee_word15.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\069fb245-4099-46c5-bc52-a263ccd209ee_word16.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\069fb245-4099-46c5-bc52-a263ccd209ee_word17.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\069fb245-4099-46c5-bc52-a263ccd209ee_word18.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\069fb245-4099-46c5-bc52-a263ccd209ee_word19.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\069fb245-4099-46c5-bc52-a263ccd209ee_word20.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\069fb245-4099-46c5-bc52-a263ccd209ee_word21.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\069fb245-4099-46c5-bc52-a263ccd209ee_word22.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\069fb245-4099-46c5-bc52-a263ccd209ee_word23.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\069fb245-4099-46c5-bc52-a263ccd209ee_word24.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\069fb245-4099-46c5-bc52-a263ccd209ee_word25.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\069fb245-4099-46c5-bc52-a263ccd209ee_word26.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\069fb245-4099-46c5-bc52-a263ccd209ee_word27.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\069fb245-4099-46c5-bc52-a263ccd209ee_word28.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\069fb245-4099-46c5-bc52-a263ccd209ee_word29.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\71e58c5e-8ac6-49c6-9329-9c418d93966f_word1.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\71e58c5e-8ac6-49c6-9329-9c418d93966f_word2.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\71e58c5e-8ac6-49c6-9329-9c418d93966f_word3.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\71e58c5e-8ac6-49c6-9329-9c418d93966f_word4.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\71e58c5e-8ac6-49c6-9329-9c418d93966f_word5.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\71e58c5e-8ac6-49c6-9329-9c418d93966f_word6.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\71e58c5e-8ac6-49c6-9329-9c418d93966f_word7.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\71e58c5e-8ac6-49c6-9329-9c418d93966f_word8.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\71e58c5e-8ac6-49c6-9329-9c418d93966f_word9.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\71e58c5e-8ac6-49c6-9329-9c418d93966f_word10.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\71e58c5e-8ac6-49c6-9329-9c418d93966f_word11.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\71e58c5e-8ac6-49c6-9329-9c418d93966f_word12.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\71e58c5e-8ac6-49c6-9329-9c418d93966f_word13.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\71e58c5e-8ac6-49c6-9329-9c418d93966f_word14.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\71e58c5e-8ac6-49c6-9329-9c418d93966f_word15.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\71e58c5e-8ac6-49c6-9329-9c418d93966f_word16.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\71e58c5e-8ac6-49c6-9329-9c418d93966f_word17.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\71e58c5e-8ac6-49c6-9329-9c418d93966f_word18.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\71e58c5e-8ac6-49c6-9329-9c418d93966f_word19.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\71e58c5e-8ac6-49c6-9329-9c418d93966f_word20.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\71e58c5e-8ac6-49c6-9329-9c418d93966f_word21.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\71e58c5e-8ac6-49c6-9329-9c418d93966f_word22.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\71e58c5e-8ac6-49c6-9329-9c418d93966f_word23.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\71e58c5e-8ac6-49c6-9329-9c418d93966f_word24.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\71e58c5e-8ac6-49c6-9329-9c418d93966f_word25.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\71e58c5e-8ac6-49c6-9329-9c418d93966f_word26.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\71e58c5e-8ac6-49c6-9329-9c418d93966f_word27.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\71e58c5e-8ac6-49c6-9329-9c418d93966f_word28.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\71e58c5e-8ac6-49c6-9329-9c418d93966f_word29.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\71e58c5e-8ac6-49c6-9329-9c418d93966f_word30.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\71e58c5e-8ac6-49c6-9329-9c418d93966f_word31.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\71e58c5e-8ac6-49c6-9329-9c418d93966f_word32.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\71e58c5e-8ac6-49c6-9329-9c418d93966f_word33.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\71e58c5e-8ac6-49c6-9329-9c418d93966f_word34.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\71e58c5e-8ac6-49c6-9329-9c418d93966f_word35.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\71e58c5e-8ac6-49c6-9329-9c418d93966f_word36.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\71e58c5e-8ac6-49c6-9329-9c418d93966f_word37.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\71e58c5e-8ac6-49c6-9329-9c418d93966f_word38.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\86b0337d-a9e6-4d0e-9e04-55d7c46f4c6d_word1.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\86b0337d-a9e6-4d0e-9e04-55d7c46f4c6d_word2.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\86b0337d-a9e6-4d0e-9e04-55d7c46f4c6d_word3.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\86b0337d-a9e6-4d0e-9e04-55d7c46f4c6d_word4.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\86b0337d-a9e6-4d0e-9e04-55d7c46f4c6d_word5.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\86b0337d-a9e6-4d0e-9e04-55d7c46f4c6d_word6.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\86b0337d-a9e6-4d0e-9e04-55d7c46f4c6d_word7.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\86b0337d-a9e6-4d0e-9e04-55d7c46f4c6d_word8.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\86b0337d-a9e6-4d0e-9e04-55d7c46f4c6d_word9.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\86b0337d-a9e6-4d0e-9e04-55d7c46f4c6d_word10.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\86b0337d-a9e6-4d0e-9e04-55d7c46f4c6d_word11.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\86b0337d-a9e6-4d0e-9e04-55d7c46f4c6d_word12.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\86b0337d-a9e6-4d0e-9e04-55d7c46f4c6d_word13.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\86b0337d-a9e6-4d0e-9e04-55d7c46f4c6d_word14.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\86b0337d-a9e6-4d0e-9e04-55d7c46f4c6d_word15.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\86b0337d-a9e6-4d0e-9e04-55d7c46f4c6d_word16.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\86b0337d-a9e6-4d0e-9e04-55d7c46f4c6d_word17.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\86b0337d-a9e6-4d0e-9e04-55d7c46f4c6d_word18.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\8018e8b8-2f0c-4d29-9e40-f0b10d84451e_word1.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\8018e8b8-2f0c-4d29-9e40-f0b10d84451e_word2.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\8018e8b8-2f0c-4d29-9e40-f0b10d84451e_word3.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\8018e8b8-2f0c-4d29-9e40-f0b10d84451e_word4.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\8018e8b8-2f0c-4d29-9e40-f0b10d84451e_word5.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\8018e8b8-2f0c-4d29-9e40-f0b10d84451e_word6.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\8018e8b8-2f0c-4d29-9e40-f0b10d84451e_word7.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\8018e8b8-2f0c-4d29-9e40-f0b10d84451e_word8.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\8018e8b8-2f0c-4d29-9e40-f0b10d84451e_word9.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\8018e8b8-2f0c-4d29-9e40-f0b10d84451e_word10.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\8018e8b8-2f0c-4d29-9e40-f0b10d84451e_word11.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\8018e8b8-2f0c-4d29-9e40-f0b10d84451e_word12.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\8018e8b8-2f0c-4d29-9e40-f0b10d84451e_word13.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\8018e8b8-2f0c-4d29-9e40-f0b10d84451e_word14.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\8018e8b8-2f0c-4d29-9e40-f0b10d84451e_word15.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\8018e8b8-2f0c-4d29-9e40-f0b10d84451e_word16.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\21462bce-6be5-49b1-b151-237b72b250e2_word1.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\21462bce-6be5-49b1-b151-237b72b250e2_word2.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\21462bce-6be5-49b1-b151-237b72b250e2_word3.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\21462bce-6be5-49b1-b151-237b72b250e2_word4.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\21462bce-6be5-49b1-b151-237b72b250e2_word5.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\21462bce-6be5-49b1-b151-237b72b250e2_word6.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\21462bce-6be5-49b1-b151-237b72b250e2_word7.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\21462bce-6be5-49b1-b151-237b72b250e2_word8.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\21462bce-6be5-49b1-b151-237b72b250e2_word9.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\21462bce-6be5-49b1-b151-237b72b250e2_word10.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\21462bce-6be5-49b1-b151-237b72b250e2_word11.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\21462bce-6be5-49b1-b151-237b72b250e2_word12.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\21462bce-6be5-49b1-b151-237b72b250e2_word13.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\21462bce-6be5-49b1-b151-237b72b250e2_word14.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\21462bce-6be5-49b1-b151-237b72b250e2_word15.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\21462bce-6be5-49b1-b151-237b72b250e2_word16.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\21462bce-6be5-49b1-b151-237b72b250e2_word17.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\21462bce-6be5-49b1-b151-237b72b250e2_word18.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\21462bce-6be5-49b1-b151-237b72b250e2_word19.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\21462bce-6be5-49b1-b151-237b72b250e2_word20.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\21462bce-6be5-49b1-b151-237b72b250e2_word21.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\21462bce-6be5-49b1-b151-237b72b250e2_word22.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\21462bce-6be5-49b1-b151-237b72b250e2_word23.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\21462bce-6be5-49b1-b151-237b72b250e2_word24.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\21462bce-6be5-49b1-b151-237b72b250e2_word25.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\21462bce-6be5-49b1-b151-237b72b250e2_word26.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\21462bce-6be5-49b1-b151-237b72b250e2_word27.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\21462bce-6be5-49b1-b151-237b72b250e2_word28.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\21462bce-6be5-49b1-b151-237b72b250e2_word29.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\21462bce-6be5-49b1-b151-237b72b250e2_word30.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\21462bce-6be5-49b1-b151-237b72b250e2_word31.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\21462bce-6be5-49b1-b151-237b72b250e2_word32.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\21462bce-6be5-49b1-b151-237b72b250e2_word33.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\21462bce-6be5-49b1-b151-237b72b250e2_word34.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\21462bce-6be5-49b1-b151-237b72b250e2_word35.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\21462bce-6be5-49b1-b151-237b72b250e2_word36.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\21462bce-6be5-49b1-b151-237b72b250e2_word37.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\af7b7455-8a29-4d84-875c-63a27d3cd7dd_word1.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\af7b7455-8a29-4d84-875c-63a27d3cd7dd_word2.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\af7b7455-8a29-4d84-875c-63a27d3cd7dd_word3.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\af7b7455-8a29-4d84-875c-63a27d3cd7dd_word4.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\af7b7455-8a29-4d84-875c-63a27d3cd7dd_word5.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\af7b7455-8a29-4d84-875c-63a27d3cd7dd_word6.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\af7b7455-8a29-4d84-875c-63a27d3cd7dd_word7.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\af7b7455-8a29-4d84-875c-63a27d3cd7dd_word8.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\af7b7455-8a29-4d84-875c-63a27d3cd7dd_word9.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\af7b7455-8a29-4d84-875c-63a27d3cd7dd_word10.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\af7b7455-8a29-4d84-875c-63a27d3cd7dd_word11.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\af7b7455-8a29-4d84-875c-63a27d3cd7dd_word12.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\af7b7455-8a29-4d84-875c-63a27d3cd7dd_word13.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\af7b7455-8a29-4d84-875c-63a27d3cd7dd_word14.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\af7b7455-8a29-4d84-875c-63a27d3cd7dd_word15.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\af7b7455-8a29-4d84-875c-63a27d3cd7dd_word16.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\af7b7455-8a29-4d84-875c-63a27d3cd7dd_word17.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\af7b7455-8a29-4d84-875c-63a27d3cd7dd_word18.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\af7b7455-8a29-4d84-875c-63a27d3cd7dd_word19.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\af7b7455-8a29-4d84-875c-63a27d3cd7dd_word20.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\af7b7455-8a29-4d84-875c-63a27d3cd7dd_word21.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\af7b7455-8a29-4d84-875c-63a27d3cd7dd_word22.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\af7b7455-8a29-4d84-875c-63a27d3cd7dd_word23.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\af7b7455-8a29-4d84-875c-63a27d3cd7dd_word24.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\af7b7455-8a29-4d84-875c-63a27d3cd7dd_word25.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\af7b7455-8a29-4d84-875c-63a27d3cd7dd_word26.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\af7b7455-8a29-4d84-875c-63a27d3cd7dd_word27.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\af7b7455-8a29-4d84-875c-63a27d3cd7dd_word28.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\af7b7455-8a29-4d84-875c-63a27d3cd7dd_word29.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\af7b7455-8a29-4d84-875c-63a27d3cd7dd_word30.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\af7b7455-8a29-4d84-875c-63a27d3cd7dd_word31.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\af7b7455-8a29-4d84-875c-63a27d3cd7dd_word32.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\af7b7455-8a29-4d84-875c-63a27d3cd7dd_word33.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\af7b7455-8a29-4d84-875c-63a27d3cd7dd_word34.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\af7b7455-8a29-4d84-875c-63a27d3cd7dd_word35.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\af7b7455-8a29-4d84-875c-63a27d3cd7dd_word36.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\af7b7455-8a29-4d84-875c-63a27d3cd7dd_word37.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\af7b7455-8a29-4d84-875c-63a27d3cd7dd_word38.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\af7b7455-8a29-4d84-875c-63a27d3cd7dd_word39.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\af7b7455-8a29-4d84-875c-63a27d3cd7dd_word40.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\af7b7455-8a29-4d84-875c-63a27d3cd7dd_word41.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\af7b7455-8a29-4d84-875c-63a27d3cd7dd_word42.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\af7b7455-8a29-4d84-875c-63a27d3cd7dd_word43.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\cb529533-abde-4492-965d-1eccb877728a_word1.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\cb529533-abde-4492-965d-1eccb877728a_word2.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\cb529533-abde-4492-965d-1eccb877728a_word3.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\cb529533-abde-4492-965d-1eccb877728a_word4.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\cb529533-abde-4492-965d-1eccb877728a_word5.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\cb529533-abde-4492-965d-1eccb877728a_word6.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\cb529533-abde-4492-965d-1eccb877728a_word7.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\cb529533-abde-4492-965d-1eccb877728a_word8.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\cb529533-abde-4492-965d-1eccb877728a_word9.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\cb529533-abde-4492-965d-1eccb877728a_word10.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\cb529533-abde-4492-965d-1eccb877728a_word11.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\cb529533-abde-4492-965d-1eccb877728a_word12.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\cb529533-abde-4492-965d-1eccb877728a_word13.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\cb529533-abde-4492-965d-1eccb877728a_word14.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\cb529533-abde-4492-965d-1eccb877728a_word15.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\cb529533-abde-4492-965d-1eccb877728a_word16.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\f5160769-3e1c-446f-ac23-84acad4b9bbc_word1.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\f5160769-3e1c-446f-ac23-84acad4b9bbc_word2.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\f5160769-3e1c-446f-ac23-84acad4b9bbc_word3.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\f5160769-3e1c-446f-ac23-84acad4b9bbc_word4.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\f5160769-3e1c-446f-ac23-84acad4b9bbc_word5.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\f5160769-3e1c-446f-ac23-84acad4b9bbc_word6.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\f5160769-3e1c-446f-ac23-84acad4b9bbc_word7.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\f5160769-3e1c-446f-ac23-84acad4b9bbc_word8.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\f5160769-3e1c-446f-ac23-84acad4b9bbc_word9.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\f5160769-3e1c-446f-ac23-84acad4b9bbc_word10.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\f5160769-3e1c-446f-ac23-84acad4b9bbc_word11.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\f5160769-3e1c-446f-ac23-84acad4b9bbc_word12.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\f5160769-3e1c-446f-ac23-84acad4b9bbc_word13.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\f5160769-3e1c-446f-ac23-84acad4b9bbc_word14.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\f5160769-3e1c-446f-ac23-84acad4b9bbc_word15.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\f5160769-3e1c-446f-ac23-84acad4b9bbc_word16.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\f5160769-3e1c-446f-ac23-84acad4b9bbc_word17.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\f5160769-3e1c-446f-ac23-84acad4b9bbc_word18.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\f5160769-3e1c-446f-ac23-84acad4b9bbc_word19.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\f5160769-3e1c-446f-ac23-84acad4b9bbc_word20.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\f5160769-3e1c-446f-ac23-84acad4b9bbc_word21.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\f5160769-3e1c-446f-ac23-84acad4b9bbc_word22.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\f5160769-3e1c-446f-ac23-84acad4b9bbc_word23.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\f5160769-3e1c-446f-ac23-84acad4b9bbc_word24.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\f5160769-3e1c-446f-ac23-84acad4b9bbc_word25.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\f5160769-3e1c-446f-ac23-84acad4b9bbc_word26.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\f5160769-3e1c-446f-ac23-84acad4b9bbc_word27.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\f5160769-3e1c-446f-ac23-84acad4b9bbc_word28.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\f5160769-3e1c-446f-ac23-84acad4b9bbc_word29.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\f5160769-3e1c-446f-ac23-84acad4b9bbc_word30.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\f5160769-3e1c-446f-ac23-84acad4b9bbc_word31.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\f5160769-3e1c-446f-ac23-84acad4b9bbc_word32.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\f5160769-3e1c-446f-ac23-84acad4b9bbc_word33.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\8ffd7188-42b8-4aec-b791-1b39efefa01e_word1.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\8ffd7188-42b8-4aec-b791-1b39efefa01e_word2.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\8ffd7188-42b8-4aec-b791-1b39efefa01e_word3.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\8ffd7188-42b8-4aec-b791-1b39efefa01e_word4.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\8ffd7188-42b8-4aec-b791-1b39efefa01e_word5.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\8ffd7188-42b8-4aec-b791-1b39efefa01e_word6.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\8ffd7188-42b8-4aec-b791-1b39efefa01e_word7.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\8ffd7188-42b8-4aec-b791-1b39efefa01e_word8.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\8ffd7188-42b8-4aec-b791-1b39efefa01e_word9.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\8ffd7188-42b8-4aec-b791-1b39efefa01e_word10.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\8ffd7188-42b8-4aec-b791-1b39efefa01e_word11.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\8ffd7188-42b8-4aec-b791-1b39efefa01e_word12.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\8ffd7188-42b8-4aec-b791-1b39efefa01e_word13.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\8ffd7188-42b8-4aec-b791-1b39efefa01e_word14.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\8ffd7188-42b8-4aec-b791-1b39efefa01e_word15.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\8ffd7188-42b8-4aec-b791-1b39efefa01e_word16.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\8ffd7188-42b8-4aec-b791-1b39efefa01e_word17.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\8ffd7188-42b8-4aec-b791-1b39efefa01e_word18.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\8ffd7188-42b8-4aec-b791-1b39efefa01e_word19.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\8ffd7188-42b8-4aec-b791-1b39efefa01e_word20.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\8ffd7188-42b8-4aec-b791-1b39efefa01e_word21.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\bfc2d381-2281-4c43-8198-a3e853d32472_word1.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\bfc2d381-2281-4c43-8198-a3e853d32472_word2.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\bfc2d381-2281-4c43-8198-a3e853d32472_word3.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\bfc2d381-2281-4c43-8198-a3e853d32472_word4.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\bfc2d381-2281-4c43-8198-a3e853d32472_word5.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\bfc2d381-2281-4c43-8198-a3e853d32472_word6.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\bfc2d381-2281-4c43-8198-a3e853d32472_word7.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\bfc2d381-2281-4c43-8198-a3e853d32472_word8.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\bfc2d381-2281-4c43-8198-a3e853d32472_word9.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\bfc2d381-2281-4c43-8198-a3e853d32472_word10.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\bfc2d381-2281-4c43-8198-a3e853d32472_word11.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\bfc2d381-2281-4c43-8198-a3e853d32472_word12.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\bfc2d381-2281-4c43-8198-a3e853d32472_word13.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\bfc2d381-2281-4c43-8198-a3e853d32472_word14.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\bfc2d381-2281-4c43-8198-a3e853d32472_word15.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\bfc2d381-2281-4c43-8198-a3e853d32472_word16.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\bfc2d381-2281-4c43-8198-a3e853d32472_word17.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\bfc2d381-2281-4c43-8198-a3e853d32472_word18.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\bfc2d381-2281-4c43-8198-a3e853d32472_word19.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\bfc2d381-2281-4c43-8198-a3e853d32472_word20.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\bfc2d381-2281-4c43-8198-a3e853d32472_word21.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\bfc2d381-2281-4c43-8198-a3e853d32472_word22.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\bfc2d381-2281-4c43-8198-a3e853d32472_word23.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\bfc2d381-2281-4c43-8198-a3e853d32472_word24.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word1.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word2.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word3.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word4.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word5.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word6.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word7.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word8.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word9.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word10.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word11.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word12.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word13.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word14.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word15.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word16.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word17.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word18.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word19.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word20.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word21.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word22.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word23.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word24.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word25.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word26.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word27.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word28.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word29.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word30.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word31.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word32.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word33.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word34.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word35.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word36.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word37.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word38.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word39.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word40.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word41.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d1_conv\\crops\\d8203c62-7be7-486c-9ee8-b02b577090ed_word42.jpg",
+      "word_text": "",
+      "char_indices": [],
+      "word_length": 0,
+      "language": "english"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word1.jpg",
+      "word_text": "অসুস্থ",
+      "char_indices": [
+        3,
+        54,
+        59,
+        54,
+        71,
+        35
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word2.jpg",
+      "word_text": "হয়ে",
+      "char_indices": [
+        55,
+        45,
+        2,
+        65
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word3.jpg",
+      "word_text": "হাসপাতালে",
+      "char_indices": [
+        55,
+        56,
+        54,
+        40,
+        56,
+        34,
+        56,
+        48,
+        65
+      ],
+      "word_length": 9,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word4.jpg",
+      "word_text": "ভর্তি",
+      "char_indices": [
+        43,
+        46,
+        71,
+        34,
+        57
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word5.jpg",
+      "word_text": "গায়ক",
+      "char_indices": [
+        21,
+        56,
+        45,
+        2,
+        19
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word6.jpg",
+      "word_text": "সুরজিৎ",
+      "char_indices": [
+        54,
+        59,
+        46,
+        26,
+        57,
+        2
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word7.jpg",
+      "word_text": "চট্টোপাধ্যায়",
+      "char_indices": [
+        24,
+        29,
+        71,
+        29,
+        69,
+        40,
+        56,
+        37,
+        71,
+        45,
+        56,
+        45,
+        2
+      ],
+      "word_length": 13,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word8.jpg",
+      "word_text": "যদিও",
+      "char_indices": [
+        45,
+        36,
+        57,
+        17
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word9.jpg",
+      "word_text": "পরিবার",
+      "char_indices": [
+        40,
+        46,
+        57,
+        42,
+        56,
+        46
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word10.jpg",
+      "word_text": "সূত্রে",
+      "char_indices": [
+        54,
+        60,
+        34,
+        71,
+        46,
+        65
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word11.jpg",
+      "word_text": "খবর",
+      "char_indices": [
+        20,
+        42,
+        46
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word12.jpg",
+      "word_text": "উদ্বেগের",
+      "char_indices": [
+        7,
+        36,
+        71,
+        42,
+        65,
+        21,
+        65,
+        46
+      ],
+      "word_length": 8,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word13.jpg",
+      "word_text": "কোনও",
+      "char_indices": [
+        19,
+        69,
+        38,
+        17
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word14.jpg",
+      "word_text": "কারণ",
+      "char_indices": [
+        19,
+        56,
+        46,
+        33
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word15.jpg",
+      "word_text": "নেই",
+      "char_indices": [
+        38,
+        65,
+        5
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word16.jpg",
+      "word_text": "আগের",
+      "char_indices": [
+        4,
+        21,
+        65,
+        46
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word17.jpg",
+      "word_text": "থেকে",
+      "char_indices": [
+        35,
+        65,
+        19,
+        65
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word18.jpg",
+      "word_text": "সুস্থ",
+      "char_indices": [
+        54,
+        59,
+        54,
+        71,
+        35
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word19.jpg",
+      "word_text": "রয়েছেন",
+      "char_indices": [
+        46,
+        45,
+        2,
+        65,
+        25,
+        65,
+        38
+      ],
+      "word_length": 7,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word20.jpg",
+      "word_text": "তিনি",
+      "char_indices": [
+        34,
+        57,
+        38,
+        57
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word21.jpg",
+      "word_text": "আগামীকাল",
+      "char_indices": [
+        4,
+        21,
+        56,
+        44,
+        58,
+        19,
+        56,
+        48
+      ],
+      "word_length": 8,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word22.jpg",
+      "word_text": "তাঁকে",
+      "char_indices": [
+        34,
+        56,
+        72,
+        19,
+        65
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word23.jpg",
+      "word_text": "হাসপাতাল",
+      "char_indices": [
+        55,
+        56,
+        54,
+        40,
+        56,
+        34,
+        56,
+        48
+      ],
+      "word_length": 8,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word24.jpg",
+      "word_text": "থেকে",
+      "char_indices": [
+        35,
+        65,
+        19,
+        65
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word25.jpg",
+      "word_text": "ছাড়া",
+      "char_indices": [
+        25,
+        56,
+        31,
+        2,
+        56
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word26.jpg",
+      "word_text": "হতে",
+      "char_indices": [
+        55,
+        34,
+        65
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word27.jpg",
+      "word_text": "পারে",
+      "char_indices": [
+        40,
+        56,
+        46,
+        65
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word28.jpg",
+      "word_text": "অসুস্থ",
+      "char_indices": [
+        3,
+        54,
+        59,
+        54,
+        71,
+        35
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word29.jpg",
+      "word_text": "গায়ক",
+      "char_indices": [
+        21,
+        56,
+        45,
+        2,
+        19
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word30.jpg",
+      "word_text": "সুরজিৎ",
+      "char_indices": [
+        54,
+        59,
+        46,
+        26,
+        57,
+        2
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word31.jpg",
+      "word_text": "চট্টোপাধ্যায়",
+      "char_indices": [
+        24,
+        29,
+        71,
+        29,
+        69,
+        40,
+        56,
+        37,
+        71,
+        45,
+        56,
+        45,
+        2
+      ],
+      "word_length": 13,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word32.jpg",
+      "word_text": "ভর্তি",
+      "char_indices": [
+        43,
+        46,
+        71,
+        34,
+        57
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word33.jpg",
+      "word_text": "রয়েছেন",
+      "char_indices": [
+        46,
+        45,
+        2,
+        65,
+        25,
+        65,
+        38
+      ],
+      "word_length": 7,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word34.jpg",
+      "word_text": "বাইপাসের",
+      "char_indices": [
+        42,
+        56,
+        5,
+        40,
+        56,
+        54,
+        65,
+        46
+      ],
+      "word_length": 8,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word35.jpg",
+      "word_text": "ধারে",
+      "char_indices": [
+        37,
+        56,
+        46,
+        65
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word36.jpg",
+      "word_text": "একটি",
+      "char_indices": [
+        13,
+        19,
+        29,
+        57
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word37.jpg",
+      "word_text": "বেসরকারি",
+      "char_indices": [
+        42,
+        65,
+        54,
+        46,
+        19,
+        56,
+        46,
+        57
+      ],
+      "word_length": 8,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word38.jpg",
+      "word_text": "হাসপাতালে",
+      "char_indices": [
+        55,
+        56,
+        54,
+        40,
+        56,
+        34,
+        56,
+        48,
+        65
+      ],
+      "word_length": 9,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word39.jpg",
+      "word_text": "তাঁর",
+      "char_indices": [
+        34,
+        56,
+        72,
+        46
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word40.jpg",
+      "word_text": "রানাঘাটে",
+      "char_indices": [
+        46,
+        56,
+        38,
+        56,
+        22,
+        56,
+        29,
+        65
+      ],
+      "word_length": 8,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word41.jpg",
+      "word_text": "বাংলা",
+      "char_indices": [
+        42,
+        56,
+        73,
+        48,
+        56
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word42.jpg",
+      "word_text": "মোদের",
+      "char_indices": [
+        44,
+        69,
+        36,
+        65,
+        46
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word43.jpg",
+      "word_text": "গর্ব",
+      "char_indices": [
+        21,
+        46,
+        71,
+        42
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word44.jpg",
+      "word_text": "এ",
+      "char_indices": [
+        13
+      ],
+      "word_length": 1,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word45.jpg",
+      "word_text": "উপস্থিত",
+      "char_indices": [
+        7,
+        40,
+        54,
+        71,
+        35,
+        57,
+        34
+      ],
+      "word_length": 7,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word46.jpg",
+      "word_text": "থাকার",
+      "char_indices": [
+        35,
+        56,
+        19,
+        56,
+        46
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word47.jpg",
+      "word_text": "কথা",
+      "char_indices": [
+        19,
+        35,
+        56
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word48.jpg",
+      "word_text": "ছিল",
+      "char_indices": [
+        25,
+        57,
+        48
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word49.jpg",
+      "word_text": "কিন্তু",
+      "char_indices": [
+        19,
+        57,
+        38,
+        71,
+        34,
+        59
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word50.jpg",
+      "word_text": "তাঁর",
+      "char_indices": [
+        34,
+        56,
+        72,
+        46
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word51.jpg",
+      "word_text": "শারীরিক",
+      "char_indices": [
+        52,
+        56,
+        46,
+        58,
+        46,
+        57,
+        19
+      ],
+      "word_length": 7,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word52.jpg",
+      "word_text": "অসুস্থতার",
+      "char_indices": [
+        3,
+        54,
+        59,
+        54,
+        71,
+        35,
+        34,
+        56,
+        46
+      ],
+      "word_length": 9,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word53.jpg",
+      "word_text": "কারণে",
+      "char_indices": [
+        19,
+        56,
+        46,
+        33,
+        65
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word54.jpg",
+      "word_text": "তিনি",
+      "char_indices": [
+        34,
+        57,
+        38,
+        57
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word55.jpg",
+      "word_text": "অংশ",
+      "char_indices": [
+        3,
+        73,
+        52
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word56.jpg",
+      "word_text": "নিতে",
+      "char_indices": [
+        38,
+        57,
+        34,
+        65
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word57.jpg",
+      "word_text": "পারছেন",
+      "char_indices": [
+        40,
+        56,
+        46,
+        25,
+        65,
+        38
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word58.jpg",
+      "word_text": "না",
+      "char_indices": [
+        38,
+        56
+      ],
+      "word_length": 2,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word59.jpg",
+      "word_text": "এই",
+      "char_indices": [
+        13,
+        5
+      ],
+      "word_length": 2,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word60.jpg",
+      "word_text": "অনুষ্ঠানে",
+      "char_indices": [
+        3,
+        38,
+        59,
+        53,
+        71,
+        30,
+        56,
+        38,
+        65
+      ],
+      "word_length": 9,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word61.jpg",
+      "word_text": "এমনটাই",
+      "char_indices": [
+        13,
+        44,
+        38,
+        29,
+        56,
+        5
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word62.jpg",
+      "word_text": "জানানো",
+      "char_indices": [
+        26,
+        56,
+        38,
+        56,
+        38,
+        69
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word63.jpg",
+      "word_text": "হয়েছে",
+      "char_indices": [
+        55,
+        45,
+        2,
+        65,
+        25,
+        65
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word64.jpg",
+      "word_text": "তথ্যও",
+      "char_indices": [
+        34,
+        35,
+        71,
+        45,
+        17
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word65.jpg",
+      "word_text": "সংস্কৃতি",
+      "char_indices": [
+        54,
+        73,
+        54,
+        71,
+        19,
+        61,
+        34,
+        57
+      ],
+      "word_length": 8,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word66.jpg",
+      "word_text": "বিভাগের",
+      "char_indices": [
+        42,
+        57,
+        43,
+        56,
+        21,
+        65,
+        46
+      ],
+      "word_length": 7,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word67.jpg",
+      "word_text": "পক্ষ",
+      "char_indices": [
+        40,
+        19,
+        71,
+        53
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word68.jpg",
+      "word_text": "থেকে",
+      "char_indices": [
+        35,
+        65,
+        19,
+        65
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word69.jpg",
+      "word_text": "তাঁর",
+      "char_indices": [
+        34,
+        56,
+        72,
+        46
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word70.jpg",
+      "word_text": "পরিবর্তে",
+      "char_indices": [
+        40,
+        46,
+        57,
+        42,
+        46,
+        71,
+        34,
+        65
+      ],
+      "word_length": 8,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word71.jpg",
+      "word_text": "এই",
+      "char_indices": [
+        13,
+        5
+      ],
+      "word_length": 2,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word72.jpg",
+      "word_text": "অনুষ্ঠানে",
+      "char_indices": [
+        3,
+        38,
+        59,
+        53,
+        71,
+        30,
+        56,
+        38,
+        65
+      ],
+      "word_length": 9,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word73.jpg",
+      "word_text": "অংশ",
+      "char_indices": [
+        3,
+        73,
+        52
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word74.jpg",
+      "word_text": "নেবেন",
+      "char_indices": [
+        38,
+        65,
+        42,
+        65,
+        38
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word75.jpg",
+      "word_text": "শিল্পী",
+      "char_indices": [
+        52,
+        57,
+        48,
+        71,
+        40,
+        58
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word76.jpg",
+      "word_text": "অরিজিৎ",
+      "char_indices": [
+        3,
+        46,
+        57,
+        26,
+        57,
+        2
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word77.jpg",
+      "word_text": "চক্রবর্তী",
+      "char_indices": [
+        24,
+        19,
+        71,
+        46,
+        42,
+        46,
+        71,
+        34,
+        58
+      ],
+      "word_length": 9,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word78.jpg",
+      "word_text": "পরিবার",
+      "char_indices": [
+        40,
+        46,
+        57,
+        42,
+        56,
+        46
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word79.jpg",
+      "word_text": "সূত্রে",
+      "char_indices": [
+        54,
+        60,
+        34,
+        71,
+        46,
+        65
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word80.jpg",
+      "word_text": "খবর",
+      "char_indices": [
+        20,
+        42,
+        46
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word81.jpg",
+      "word_text": "ফুড",
+      "char_indices": [
+        41,
+        59,
+        31
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word82.jpg",
+      "word_text": "পয়জনিং",
+      "char_indices": [
+        40,
+        45,
+        2,
+        26,
+        38,
+        57,
+        73
+      ],
+      "word_length": 7,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word83.jpg",
+      "word_text": "এর",
+      "char_indices": [
+        13,
+        46
+      ],
+      "word_length": 2,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word84.jpg",
+      "word_text": "জন্য",
+      "char_indices": [
+        26,
+        38,
+        71,
+        45
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word85.jpg",
+      "word_text": "অসুস্থ",
+      "char_indices": [
+        3,
+        54,
+        59,
+        54,
+        71,
+        35
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word86.jpg",
+      "word_text": "হয়ে",
+      "char_indices": [
+        55,
+        45,
+        2,
+        65
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word87.jpg",
+      "word_text": "পড়েছেন",
+      "char_indices": [
+        40,
+        31,
+        2,
+        65,
+        25,
+        65,
+        38
+      ],
+      "word_length": 7,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word88.jpg",
+      "word_text": "তিনি",
+      "char_indices": [
+        34,
+        57,
+        38,
+        57
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word89.jpg",
+      "word_text": "তাঁকে",
+      "char_indices": [
+        34,
+        56,
+        72,
+        19,
+        65
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word90.jpg",
+      "word_text": "রবি",
+      "char_indices": [
+        46,
+        42,
+        57
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word91.jpg",
+      "word_text": "ঠাকুর",
+      "char_indices": [
+        30,
+        56,
+        19,
+        59,
+        46
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word92.jpg",
+      "word_text": "মোড়ের",
+      "char_indices": [
+        44,
+        69,
+        31,
+        2,
+        65,
+        46
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word93.jpg",
+      "word_text": "কাছে",
+      "char_indices": [
+        19,
+        56,
+        25,
+        65
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word94.jpg",
+      "word_text": "একটি",
+      "char_indices": [
+        13,
+        19,
+        29,
+        57
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word95.jpg",
+      "word_text": "বেসরকারি",
+      "char_indices": [
+        42,
+        65,
+        54,
+        46,
+        19,
+        56,
+        46,
+        57
+      ],
+      "word_length": 8,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word96.jpg",
+      "word_text": "হাসপাতালে",
+      "char_indices": [
+        55,
+        56,
+        54,
+        40,
+        56,
+        34,
+        56,
+        48,
+        65
+      ],
+      "word_length": 9,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word97.jpg",
+      "word_text": "ভর্তি",
+      "char_indices": [
+        43,
+        46,
+        71,
+        34,
+        57
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word98.jpg",
+      "word_text": "করা",
+      "char_indices": [
+        19,
+        46,
+        56
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word99.jpg",
+      "word_text": "হয়েছে",
+      "char_indices": [
+        55,
+        45,
+        2,
+        65,
+        25,
+        65
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word100.jpg",
+      "word_text": "তবে",
+      "char_indices": [
+        34,
+        42,
+        65
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word101.jpg",
+      "word_text": "ভক্তদের",
+      "char_indices": [
+        43,
+        19,
+        71,
+        34,
+        36,
+        65,
+        46
+      ],
+      "word_length": 7,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word102.jpg",
+      "word_text": "উদ্বেগের",
+      "char_indices": [
+        7,
+        36,
+        71,
+        42,
+        65,
+        21,
+        65,
+        46
+      ],
+      "word_length": 8,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word103.jpg",
+      "word_text": "কোনও",
+      "char_indices": [
+        19,
+        69,
+        38,
+        17
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word104.jpg",
+      "word_text": "কারণ",
+      "char_indices": [
+        19,
+        56,
+        46,
+        33
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word105.jpg",
+      "word_text": "নেই",
+      "char_indices": [
+        38,
+        65,
+        5
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word106.jpg",
+      "word_text": "সুস্থ",
+      "char_indices": [
+        54,
+        59,
+        54,
+        71,
+        35
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word107.jpg",
+      "word_text": "আছেন",
+      "char_indices": [
+        4,
+        25,
+        65,
+        38
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word108.jpg",
+      "word_text": "গায়ক",
+      "char_indices": [
+        21,
+        56,
+        45,
+        2,
+        19
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word109.jpg",
+      "word_text": "এবং",
+      "char_indices": [
+        13,
+        42,
+        73
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word110.jpg",
+      "word_text": "আগামীকাল",
+      "char_indices": [
+        4,
+        21,
+        56,
+        44,
+        58,
+        19,
+        56,
+        48
+      ],
+      "word_length": 8,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word111.jpg",
+      "word_text": "অর্থাৎ",
+      "char_indices": [
+        3,
+        46,
+        71,
+        35,
+        56,
+        2
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word112.jpg",
+      "word_text": "সোমবার",
+      "char_indices": [
+        54,
+        69,
+        44,
+        42,
+        56,
+        46
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word113.jpg",
+      "word_text": "তাঁকে",
+      "char_indices": [
+        34,
+        56,
+        72,
+        19,
+        65
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word114.jpg",
+      "word_text": "ছেড়ে",
+      "char_indices": [
+        25,
+        65,
+        31,
+        2,
+        65
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word115.jpg",
+      "word_text": "দেওয়া",
+      "char_indices": [
+        36,
+        65,
+        17,
+        45,
+        2,
+        56
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word116.jpg",
+      "word_text": "হতে",
+      "char_indices": [
+        55,
+        34,
+        65
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word117.jpg",
+      "word_text": "পারে",
+      "char_indices": [
+        40,
+        56,
+        46,
+        65
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word118.jpg",
+      "word_text": "হাসপাতালের",
+      "char_indices": [
+        55,
+        56,
+        54,
+        40,
+        56,
+        34,
+        56,
+        48,
+        65,
+        46
+      ],
+      "word_length": 10,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word119.jpg",
+      "word_text": "তরফে",
+      "char_indices": [
+        34,
+        46,
+        41,
+        65
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word120.jpg",
+      "word_text": "জানা",
+      "char_indices": [
+        26,
+        56,
+        38,
+        56
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word121.jpg",
+      "word_text": "গিয়েছে",
+      "char_indices": [
+        21,
+        57,
+        45,
+        2,
+        65,
+        25,
+        65
+      ],
+      "word_length": 7,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0008_word122.jpg",
+      "word_text": "এমনটাই",
+      "char_indices": [
+        13,
+        44,
+        38,
+        29,
+        56,
+        5
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word1.jpg",
+      "word_text": "একুশ",
+      "char_indices": [
+        13,
+        19,
+        59,
+        52
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word2.jpg",
+      "word_text": "শতাব্দীতে",
+      "char_indices": [
+        52,
+        34,
+        56,
+        42,
+        71,
+        36,
+        58,
+        34,
+        65
+      ],
+      "word_length": 9,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word3.jpg",
+      "word_text": "দাঁড়িয়ে",
+      "char_indices": [
+        36,
+        56,
+        72,
+        31,
+        2,
+        57,
+        45,
+        2,
+        65
+      ],
+      "word_length": 9,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word4.jpg",
+      "word_text": "গোটা",
+      "char_indices": [
+        21,
+        69,
+        29,
+        56
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word5.jpg",
+      "word_text": "পৃথিবীটাই",
+      "char_indices": [
+        40,
+        61,
+        35,
+        57,
+        42,
+        58,
+        29,
+        56,
+        5
+      ],
+      "word_length": 9,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word6.jpg",
+      "word_text": "এখন",
+      "char_indices": [
+        13,
+        20,
+        38
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word7.jpg",
+      "word_text": "হাতের",
+      "char_indices": [
+        55,
+        56,
+        34,
+        65,
+        46
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word8.jpg",
+      "word_text": "মুঠোয়",
+      "char_indices": [
+        44,
+        59,
+        30,
+        69,
+        45,
+        2
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word9.jpg",
+      "word_text": "বন্দি",
+      "char_indices": [
+        42,
+        38,
+        71,
+        36,
+        57
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word10.jpg",
+      "word_text": "৮",
+      "char_indices": [
+        145
+      ],
+      "word_length": 1,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word11.jpg",
+      "word_text": "থেকে",
+      "char_indices": [
+        35,
+        65,
+        19,
+        65
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word12.jpg",
+      "word_text": "৮০",
+      "char_indices": [
+        145,
+        137
+      ],
+      "word_length": 2,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word13.jpg",
+      "word_text": "সকলেই",
+      "char_indices": [
+        54,
+        19,
+        48,
+        65,
+        5
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word14.jpg",
+      "word_text": "এখন",
+      "char_indices": [
+        13,
+        20,
+        38
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word15.jpg",
+      "word_text": "স্মার্টফোনের",
+      "char_indices": [
+        54,
+        71,
+        44,
+        56,
+        46,
+        71,
+        29,
+        41,
+        69,
+        38,
+        65,
+        46
+      ],
+      "word_length": 12,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word16.jpg",
+      "word_text": "উপর",
+      "char_indices": [
+        7,
+        40,
+        46
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word17.jpg",
+      "word_text": "নির্ভরশীল",
+      "char_indices": [
+        38,
+        57,
+        46,
+        71,
+        43,
+        46,
+        52,
+        58,
+        48
+      ],
+      "word_length": 9,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word18.jpg",
+      "word_text": "নিত্য",
+      "char_indices": [
+        38,
+        57,
+        34,
+        71,
+        45
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word19.jpg",
+      "word_text": "প্রয়োজনীয়",
+      "char_indices": [
+        40,
+        71,
+        46,
+        45,
+        2,
+        69,
+        26,
+        38,
+        58,
+        45,
+        2
+      ],
+      "word_length": 11,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word20.jpg",
+      "word_text": "জিনিসগুলির",
+      "char_indices": [
+        26,
+        57,
+        38,
+        57,
+        54,
+        21,
+        59,
+        48,
+        57,
+        46
+      ],
+      "word_length": 10,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word21.jpg",
+      "word_text": "মধ্যে",
+      "char_indices": [
+        44,
+        37,
+        71,
+        45,
+        65
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word22.jpg",
+      "word_text": "অন্যতম",
+      "char_indices": [
+        3,
+        38,
+        71,
+        45,
+        34,
+        44
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word23.jpg",
+      "word_text": "হলেও",
+      "char_indices": [
+        55,
+        48,
+        65,
+        17
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word24.jpg",
+      "word_text": "বিজ্ঞানীরা",
+      "char_indices": [
+        42,
+        57,
+        26,
+        71,
+        28,
+        56,
+        38,
+        58,
+        46,
+        56
+      ],
+      "word_length": 10,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word25.jpg",
+      "word_text": "বলছেন",
+      "char_indices": [
+        42,
+        48,
+        25,
+        65,
+        38
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word26.jpg",
+      "word_text": "অতিরিক্ত",
+      "char_indices": [
+        3,
+        34,
+        57,
+        46,
+        57,
+        19,
+        71,
+        34
+      ],
+      "word_length": 8,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word27.jpg",
+      "word_text": "স্মার্টফোন",
+      "char_indices": [
+        54,
+        71,
+        44,
+        56,
+        46,
+        71,
+        29,
+        41,
+        69,
+        38
+      ],
+      "word_length": 10,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word28.jpg",
+      "word_text": "ব্যবহারের",
+      "char_indices": [
+        42,
+        71,
+        45,
+        42,
+        55,
+        56,
+        46,
+        65,
+        46
+      ],
+      "word_length": 9,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word29.jpg",
+      "word_text": "ফলে",
+      "char_indices": [
+        41,
+        48,
+        65
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word30.jpg",
+      "word_text": "মানুষ",
+      "char_indices": [
+        44,
+        56,
+        38,
+        59,
+        53
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word31.jpg",
+      "word_text": "আসলেই",
+      "char_indices": [
+        4,
+        54,
+        48,
+        65,
+        5
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word32.jpg",
+      "word_text": "আনস্মার্ট",
+      "char_indices": [
+        4,
+        38,
+        54,
+        71,
+        44,
+        56,
+        46,
+        71,
+        29
+      ],
+      "word_length": 9,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word33.jpg",
+      "word_text": "হয়ে",
+      "char_indices": [
+        55,
+        45,
+        2,
+        65
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word34.jpg",
+      "word_text": "পড়ছে",
+      "char_indices": [
+        40,
+        31,
+        2,
+        25,
+        65
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word35.jpg",
+      "word_text": "কারও",
+      "char_indices": [
+        19,
+        56,
+        46,
+        17
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word36.jpg",
+      "word_text": "ক্ষেত্রে",
+      "char_indices": [
+        19,
+        71,
+        53,
+        65,
+        34,
+        71,
+        46,
+        65
+      ],
+      "word_length": 8,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word37.jpg",
+      "word_text": "তা",
+      "char_indices": [
+        34,
+        56
+      ],
+      "word_length": 2,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word38.jpg",
+      "word_text": "রীতিমতো",
+      "char_indices": [
+        46,
+        58,
+        34,
+        57,
+        44,
+        34,
+        69
+      ],
+      "word_length": 7,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word39.jpg",
+      "word_text": "নেশার",
+      "char_indices": [
+        38,
+        65,
+        52,
+        56,
+        46
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word40.jpg",
+      "word_text": "বস্তু",
+      "char_indices": [
+        42,
+        54,
+        71,
+        34,
+        59
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word41.jpg",
+      "word_text": "হয়ে",
+      "char_indices": [
+        55,
+        45,
+        2,
+        65
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word42.jpg",
+      "word_text": "পড়েছে",
+      "char_indices": [
+        40,
+        31,
+        2,
+        65,
+        25,
+        65
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word43.jpg",
+      "word_text": "অনেকেই",
+      "char_indices": [
+        3,
+        38,
+        65,
+        19,
+        65,
+        5
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word44.jpg",
+      "word_text": "হয়তো",
+      "char_indices": [
+        55,
+        45,
+        2,
+        34,
+        69
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word45.jpg",
+      "word_text": "চেষ্টা",
+      "char_indices": [
+        24,
+        65,
+        53,
+        71,
+        29,
+        56
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word46.jpg",
+      "word_text": "করেন",
+      "char_indices": [
+        19,
+        46,
+        65,
+        38
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word47.jpg",
+      "word_text": "সেই",
+      "char_indices": [
+        54,
+        65,
+        5
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word48.jpg",
+      "word_text": "নেশা",
+      "char_indices": [
+        38,
+        65,
+        52,
+        56
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word49.jpg",
+      "word_text": "থেকে",
+      "char_indices": [
+        35,
+        65,
+        19,
+        65
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word50.jpg",
+      "word_text": "বেরতে",
+      "char_indices": [
+        42,
+        65,
+        46,
+        34,
+        65
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word51.jpg",
+      "word_text": "কিন্তু",
+      "char_indices": [
+        19,
+        57,
+        38,
+        71,
+        34,
+        59
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word52.jpg",
+      "word_text": "স্মার্টফোনে",
+      "char_indices": [
+        54,
+        71,
+        44,
+        56,
+        46,
+        71,
+        29,
+        41,
+        69,
+        38,
+        65
+      ],
+      "word_length": 11,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word53.jpg",
+      "word_text": "আসা",
+      "char_indices": [
+        4,
+        54,
+        56
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word54.jpg",
+      "word_text": "নিত্য",
+      "char_indices": [
+        38,
+        57,
+        34,
+        71,
+        45
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word55.jpg",
+      "word_text": "নতুন",
+      "char_indices": [
+        38,
+        34,
+        59,
+        38
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word56.jpg",
+      "word_text": "খবর",
+      "char_indices": [
+        20,
+        42,
+        46
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word57.jpg",
+      "word_text": "চোখ",
+      "char_indices": [
+        24,
+        69,
+        20
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word58.jpg",
+      "word_text": "অন্যদিকে",
+      "char_indices": [
+        3,
+        38,
+        71,
+        45,
+        36,
+        57,
+        19,
+        65
+      ],
+      "word_length": 8,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word59.jpg",
+      "word_text": "সরতে",
+      "char_indices": [
+        54,
+        46,
+        34,
+        65
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word60.jpg",
+      "word_text": "দেয়না",
+      "char_indices": [
+        36,
+        65,
+        45,
+        2,
+        38,
+        56
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word61.jpg",
+      "word_text": "বেশিরভাগ",
+      "char_indices": [
+        42,
+        65,
+        52,
+        57,
+        46,
+        43,
+        56,
+        21
+      ],
+      "word_length": 8,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word62.jpg",
+      "word_text": "স্মার্টফোন",
+      "char_indices": [
+        54,
+        71,
+        44,
+        56,
+        46,
+        71,
+        29,
+        41,
+        69,
+        38
+      ],
+      "word_length": 10,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word63.jpg",
+      "word_text": "হাত",
+      "char_indices": [
+        55,
+        56,
+        34
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word64.jpg",
+      "word_text": "থেকে",
+      "char_indices": [
+        35,
+        65,
+        19,
+        65
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word65.jpg",
+      "word_text": "পড়ে",
+      "char_indices": [
+        40,
+        31,
+        2,
+        65
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word66.jpg",
+      "word_text": "গেলে",
+      "char_indices": [
+        21,
+        65,
+        48,
+        65
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word67.jpg",
+      "word_text": "উপরের",
+      "char_indices": [
+        7,
+        40,
+        46,
+        65,
+        46
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word68.jpg",
+      "word_text": "কাচের",
+      "char_indices": [
+        19,
+        56,
+        24,
+        65,
+        46
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word69.jpg",
+      "word_text": "ডিসপ্লেটি",
+      "char_indices": [
+        31,
+        57,
+        54,
+        40,
+        71,
+        48,
+        65,
+        29,
+        57
+      ],
+      "word_length": 9,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word70.jpg",
+      "word_text": "ভেঙে",
+      "char_indices": [
+        43,
+        65,
+        23,
+        65
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word71.jpg",
+      "word_text": "যায়",
+      "char_indices": [
+        45,
+        56,
+        45,
+        2
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word72.jpg",
+      "word_text": "কিন্তু",
+      "char_indices": [
+        19,
+        57,
+        38,
+        71,
+        34,
+        59
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word73.jpg",
+      "word_text": "ডাম্বফোনের",
+      "char_indices": [
+        31,
+        56,
+        44,
+        71,
+        42,
+        41,
+        69,
+        38,
+        65,
+        46
+      ],
+      "word_length": 10,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word74.jpg",
+      "word_text": "ক্ষেত্রে",
+      "char_indices": [
+        19,
+        71,
+        53,
+        65,
+        34,
+        71,
+        46,
+        65
+      ],
+      "word_length": 8,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word75.jpg",
+      "word_text": "সেই",
+      "char_indices": [
+        54,
+        65,
+        5
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word76.jpg",
+      "word_text": "আশঙ্কা",
+      "char_indices": [
+        4,
+        52,
+        23,
+        71,
+        19,
+        56
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word77.jpg",
+      "word_text": "নেই",
+      "char_indices": [
+        38,
+        65,
+        5
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word78.jpg",
+      "word_text": "নতুন",
+      "char_indices": [
+        38,
+        34,
+        59,
+        38
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word79.jpg",
+      "word_text": "ধরণের",
+      "char_indices": [
+        37,
+        46,
+        33,
+        65,
+        46
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word80.jpg",
+      "word_text": "স্মার্টফোনগুলি",
+      "char_indices": [
+        54,
+        71,
+        44,
+        56,
+        46,
+        71,
+        29,
+        41,
+        69,
+        38,
+        21,
+        59,
+        48,
+        57
+      ],
+      "word_length": 14,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word81.jpg",
+      "word_text": "থেকে",
+      "char_indices": [
+        35,
+        65,
+        19,
+        65
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word82.jpg",
+      "word_text": "যখন",
+      "char_indices": [
+        45,
+        20,
+        38
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word83.jpg",
+      "word_text": "ইচ্ছা",
+      "char_indices": [
+        5,
+        24,
+        71,
+        25,
+        56
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word84.jpg",
+      "word_text": "ব্যাটারি",
+      "char_indices": [
+        42,
+        71,
+        45,
+        56,
+        29,
+        56,
+        46,
+        57
+      ],
+      "word_length": 8,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word85.jpg",
+      "word_text": "বা",
+      "char_indices": [
+        42,
+        56
+      ],
+      "word_length": 2,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word86.jpg",
+      "word_text": "সিমকার্ড",
+      "char_indices": [
+        54,
+        57,
+        44,
+        19,
+        56,
+        46,
+        71,
+        31
+      ],
+      "word_length": 8,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word87.jpg",
+      "word_text": "খুলে",
+      "char_indices": [
+        20,
+        59,
+        48,
+        65
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word88.jpg",
+      "word_text": "ফেলা",
+      "char_indices": [
+        41,
+        65,
+        48,
+        56
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word89.jpg",
+      "word_text": "যায়",
+      "char_indices": [
+        45,
+        56,
+        45,
+        2
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word90.jpg",
+      "word_text": "না",
+      "char_indices": [
+        38,
+        56
+      ],
+      "word_length": 2,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word91.jpg",
+      "word_text": "সিমকার্ড",
+      "char_indices": [
+        54,
+        57,
+        44,
+        19,
+        56,
+        46,
+        71,
+        31
+      ],
+      "word_length": 8,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word92.jpg",
+      "word_text": "বার",
+      "char_indices": [
+        42,
+        56,
+        46
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word93.jpg",
+      "word_text": "করতে",
+      "char_indices": [
+        19,
+        46,
+        34,
+        65
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word94.jpg",
+      "word_text": "গেলে",
+      "char_indices": [
+        21,
+        65,
+        48,
+        65
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word95.jpg",
+      "word_text": "সঙ্গে",
+      "char_indices": [
+        54,
+        23,
+        71,
+        21,
+        65
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word96.jpg",
+      "word_text": "সরু",
+      "char_indices": [
+        54,
+        46,
+        59
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word97.jpg",
+      "word_text": "মুখের",
+      "char_indices": [
+        44,
+        59,
+        20,
+        65,
+        46
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word98.jpg",
+      "word_text": "পিন",
+      "char_indices": [
+        40,
+        57,
+        38
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word99.jpg",
+      "word_text": "রাখতে",
+      "char_indices": [
+        46,
+        56,
+        20,
+        34,
+        65
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word100.jpg",
+      "word_text": "হয়",
+      "char_indices": [
+        55,
+        45,
+        2
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word101.jpg",
+      "word_text": "কিন্তু",
+      "char_indices": [
+        19,
+        57,
+        38,
+        71,
+        34,
+        59
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word102.jpg",
+      "word_text": "ফিচার",
+      "char_indices": [
+        41,
+        57,
+        24,
+        56,
+        46
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word103.jpg",
+      "word_text": "ফোনের",
+      "char_indices": [
+        41,
+        69,
+        38,
+        65,
+        46
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word104.jpg",
+      "word_text": "ক্ষেত্রে",
+      "char_indices": [
+        19,
+        71,
+        53,
+        65,
+        34,
+        71,
+        46,
+        65
+      ],
+      "word_length": 8,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word105.jpg",
+      "word_text": "তা",
+      "char_indices": [
+        34,
+        56
+      ],
+      "word_length": 2,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word106.jpg",
+      "word_text": "হয়না",
+      "char_indices": [
+        55,
+        45,
+        2,
+        38,
+        56
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word107.jpg",
+      "word_text": "স্মার্টফোনের",
+      "char_indices": [
+        54,
+        71,
+        44,
+        56,
+        46,
+        71,
+        29,
+        41,
+        69,
+        38,
+        65,
+        46
+      ],
+      "word_length": 12,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word108.jpg",
+      "word_text": "থেকে",
+      "char_indices": [
+        35,
+        65,
+        19,
+        65
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word109.jpg",
+      "word_text": "ফিচার",
+      "char_indices": [
+        41,
+        57,
+        24,
+        56,
+        46
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word110.jpg",
+      "word_text": "ফোনের",
+      "char_indices": [
+        41,
+        69,
+        38,
+        65,
+        46
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word111.jpg",
+      "word_text": "ব্যাটারি",
+      "char_indices": [
+        42,
+        71,
+        45,
+        56,
+        29,
+        56,
+        46,
+        57
+      ],
+      "word_length": 8,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word112.jpg",
+      "word_text": "লাইফ",
+      "char_indices": [
+        48,
+        56,
+        5,
+        41
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word113.jpg",
+      "word_text": "ভাল",
+      "char_indices": [
+        43,
+        56,
+        48
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word114.jpg",
+      "word_text": "এক",
+      "char_indices": [
+        13,
+        19
+      ],
+      "word_length": 2,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word115.jpg",
+      "word_text": "বার",
+      "char_indices": [
+        42,
+        56,
+        46
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word116.jpg",
+      "word_text": "চার্জ",
+      "char_indices": [
+        24,
+        56,
+        46,
+        71,
+        26
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word117.jpg",
+      "word_text": "দিলেই",
+      "char_indices": [
+        36,
+        57,
+        48,
+        65,
+        5
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word118.jpg",
+      "word_text": "চলবে",
+      "char_indices": [
+        24,
+        48,
+        42,
+        65
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word119.jpg",
+      "word_text": "টানা",
+      "char_indices": [
+        29,
+        56,
+        38,
+        56
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word120.jpg",
+      "word_text": "এক",
+      "char_indices": [
+        13,
+        19
+      ],
+      "word_length": 2,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0011_word121.jpg",
+      "word_text": "সপ্তাহ",
+      "char_indices": [
+        54,
+        40,
+        71,
+        34,
+        56,
+        55
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word1.jpg",
+      "word_text": "একদিকে",
+      "char_indices": [
+        13,
+        19,
+        36,
+        57,
+        19,
+        65
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word2.jpg",
+      "word_text": "পেশায়",
+      "char_indices": [
+        40,
+        65,
+        52,
+        56,
+        45,
+        2
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word3.jpg",
+      "word_text": "ডাক্তার",
+      "char_indices": [
+        31,
+        56,
+        19,
+        71,
+        34,
+        56,
+        46
+      ],
+      "word_length": 7,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word4.jpg",
+      "word_text": "আবার",
+      "char_indices": [
+        4,
+        42,
+        56,
+        46
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word5.jpg",
+      "word_text": "অন্যদিকে",
+      "char_indices": [
+        3,
+        38,
+        71,
+        45,
+        36,
+        57,
+        19,
+        65
+      ],
+      "word_length": 8,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word6.jpg",
+      "word_text": "প্রথম",
+      "char_indices": [
+        40,
+        71,
+        46,
+        35,
+        44
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word7.jpg",
+      "word_text": "বার",
+      "char_indices": [
+        42,
+        56,
+        46
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word8.jpg",
+      "word_text": "সিভিল",
+      "char_indices": [
+        54,
+        57,
+        43,
+        57,
+        48
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word9.jpg",
+      "word_text": "সার্ভিস",
+      "char_indices": [
+        54,
+        56,
+        46,
+        71,
+        43,
+        57,
+        54
+      ],
+      "word_length": 7,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word10.jpg",
+      "word_text": "পরীক্ষায়",
+      "char_indices": [
+        40,
+        46,
+        58,
+        19,
+        71,
+        53,
+        56,
+        45,
+        2
+      ],
+      "word_length": 9,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word11.jpg",
+      "word_text": "বসেই",
+      "char_indices": [
+        42,
+        54,
+        65,
+        5
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word12.jpg",
+      "word_text": "দুর্দান্ত",
+      "char_indices": [
+        36,
+        59,
+        46,
+        71,
+        36,
+        56,
+        38,
+        71,
+        34
+      ],
+      "word_length": 9,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word13.jpg",
+      "word_text": "ফলাফল",
+      "char_indices": [
+        41,
+        48,
+        56,
+        41,
+        48
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word14.jpg",
+      "word_text": "তাও",
+      "char_indices": [
+        34,
+        56,
+        17
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word15.jpg",
+      "word_text": "আবার",
+      "char_indices": [
+        4,
+        42,
+        56,
+        46
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word16.jpg",
+      "word_text": "কোনও",
+      "char_indices": [
+        19,
+        69,
+        38,
+        17
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word17.jpg",
+      "word_text": "কোচিং",
+      "char_indices": [
+        19,
+        69,
+        24,
+        57,
+        73
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word18.jpg",
+      "word_text": "ছাড়াই",
+      "char_indices": [
+        25,
+        56,
+        31,
+        2,
+        56,
+        5
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word19.jpg",
+      "word_text": "সিভিল",
+      "char_indices": [
+        54,
+        57,
+        43,
+        57,
+        48
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word20.jpg",
+      "word_text": "সার্ভিস",
+      "char_indices": [
+        54,
+        56,
+        46,
+        71,
+        43,
+        57,
+        54
+      ],
+      "word_length": 7,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word21.jpg",
+      "word_text": "পরীক্ষায়",
+      "char_indices": [
+        40,
+        46,
+        58,
+        19,
+        71,
+        53,
+        56,
+        45,
+        2
+      ],
+      "word_length": 9,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word22.jpg",
+      "word_text": "এহেন",
+      "char_indices": [
+        13,
+        55,
+        65,
+        38
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word23.jpg",
+      "word_text": "ফলাফলে",
+      "char_indices": [
+        41,
+        48,
+        56,
+        41,
+        48,
+        65
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word24.jpg",
+      "word_text": "নিদর্শন",
+      "char_indices": [
+        38,
+        57,
+        36,
+        46,
+        71,
+        52,
+        38
+      ],
+      "word_length": 7,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word25.jpg",
+      "word_text": "রেখেছেন",
+      "char_indices": [
+        46,
+        65,
+        20,
+        65,
+        25,
+        65,
+        38
+      ],
+      "word_length": 7,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word26.jpg",
+      "word_text": "বারানসীর",
+      "char_indices": [
+        42,
+        56,
+        46,
+        56,
+        38,
+        54,
+        58,
+        46
+      ],
+      "word_length": 8,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word27.jpg",
+      "word_text": "আরতিকা",
+      "char_indices": [
+        4,
+        46,
+        34,
+        57,
+        19,
+        56
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word28.jpg",
+      "word_text": "শুক্লা",
+      "char_indices": [
+        52,
+        59,
+        19,
+        71,
+        48,
+        56
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word29.jpg",
+      "word_text": "কোনও",
+      "char_indices": [
+        19,
+        69,
+        38,
+        17
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word30.jpg",
+      "word_text": "কোচিং",
+      "char_indices": [
+        19,
+        69,
+        24,
+        57,
+        73
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word31.jpg",
+      "word_text": "ছাড়াই",
+      "char_indices": [
+        25,
+        56,
+        31,
+        2,
+        56,
+        5
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word32.jpg",
+      "word_text": "তিনি",
+      "char_indices": [
+        34,
+        57,
+        38,
+        57
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word33.jpg",
+      "word_text": "সংশ্লিষ্ট",
+      "char_indices": [
+        54,
+        73,
+        52,
+        71,
+        48,
+        57,
+        53,
+        71,
+        29
+      ],
+      "word_length": 9,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word34.jpg",
+      "word_text": "পরীক্ষায়",
+      "char_indices": [
+        40,
+        46,
+        58,
+        19,
+        71,
+        53,
+        56,
+        45,
+        2
+      ],
+      "word_length": 9,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word35.jpg",
+      "word_text": "৪র্থ",
+      "char_indices": [
+        141,
+        46,
+        71,
+        35
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word36.jpg",
+      "word_text": "র‍্যাঙ্ক ",
+      "char_indices": [
+        46,
+        2,
+        71,
+        45,
+        56,
+        23,
+        71,
+        19,
+        2
+      ],
+      "word_length": 9,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word37.jpg",
+      "word_text": "অর্জন",
+      "char_indices": [
+        3,
+        46,
+        71,
+        26,
+        38
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word38.jpg",
+      "word_text": "করেছেন",
+      "char_indices": [
+        19,
+        46,
+        65,
+        25,
+        65,
+        38
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word39.jpg",
+      "word_text": "আরতিকা",
+      "char_indices": [
+        4,
+        46,
+        34,
+        57,
+        19,
+        56
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word40.jpg",
+      "word_text": "শুক্লা",
+      "char_indices": [
+        52,
+        59,
+        19,
+        71,
+        48,
+        56
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word41.jpg",
+      "word_text": "বর্তমানে",
+      "char_indices": [
+        42,
+        46,
+        71,
+        34,
+        44,
+        56,
+        38,
+        65
+      ],
+      "word_length": 8,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word42.jpg",
+      "word_text": "আজমিরের",
+      "char_indices": [
+        4,
+        26,
+        44,
+        57,
+        46,
+        65,
+        46
+      ],
+      "word_length": 7,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word43.jpg",
+      "word_text": "সাব",
+      "char_indices": [
+        54,
+        56,
+        42
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word44.jpg",
+      "word_text": "ডিভিশনাল",
+      "char_indices": [
+        31,
+        57,
+        43,
+        57,
+        52,
+        38,
+        56,
+        48
+      ],
+      "word_length": 8,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word45.jpg",
+      "word_text": "ম্যাজিস্ট্রেট",
+      "char_indices": [
+        44,
+        71,
+        45,
+        56,
+        26,
+        57,
+        54,
+        71,
+        29,
+        71,
+        46,
+        65,
+        29
+      ],
+      "word_length": 13,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word46.jpg",
+      "word_text": "পদে",
+      "char_indices": [
+        40,
+        36,
+        65
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word47.jpg",
+      "word_text": "কর্মরত",
+      "char_indices": [
+        19,
+        46,
+        71,
+        44,
+        46,
+        34
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word48.jpg",
+      "word_text": "রয়েছেন",
+      "char_indices": [
+        46,
+        45,
+        2,
+        65,
+        25,
+        65,
+        38
+      ],
+      "word_length": 7,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word49.jpg",
+      "word_text": "ডাক্তারি",
+      "char_indices": [
+        31,
+        56,
+        19,
+        71,
+        34,
+        56,
+        46,
+        57
+      ],
+      "word_length": 8,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word50.jpg",
+      "word_text": "পড়তে",
+      "char_indices": [
+        40,
+        31,
+        2,
+        34,
+        65
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word51.jpg",
+      "word_text": "শুরু",
+      "char_indices": [
+        52,
+        59,
+        46,
+        59
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word52.jpg",
+      "word_text": "করলেও",
+      "char_indices": [
+        19,
+        46,
+        48,
+        65,
+        17
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word53.jpg",
+      "word_text": "স্বপ্নকে",
+      "char_indices": [
+        54,
+        71,
+        42,
+        40,
+        71,
+        38,
+        19,
+        65
+      ],
+      "word_length": 8,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word54.jpg",
+      "word_text": "পূরণ",
+      "char_indices": [
+        40,
+        60,
+        46,
+        33
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word55.jpg",
+      "word_text": "করার",
+      "char_indices": [
+        19,
+        46,
+        56,
+        46
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word56.jpg",
+      "word_text": "জন্য",
+      "char_indices": [
+        26,
+        38,
+        71,
+        45
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word57.jpg",
+      "word_text": "মাঝপথেই",
+      "char_indices": [
+        44,
+        56,
+        27,
+        40,
+        35,
+        65,
+        5
+      ],
+      "word_length": 7,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word58.jpg",
+      "word_text": "এমডি",
+      "char_indices": [
+        13,
+        44,
+        31,
+        57
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word59.jpg",
+      "word_text": "কোর্স",
+      "char_indices": [
+        19,
+        69,
+        46,
+        71,
+        54
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word60.jpg",
+      "word_text": "ছেড়ে",
+      "char_indices": [
+        25,
+        65,
+        31,
+        2,
+        65
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word61.jpg",
+      "word_text": "দেন",
+      "char_indices": [
+        36,
+        65,
+        38
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word62.jpg",
+      "word_text": "আরতিকা",
+      "char_indices": [
+        4,
+        46,
+        34,
+        57,
+        19,
+        56
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word63.jpg",
+      "word_text": "শুক্লা",
+      "char_indices": [
+        52,
+        59,
+        19,
+        71,
+        48,
+        56
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word64.jpg",
+      "word_text": "সালের",
+      "char_indices": [
+        54,
+        56,
+        48,
+        65,
+        46
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word65.jpg",
+      "word_text": "সেপ্টেম্বর",
+      "char_indices": [
+        54,
+        65,
+        40,
+        71,
+        29,
+        65,
+        44,
+        71,
+        42,
+        46
+      ],
+      "word_length": 10,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word66.jpg",
+      "word_text": "জন্ম",
+      "char_indices": [
+        26,
+        38,
+        71,
+        44
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word67.jpg",
+      "word_text": "হয়",
+      "char_indices": [
+        55,
+        45,
+        2
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word68.jpg",
+      "word_text": "আরতিকা",
+      "char_indices": [
+        4,
+        46,
+        34,
+        57,
+        19,
+        56
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word69.jpg",
+      "word_text": "শুক্লার",
+      "char_indices": [
+        52,
+        59,
+        19,
+        71,
+        48,
+        56,
+        46
+      ],
+      "word_length": 7,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word70.jpg",
+      "word_text": "ছোটবেলা",
+      "char_indices": [
+        25,
+        69,
+        29,
+        42,
+        65,
+        48,
+        56
+      ],
+      "word_length": 7,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word71.jpg",
+      "word_text": "থেকেই",
+      "char_indices": [
+        35,
+        65,
+        19,
+        65,
+        5
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word72.jpg",
+      "word_text": "তিনি",
+      "char_indices": [
+        34,
+        57,
+        38,
+        57
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word73.jpg",
+      "word_text": "পড়াশুনায়",
+      "char_indices": [
+        40,
+        31,
+        2,
+        56,
+        52,
+        59,
+        38,
+        56,
+        45,
+        2
+      ],
+      "word_length": 10,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word74.jpg",
+      "word_text": "উজ্জ্বল",
+      "char_indices": [
+        7,
+        26,
+        71,
+        26,
+        71,
+        42,
+        48
+      ],
+      "word_length": 7,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word75.jpg",
+      "word_text": "ছাত্রী",
+      "char_indices": [
+        25,
+        56,
+        34,
+        71,
+        46,
+        58
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word76.jpg",
+      "word_text": "ছিলেন",
+      "char_indices": [
+        25,
+        57,
+        48,
+        65,
+        38
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word77.jpg",
+      "word_text": "বারানসীর",
+      "char_indices": [
+        42,
+        56,
+        46,
+        56,
+        38,
+        54,
+        58,
+        46
+      ],
+      "word_length": 8,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word78.jpg",
+      "word_text": "সেন্ট",
+      "char_indices": [
+        54,
+        65,
+        38,
+        71,
+        29
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word79.jpg",
+      "word_text": "জন্স",
+      "char_indices": [
+        26,
+        38,
+        71,
+        54
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word80.jpg",
+      "word_text": "স্কুল",
+      "char_indices": [
+        54,
+        71,
+        19,
+        59,
+        48
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word81.jpg",
+      "word_text": "থেকে",
+      "char_indices": [
+        35,
+        65,
+        19,
+        65
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word82.jpg",
+      "word_text": "স্কুলের",
+      "char_indices": [
+        54,
+        71,
+        19,
+        59,
+        48,
+        65,
+        46
+      ],
+      "word_length": 7,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word83.jpg",
+      "word_text": "শিক্ষা",
+      "char_indices": [
+        52,
+        57,
+        19,
+        71,
+        53,
+        56
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word84.jpg",
+      "word_text": "শেষ",
+      "char_indices": [
+        52,
+        65,
+        53
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word85.jpg",
+      "word_text": "করেন",
+      "char_indices": [
+        19,
+        46,
+        65,
+        38
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word86.jpg",
+      "word_text": "বছর",
+      "char_indices": [
+        42,
+        25,
+        46
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word87.jpg",
+      "word_text": "এর",
+      "char_indices": [
+        13,
+        46
+      ],
+      "word_length": 2,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word88.jpg",
+      "word_text": "ইউ",
+      "char_indices": [
+        5,
+        7
+      ],
+      "word_length": 2,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word89.jpg",
+      "word_text": "পি",
+      "char_indices": [
+        40,
+        57
+      ],
+      "word_length": 2,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word90.jpg",
+      "word_text": "এস",
+      "char_indices": [
+        13,
+        54
+      ],
+      "word_length": 2,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word91.jpg",
+      "word_text": "সি",
+      "char_indices": [
+        54,
+        57
+      ],
+      "word_length": 2,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0010a_word92.jpg",
+      "word_text": "কৃতী",
+      "char_indices": [
+        19,
+        61,
+        34,
+        58
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4_conv\\crops\\643d78dd-393f-454f-9679-473ea07f408e_word1.jpg",
+      "word_text": "আমি",
+      "char_indices": [
+        4,
+        44,
+        57
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4_conv\\crops\\643d78dd-393f-454f-9679-473ea07f408e_word2.jpg",
+      "word_text": "তন্ময়।",
+      "char_indices": [
+        34,
+        38,
+        71,
+        44,
+        45,
+        2,
+        2
+      ],
+      "word_length": 7,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4_conv\\crops\\643d78dd-393f-454f-9679-473ea07f408e_word3.jpg",
+      "word_text": "আমি",
+      "char_indices": [
+        4,
+        44,
+        57
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4_conv\\crops\\643d78dd-393f-454f-9679-473ea07f408e_word4.jpg",
+      "word_text": "পড়াশোনায়",
+      "char_indices": [
+        40,
+        31,
+        2,
+        56,
+        52,
+        69,
+        38,
+        56,
+        45,
+        2
+      ],
+      "word_length": 10,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4_conv\\crops\\643d78dd-393f-454f-9679-473ea07f408e_word5.jpg",
+      "word_text": "ভাল",
+      "char_indices": [
+        43,
+        56,
+        48
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4_conv\\crops\\643d78dd-393f-454f-9679-473ea07f408e_word6.jpg",
+      "word_text": "হতে",
+      "char_indices": [
+        55,
+        34,
+        65
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4_conv\\crops\\643d78dd-393f-454f-9679-473ea07f408e_word7.jpg",
+      "word_text": "চাই।",
+      "char_indices": [
+        24,
+        56,
+        5,
+        2
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4_conv\\crops\\643d78dd-393f-454f-9679-473ea07f408e_word8.jpg",
+      "word_text": "খুব",
+      "char_indices": [
+        20,
+        59,
+        42
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4_conv\\crops\\643d78dd-393f-454f-9679-473ea07f408e_word9.jpg",
+      "word_text": "ভাল",
+      "char_indices": [
+        43,
+        56,
+        48
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4_conv\\crops\\643d78dd-393f-454f-9679-473ea07f408e_word10.jpg",
+      "word_text": " অবস্থা",
+      "char_indices": [
+        2,
+        3,
+        42,
+        54,
+        71,
+        35,
+        56
+      ],
+      "word_length": 7,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4_conv\\crops\\643d78dd-393f-454f-9679-473ea07f408e_word11.jpg",
+      "word_text": "নিয়ে",
+      "char_indices": [
+        38,
+        57,
+        45,
+        2,
+        65
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4_conv\\crops\\643d78dd-393f-454f-9679-473ea07f408e_word12.jpg",
+      "word_text": "বিশ্ববিদ্যালয়",
+      "char_indices": [
+        42,
+        57,
+        52,
+        71,
+        42,
+        42,
+        57,
+        36,
+        71,
+        45,
+        56,
+        48,
+        45,
+        2
+      ],
+      "word_length": 14,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4_conv\\crops\\643d78dd-393f-454f-9679-473ea07f408e_word13.jpg",
+      "word_text": "থেকে",
+      "char_indices": [
+        35,
+        65,
+        19,
+        65
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4_conv\\crops\\643d78dd-393f-454f-9679-473ea07f408e_word14.jpg",
+      "word_text": "বের",
+      "char_indices": [
+        42,
+        65,
+        46
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4_conv\\crops\\643d78dd-393f-454f-9679-473ea07f408e_word15.jpg",
+      "word_text": "হতে",
+      "char_indices": [
+        55,
+        34,
+        65
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4_conv\\crops\\643d78dd-393f-454f-9679-473ea07f408e_word16.jpg",
+      "word_text": "চাই।",
+      "char_indices": [
+        24,
+        56,
+        5,
+        2
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4_conv\\crops\\643d78dd-393f-454f-9679-473ea07f408e_word17.jpg",
+      "word_text": "আমি",
+      "char_indices": [
+        4,
+        44,
+        57
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4_conv\\crops\\643d78dd-393f-454f-9679-473ea07f408e_word18.jpg",
+      "word_text": " আপনাদের",
+      "char_indices": [
+        2,
+        4,
+        40,
+        38,
+        56,
+        36,
+        65,
+        46
+      ],
+      "word_length": 8,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4_conv\\crops\\643d78dd-393f-454f-9679-473ea07f408e_word19.jpg",
+      "word_text": "দোয়া",
+      "char_indices": [
+        36,
+        69,
+        45,
+        2,
+        56
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4_conv\\crops\\643d78dd-393f-454f-9679-473ea07f408e_word20.jpg",
+      "word_text": "চাই।",
+      "char_indices": [
+        24,
+        56,
+        5,
+        2
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    }
+  ]
+}

@@ -1,0 +1,5379 @@
+{
+  "items": [
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word1.jpg",
+      "word_text": "মারাত্মক",
+      "char_indices": [
+        44,
+        56,
+        46,
+        56,
+        34,
+        71,
+        44,
+        19
+      ],
+      "word_length": 8,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word2.jpg",
+      "word_text": "অসুস্থ",
+      "char_indices": [
+        3,
+        54,
+        59,
+        54,
+        71,
+        35
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word3.jpg",
+      "word_text": "রুশ",
+      "char_indices": [
+        46,
+        59,
+        52
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word4.jpg",
+      "word_text": "প্রেসিডেন্ট",
+      "char_indices": [
+        40,
+        71,
+        46,
+        65,
+        54,
+        57,
+        31,
+        65,
+        38,
+        71,
+        29
+      ],
+      "word_length": 11,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word5.jpg",
+      "word_text": "ভ্লামিদির",
+      "char_indices": [
+        43,
+        71,
+        48,
+        56,
+        44,
+        57,
+        36,
+        57,
+        46
+      ],
+      "word_length": 9,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word6.jpg",
+      "word_text": "পুতিন",
+      "char_indices": [
+        40,
+        59,
+        34,
+        57,
+        38
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word7.jpg",
+      "word_text": "নিজের",
+      "char_indices": [
+        38,
+        57,
+        26,
+        65,
+        46
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word8.jpg",
+      "word_text": "বাসভবনের",
+      "char_indices": [
+        42,
+        56,
+        54,
+        43,
+        42,
+        38,
+        65,
+        46
+      ],
+      "word_length": 8,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word9.jpg",
+      "word_text": "সিঁড়ি",
+      "char_indices": [
+        54,
+        57,
+        72,
+        31,
+        2,
+        57
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word10.jpg",
+      "word_text": "দিয়ে",
+      "char_indices": [
+        36,
+        57,
+        45,
+        2,
+        65
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word11.jpg",
+      "word_text": "গড়িয়ে",
+      "char_indices": [
+        21,
+        31,
+        2,
+        57,
+        45,
+        2,
+        65
+      ],
+      "word_length": 7,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word12.jpg",
+      "word_text": "নিচে",
+      "char_indices": [
+        38,
+        57,
+        24,
+        65
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word13.jpg",
+      "word_text": "পড়ে",
+      "char_indices": [
+        40,
+        31,
+        2,
+        65
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word14.jpg",
+      "word_text": "যান",
+      "char_indices": [
+        45,
+        56,
+        38
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word15.jpg",
+      "word_text": "তিনি",
+      "char_indices": [
+        34,
+        57,
+        38,
+        57
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word16.jpg",
+      "word_text": "ওই",
+      "char_indices": [
+        17,
+        5
+      ],
+      "word_length": 2,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word17.jpg",
+      "word_text": "অবস্থায়",
+      "char_indices": [
+        3,
+        42,
+        54,
+        71,
+        35,
+        56,
+        45,
+        2
+      ],
+      "word_length": 8,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word18.jpg",
+      "word_text": "পোশাকেই",
+      "char_indices": [
+        40,
+        69,
+        52,
+        56,
+        19,
+        65,
+        5
+      ],
+      "word_length": 7,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word19.jpg",
+      "word_text": "মলত্যাগ",
+      "char_indices": [
+        44,
+        48,
+        34,
+        71,
+        45,
+        56,
+        21
+      ],
+      "word_length": 7,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word20.jpg",
+      "word_text": "করে",
+      "char_indices": [
+        19,
+        46,
+        65
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word21.jpg",
+      "word_text": "ফেলেন",
+      "char_indices": [
+        41,
+        65,
+        48,
+        65,
+        38
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word22.jpg",
+      "word_text": "দোদন্তপ্রতাপ",
+      "char_indices": [
+        36,
+        69,
+        36,
+        38,
+        71,
+        34,
+        40,
+        71,
+        46,
+        34,
+        56,
+        40
+      ],
+      "word_length": 12,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word23.jpg",
+      "word_text": "রুশ",
+      "char_indices": [
+        46,
+        59,
+        52
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word24.jpg",
+      "word_text": "প্রেসিডেন্ট",
+      "char_indices": [
+        40,
+        71,
+        46,
+        65,
+        54,
+        57,
+        31,
+        65,
+        38,
+        71,
+        29
+      ],
+      "word_length": 11,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word25.jpg",
+      "word_text": "ইউক্রেন",
+      "char_indices": [
+        5,
+        7,
+        19,
+        71,
+        46,
+        65,
+        38
+      ],
+      "word_length": 7,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word26.jpg",
+      "word_text": "যুদ্ধের",
+      "char_indices": [
+        45,
+        59,
+        36,
+        71,
+        37,
+        65,
+        46
+      ],
+      "word_length": 7,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word27.jpg",
+      "word_text": "মধ্যেই",
+      "char_indices": [
+        44,
+        37,
+        71,
+        45,
+        65,
+        5
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word28.jpg",
+      "word_text": "ফের",
+      "char_indices": [
+        41,
+        65,
+        46
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word29.jpg",
+      "word_text": "একবার",
+      "char_indices": [
+        13,
+        19,
+        42,
+        56,
+        46
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word30.jpg",
+      "word_text": "পুতিনের",
+      "char_indices": [
+        40,
+        59,
+        34,
+        57,
+        38,
+        65,
+        46
+      ],
+      "word_length": 7,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word31.jpg",
+      "word_text": "শারীরিক",
+      "char_indices": [
+        52,
+        56,
+        46,
+        58,
+        46,
+        57,
+        19
+      ],
+      "word_length": 7,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word32.jpg",
+      "word_text": "অবস্থা",
+      "char_indices": [
+        3,
+        42,
+        54,
+        71,
+        35,
+        56
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word33.jpg",
+      "word_text": "নিয়ে",
+      "char_indices": [
+        38,
+        57,
+        45,
+        2,
+        65
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word34.jpg",
+      "word_text": "এমনই",
+      "char_indices": [
+        13,
+        44,
+        38,
+        5
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word35.jpg",
+      "word_text": "বিস্ফোরক",
+      "char_indices": [
+        42,
+        57,
+        54,
+        71,
+        41,
+        69,
+        46,
+        19
+      ],
+      "word_length": 8,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word36.jpg",
+      "word_text": "দাবি",
+      "char_indices": [
+        36,
+        56,
+        42,
+        57
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word37.jpg",
+      "word_text": "করল",
+      "char_indices": [
+        19,
+        46,
+        48
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word38.jpg",
+      "word_text": "পশ্চিমী",
+      "char_indices": [
+        40,
+        52,
+        71,
+        24,
+        57,
+        44,
+        58
+      ],
+      "word_length": 7,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word39.jpg",
+      "word_text": "সংবাদমাধ্যমগুলির",
+      "char_indices": [
+        54,
+        73,
+        42,
+        56,
+        36,
+        44,
+        56,
+        37,
+        71,
+        45,
+        44,
+        21,
+        59,
+        48,
+        57,
+        46
+      ],
+      "word_length": 16,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word40.jpg",
+      "word_text": "একাংশ",
+      "char_indices": [
+        13,
+        19,
+        56,
+        73,
+        52
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word41.jpg",
+      "word_text": "ওই",
+      "char_indices": [
+        17,
+        5
+      ],
+      "word_length": 2,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word42.jpg",
+      "word_text": "খবরে",
+      "char_indices": [
+        20,
+        42,
+        46,
+        65
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word43.jpg",
+      "word_text": "আরও",
+      "char_indices": [
+        4,
+        46,
+        17
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word44.jpg",
+      "word_text": "দাবি",
+      "char_indices": [
+        36,
+        56,
+        42,
+        57
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word45.jpg",
+      "word_text": "করা",
+      "char_indices": [
+        19,
+        46,
+        56
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word46.jpg",
+      "word_text": "হয়েছে",
+      "char_indices": [
+        55,
+        45,
+        2,
+        65,
+        25,
+        65
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word47.jpg",
+      "word_text": "অন্ত্রের",
+      "char_indices": [
+        3,
+        38,
+        71,
+        34,
+        71,
+        46,
+        65,
+        46
+      ],
+      "word_length": 8,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word48.jpg",
+      "word_text": "ক্যান্সারে",
+      "char_indices": [
+        19,
+        71,
+        45,
+        56,
+        38,
+        71,
+        54,
+        56,
+        46,
+        65
+      ],
+      "word_length": 10,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word49.jpg",
+      "word_text": "ভুগছেন",
+      "char_indices": [
+        43,
+        59,
+        21,
+        25,
+        65,
+        38
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word50.jpg",
+      "word_text": "৭০",
+      "char_indices": [
+        144,
+        137
+      ],
+      "word_length": 2,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word51.jpg",
+      "word_text": "বছরের",
+      "char_indices": [
+        42,
+        25,
+        46,
+        65,
+        46
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word52.jpg",
+      "word_text": "রুশ",
+      "char_indices": [
+        46,
+        59,
+        52
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word53.jpg",
+      "word_text": "রাষ্ট্রনায়ক",
+      "char_indices": [
+        46,
+        56,
+        53,
+        71,
+        29,
+        71,
+        46,
+        38,
+        56,
+        45,
+        2,
+        19
+      ],
+      "word_length": 12,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word54.jpg",
+      "word_text": "বর্তমানে",
+      "char_indices": [
+        42,
+        46,
+        71,
+        34,
+        44,
+        56,
+        38,
+        65
+      ],
+      "word_length": 8,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word55.jpg",
+      "word_text": "চতুর্থ",
+      "char_indices": [
+        24,
+        34,
+        59,
+        46,
+        71,
+        35
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word56.jpg",
+      "word_text": "পর্্যায়ে",
+      "char_indices": [
+        40,
+        46,
+        71,
+        71,
+        45,
+        56,
+        45,
+        2,
+        65
+      ],
+      "word_length": 9,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word57.jpg",
+      "word_text": "পৌঁছে",
+      "char_indices": [
+        40,
+        70,
+        72,
+        25,
+        65
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word58.jpg",
+      "word_text": "গিয়েছে",
+      "char_indices": [
+        21,
+        57,
+        45,
+        2,
+        65,
+        25,
+        65
+      ],
+      "word_length": 7,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word59.jpg",
+      "word_text": "এই",
+      "char_indices": [
+        13,
+        5
+      ],
+      "word_length": 2,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word60.jpg",
+      "word_text": "ক্যান্সার",
+      "char_indices": [
+        19,
+        71,
+        45,
+        56,
+        38,
+        71,
+        54,
+        56,
+        46
+      ],
+      "word_length": 9,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word61.jpg",
+      "word_text": "সেই",
+      "char_indices": [
+        54,
+        65,
+        5
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word62.jpg",
+      "word_text": "কারণেই",
+      "char_indices": [
+        19,
+        56,
+        46,
+        33,
+        65,
+        5
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word63.jpg",
+      "word_text": "শৌচাগারে",
+      "char_indices": [
+        52,
+        70,
+        24,
+        56,
+        21,
+        56,
+        46,
+        65
+      ],
+      "word_length": 8,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word64.jpg",
+      "word_text": "যাওয়ার",
+      "char_indices": [
+        45,
+        56,
+        17,
+        45,
+        2,
+        56,
+        46
+      ],
+      "word_length": 7,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word65.jpg",
+      "word_text": "সুযোগ",
+      "char_indices": [
+        54,
+        59,
+        45,
+        69,
+        21
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word66.jpg",
+      "word_text": "পাননি",
+      "char_indices": [
+        40,
+        56,
+        38,
+        38,
+        57
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word67.jpg",
+      "word_text": "তিনি",
+      "char_indices": [
+        34,
+        57,
+        38,
+        57
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word68.jpg",
+      "word_text": "পোশাকেই",
+      "char_indices": [
+        40,
+        69,
+        52,
+        56,
+        19,
+        65,
+        5
+      ],
+      "word_length": 7,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word69.jpg",
+      "word_text": "মলত্যাগ",
+      "char_indices": [
+        44,
+        48,
+        34,
+        71,
+        45,
+        56,
+        21
+      ],
+      "word_length": 7,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word70.jpg",
+      "word_text": "করে",
+      "char_indices": [
+        19,
+        46,
+        65
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word71.jpg",
+      "word_text": "দেন",
+      "char_indices": [
+        36,
+        65,
+        38
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word72.jpg",
+      "word_text": "রুশ",
+      "char_indices": [
+        46,
+        59,
+        52
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word73.jpg",
+      "word_text": "প্রেসিডেন্ট",
+      "char_indices": [
+        40,
+        71,
+        46,
+        65,
+        54,
+        57,
+        31,
+        65,
+        38,
+        71,
+        29
+      ],
+      "word_length": 11,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word74.jpg",
+      "word_text": "গত",
+      "char_indices": [
+        21,
+        34
+      ],
+      "word_length": 2,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word75.jpg",
+      "word_text": "বুধবার",
+      "char_indices": [
+        42,
+        59,
+        37,
+        42,
+        56,
+        46
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word76.jpg",
+      "word_text": "অর্থাৎ",
+      "char_indices": [
+        3,
+        46,
+        71,
+        35,
+        56,
+        2
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word77.jpg",
+      "word_text": "৩০",
+      "char_indices": [
+        140,
+        137
+      ],
+      "word_length": 2,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word78.jpg",
+      "word_text": "নভেম্বর",
+      "char_indices": [
+        38,
+        43,
+        65,
+        44,
+        71,
+        42,
+        46
+      ],
+      "word_length": 7,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word79.jpg",
+      "word_text": "ওই",
+      "char_indices": [
+        17,
+        5
+      ],
+      "word_length": 2,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word80.jpg",
+      "word_text": "ঘটনা",
+      "char_indices": [
+        22,
+        29,
+        38,
+        56
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word81.jpg",
+      "word_text": "ঘটেছে",
+      "char_indices": [
+        22,
+        29,
+        65,
+        25,
+        65
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word82.jpg",
+      "word_text": "বলে",
+      "char_indices": [
+        42,
+        48,
+        65
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word83.jpg",
+      "word_text": "দাবি",
+      "char_indices": [
+        36,
+        56,
+        42,
+        57
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word84.jpg",
+      "word_text": "করেছে",
+      "char_indices": [
+        19,
+        46,
+        65,
+        25,
+        65
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word85.jpg",
+      "word_text": "পশ্চিমী",
+      "char_indices": [
+        40,
+        52,
+        71,
+        24,
+        57,
+        44,
+        58
+      ],
+      "word_length": 7,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word86.jpg",
+      "word_text": "সংবাদমাধ্যমগুলি",
+      "char_indices": [
+        54,
+        73,
+        42,
+        56,
+        36,
+        44,
+        56,
+        37,
+        71,
+        45,
+        44,
+        21,
+        59,
+        48,
+        57
+      ],
+      "word_length": 15,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word87.jpg",
+      "word_text": "তাঁদের",
+      "char_indices": [
+        34,
+        56,
+        72,
+        36,
+        65,
+        46
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word88.jpg",
+      "word_text": "প্রকাশিত",
+      "char_indices": [
+        40,
+        71,
+        46,
+        19,
+        56,
+        52,
+        57,
+        34
+      ],
+      "word_length": 8,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word89.jpg",
+      "word_text": "খবর",
+      "char_indices": [
+        20,
+        42,
+        46
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word90.jpg",
+      "word_text": "অনুযায়ী",
+      "char_indices": [
+        3,
+        38,
+        59,
+        45,
+        56,
+        45,
+        2,
+        58
+      ],
+      "word_length": 8,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word91.jpg",
+      "word_text": "ওই",
+      "char_indices": [
+        17,
+        5
+      ],
+      "word_length": 2,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word92.jpg",
+      "word_text": "দিন",
+      "char_indices": [
+        36,
+        57,
+        38
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word93.jpg",
+      "word_text": "প্রেসিডেন্ট",
+      "char_indices": [
+        40,
+        71,
+        46,
+        65,
+        54,
+        57,
+        31,
+        65,
+        38,
+        71,
+        29
+      ],
+      "word_length": 11,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word94.jpg",
+      "word_text": "প্যালেসের",
+      "char_indices": [
+        40,
+        71,
+        45,
+        56,
+        48,
+        65,
+        54,
+        65,
+        46
+      ],
+      "word_length": 9,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word95.jpg",
+      "word_text": "সিঁড়ি",
+      "char_indices": [
+        54,
+        57,
+        72,
+        31,
+        2,
+        57
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word96.jpg",
+      "word_text": "দিয়ে",
+      "char_indices": [
+        36,
+        57,
+        45,
+        2,
+        65
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word97.jpg",
+      "word_text": "নিচে",
+      "char_indices": [
+        38,
+        57,
+        24,
+        65
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word98.jpg",
+      "word_text": "নামার",
+      "char_indices": [
+        38,
+        56,
+        44,
+        56,
+        46
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word99.jpg",
+      "word_text": "সময়",
+      "char_indices": [
+        54,
+        44,
+        45,
+        2
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word100.jpg",
+      "word_text": "হটাৎই",
+      "char_indices": [
+        55,
+        29,
+        56,
+        2,
+        5
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word101.jpg",
+      "word_text": "পা",
+      "char_indices": [
+        40,
+        56
+      ],
+      "word_length": 2,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word102.jpg",
+      "word_text": "পিছলে",
+      "char_indices": [
+        40,
+        57,
+        25,
+        48,
+        65
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word103.jpg",
+      "word_text": "নীচে",
+      "char_indices": [
+        38,
+        58,
+        24,
+        65
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word104.jpg",
+      "word_text": "গড়িয়ে",
+      "char_indices": [
+        21,
+        31,
+        2,
+        57,
+        45,
+        2,
+        65
+      ],
+      "word_length": 7,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word105.jpg",
+      "word_text": "পড়ে",
+      "char_indices": [
+        40,
+        31,
+        2,
+        65
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word106.jpg",
+      "word_text": "যান",
+      "char_indices": [
+        45,
+        56,
+        38
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word107.jpg",
+      "word_text": "রুশ",
+      "char_indices": [
+        46,
+        59,
+        52
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word108.jpg",
+      "word_text": "প্রেসিডেন্টের",
+      "char_indices": [
+        40,
+        71,
+        46,
+        65,
+        54,
+        57,
+        31,
+        65,
+        38,
+        71,
+        29,
+        65,
+        46
+      ],
+      "word_length": 13,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word109.jpg",
+      "word_text": "এই",
+      "char_indices": [
+        13,
+        5
+      ],
+      "word_length": 2,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word110.jpg",
+      "word_text": "দুর্ঘটনা",
+      "char_indices": [
+        36,
+        59,
+        46,
+        71,
+        22,
+        29,
+        38,
+        56
+      ],
+      "word_length": 8,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word111.jpg",
+      "word_text": "সম্পর্কে",
+      "char_indices": [
+        54,
+        44,
+        71,
+        40,
+        46,
+        71,
+        19,
+        65
+      ],
+      "word_length": 8,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word112.jpg",
+      "word_text": "বলতে",
+      "char_indices": [
+        42,
+        48,
+        34,
+        65
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word113.jpg",
+      "word_text": "গিয়ে",
+      "char_indices": [
+        21,
+        57,
+        45,
+        2,
+        65
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word114.jpg",
+      "word_text": "একটি",
+      "char_indices": [
+        13,
+        19,
+        29,
+        57
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word115.jpg",
+      "word_text": "টিভি",
+      "char_indices": [
+        29,
+        57,
+        43,
+        57
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word116.jpg",
+      "word_text": "চ্যানেল",
+      "char_indices": [
+        24,
+        71,
+        45,
+        56,
+        38,
+        65,
+        48
+      ],
+      "word_length": 7,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word117.jpg",
+      "word_text": "দাবি",
+      "char_indices": [
+        36,
+        56,
+        42,
+        57
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word118.jpg",
+      "word_text": "করেছে",
+      "char_indices": [
+        19,
+        46,
+        65,
+        25,
+        65
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word119.jpg",
+      "word_text": "অন্তত",
+      "char_indices": [
+        3,
+        38,
+        71,
+        34,
+        34
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word120.jpg",
+      "word_text": "পাঁচটি",
+      "char_indices": [
+        40,
+        56,
+        72,
+        24,
+        29,
+        57
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word121.jpg",
+      "word_text": "সিঁড়ি",
+      "char_indices": [
+        54,
+        57,
+        72,
+        31,
+        2,
+        57
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word122.jpg",
+      "word_text": "গড়িয়ে",
+      "char_indices": [
+        21,
+        31,
+        2,
+        57,
+        45,
+        2,
+        65
+      ],
+      "word_length": 7,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word123.jpg",
+      "word_text": "নীচে",
+      "char_indices": [
+        38,
+        58,
+        24,
+        65
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word124.jpg",
+      "word_text": "পড়ে",
+      "char_indices": [
+        40,
+        31,
+        2,
+        65
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word125.jpg",
+      "word_text": "যান",
+      "char_indices": [
+        45,
+        56,
+        38
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word126.jpg",
+      "word_text": "তিনি",
+      "char_indices": [
+        34,
+        57,
+        38,
+        57
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word127.jpg",
+      "word_text": "ফলে",
+      "char_indices": [
+        41,
+        48,
+        65
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word128.jpg",
+      "word_text": "তাঁর",
+      "char_indices": [
+        34,
+        56,
+        72,
+        46
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word129.jpg",
+      "word_text": "কক্সিকেও",
+      "char_indices": [
+        19,
+        19,
+        71,
+        54,
+        57,
+        19,
+        65,
+        17
+      ],
+      "word_length": 8,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word130.jpg",
+      "word_text": "গুরুতর",
+      "char_indices": [
+        21,
+        59,
+        46,
+        59,
+        34,
+        46
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word131.jpg",
+      "word_text": "চোট",
+      "char_indices": [
+        24,
+        69,
+        29
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word132.jpg",
+      "word_text": "পান",
+      "char_indices": [
+        40,
+        56,
+        38
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word133.jpg",
+      "word_text": "তিনি",
+      "char_indices": [
+        34,
+        57,
+        38,
+        57
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word134.jpg",
+      "word_text": "পশ্চিমী",
+      "char_indices": [
+        40,
+        52,
+        71,
+        24,
+        57,
+        44,
+        58
+      ],
+      "word_length": 7,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word135.jpg",
+      "word_text": "সংবাদ",
+      "char_indices": [
+        54,
+        73,
+        42,
+        56,
+        36
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word136.jpg",
+      "word_text": "মাধ্যমগুলির",
+      "char_indices": [
+        44,
+        56,
+        37,
+        71,
+        45,
+        44,
+        21,
+        59,
+        48,
+        57,
+        46
+      ],
+      "word_length": 11,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word137.jpg",
+      "word_text": "দাবি",
+      "char_indices": [
+        36,
+        56,
+        42,
+        57
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word138.jpg",
+      "word_text": "দীর্ঘদিন",
+      "char_indices": [
+        36,
+        58,
+        46,
+        71,
+        22,
+        36,
+        57,
+        38
+      ],
+      "word_length": 8,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word139.jpg",
+      "word_text": "ধরেই",
+      "char_indices": [
+        37,
+        46,
+        65,
+        5
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word140.jpg",
+      "word_text": "ক্যান্সারে",
+      "char_indices": [
+        19,
+        71,
+        45,
+        56,
+        38,
+        71,
+        54,
+        56,
+        46,
+        65
+      ],
+      "word_length": 10,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word141.jpg",
+      "word_text": "ভুগছেন",
+      "char_indices": [
+        43,
+        59,
+        21,
+        25,
+        65,
+        38
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word142.jpg",
+      "word_text": "পুতিন",
+      "char_indices": [
+        40,
+        59,
+        34,
+        57,
+        38
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word143.jpg",
+      "word_text": "মারণ",
+      "char_indices": [
+        44,
+        56,
+        46,
+        33
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word144.jpg",
+      "word_text": "রোগ",
+      "char_indices": [
+        46,
+        69,
+        21
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word145.jpg",
+      "word_text": "তাঁর",
+      "char_indices": [
+        34,
+        56,
+        72,
+        46
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word146.jpg",
+      "word_text": "অন্ত্রে",
+      "char_indices": [
+        3,
+        38,
+        71,
+        34,
+        71,
+        46,
+        65
+      ],
+      "word_length": 7,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word147.jpg",
+      "word_text": "ছড়িয়ে",
+      "char_indices": [
+        25,
+        31,
+        2,
+        57,
+        45,
+        2,
+        65
+      ],
+      "word_length": 7,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word148.jpg",
+      "word_text": "পড়ায়",
+      "char_indices": [
+        40,
+        31,
+        2,
+        56,
+        45,
+        2
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word149.jpg",
+      "word_text": "হজমের",
+      "char_indices": [
+        55,
+        26,
+        44,
+        65,
+        46
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word150.jpg",
+      "word_text": "সমস্যা",
+      "char_indices": [
+        54,
+        44,
+        54,
+        71,
+        45,
+        56
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word151.jpg",
+      "word_text": "রয়েছে",
+      "char_indices": [
+        46,
+        45,
+        2,
+        65,
+        25,
+        65
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word152.jpg",
+      "word_text": "রুশ",
+      "char_indices": [
+        46,
+        59,
+        52
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0004_word153.jpg",
+      "word_text": "প্রেসিডেন্টের",
+      "char_indices": [
+        40,
+        71,
+        46,
+        65,
+        54,
+        57,
+        31,
+        65,
+        38,
+        71,
+        29,
+        65,
+        46
+      ],
+      "word_length": 13,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word1.jpg",
+      "word_text": "এবার",
+      "char_indices": [
+        13,
+        42,
+        56,
+        46
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word2.jpg",
+      "word_text": "মাধ্যমিকে",
+      "char_indices": [
+        44,
+        56,
+        37,
+        71,
+        45,
+        44,
+        57,
+        19,
+        65
+      ],
+      "word_length": 9,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word3.jpg",
+      "word_text": "না",
+      "char_indices": [
+        38,
+        56
+      ],
+      "word_length": 2,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word4.jpg",
+      "word_text": "থাকলেও",
+      "char_indices": [
+        35,
+        56,
+        19,
+        48,
+        65,
+        17
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word5.jpg",
+      "word_text": "একাদশ",
+      "char_indices": [
+        13,
+        19,
+        56,
+        36,
+        52
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word6.jpg",
+      "word_text": "শ্রেণীতে",
+      "char_indices": [
+        52,
+        71,
+        46,
+        65,
+        33,
+        58,
+        34,
+        65
+      ],
+      "word_length": 8,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word7.jpg",
+      "word_text": "পড়া",
+      "char_indices": [
+        40,
+        31,
+        2,
+        56
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word8.jpg",
+      "word_text": "যাবে",
+      "char_indices": [
+        45,
+        56,
+        42,
+        65
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word9.jpg",
+      "word_text": "বৃত্তিশিক্ষার",
+      "char_indices": [
+        42,
+        61,
+        34,
+        71,
+        34,
+        57,
+        52,
+        57,
+        19,
+        71,
+        53,
+        56,
+        46
+      ],
+      "word_length": 13,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word10.jpg",
+      "word_text": "বিষয়",
+      "char_indices": [
+        42,
+        57,
+        53,
+        45,
+        2
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word11.jpg",
+      "word_text": "ছাত্রছাত্রীরা",
+      "char_indices": [
+        25,
+        56,
+        34,
+        71,
+        46,
+        25,
+        56,
+        34,
+        71,
+        46,
+        58,
+        46,
+        56
+      ],
+      "word_length": 13,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word12.jpg",
+      "word_text": "মাধ্যমিক",
+      "char_indices": [
+        44,
+        56,
+        37,
+        71,
+        45,
+        44,
+        57,
+        19
+      ],
+      "word_length": 8,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word13.jpg",
+      "word_text": "স্তরে",
+      "char_indices": [
+        54,
+        71,
+        34,
+        46,
+        65
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word14.jpg",
+      "word_text": "ভোকেশনাল",
+      "char_indices": [
+        43,
+        69,
+        19,
+        65,
+        52,
+        38,
+        56,
+        48
+      ],
+      "word_length": 8,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word15.jpg",
+      "word_text": "কিংবা",
+      "char_indices": [
+        19,
+        57,
+        73,
+        42,
+        56
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word16.jpg",
+      "word_text": "বৃত্তিশিক্ষার",
+      "char_indices": [
+        42,
+        61,
+        34,
+        71,
+        34,
+        57,
+        52,
+        57,
+        19,
+        71,
+        53,
+        56,
+        46
+      ],
+      "word_length": 13,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word17.jpg",
+      "word_text": "বিষয়",
+      "char_indices": [
+        42,
+        57,
+        53,
+        45,
+        2
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word18.jpg",
+      "word_text": "না",
+      "char_indices": [
+        38,
+        56
+      ],
+      "word_length": 2,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word19.jpg",
+      "word_text": "থাকলেও",
+      "char_indices": [
+        35,
+        56,
+        19,
+        48,
+        65,
+        17
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word20.jpg",
+      "word_text": "সরাসরি",
+      "char_indices": [
+        54,
+        46,
+        56,
+        54,
+        46,
+        57
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word21.jpg",
+      "word_text": "একাদশ",
+      "char_indices": [
+        13,
+        19,
+        56,
+        36,
+        52
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word22.jpg",
+      "word_text": "শ্রেণীতে",
+      "char_indices": [
+        52,
+        71,
+        46,
+        65,
+        33,
+        58,
+        34,
+        65
+      ],
+      "word_length": 8,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word23.jpg",
+      "word_text": "পড়তে",
+      "char_indices": [
+        40,
+        31,
+        2,
+        34,
+        65
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word24.jpg",
+      "word_text": "পারবেন",
+      "char_indices": [
+        40,
+        56,
+        46,
+        42,
+        65,
+        38
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word25.jpg",
+      "word_text": "এমনটাই",
+      "char_indices": [
+        13,
+        44,
+        38,
+        29,
+        56,
+        5
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word26.jpg",
+      "word_text": "উচ্চ",
+      "char_indices": [
+        7,
+        24,
+        71,
+        24
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word27.jpg",
+      "word_text": "মাধ্যমিক",
+      "char_indices": [
+        44,
+        56,
+        37,
+        71,
+        45,
+        44,
+        57,
+        19
+      ],
+      "word_length": 8,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word28.jpg",
+      "word_text": "শিক্ষা",
+      "char_indices": [
+        52,
+        57,
+        19,
+        71,
+        53,
+        56
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word29.jpg",
+      "word_text": "সংসদের",
+      "char_indices": [
+        54,
+        73,
+        54,
+        36,
+        65,
+        46
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word30.jpg",
+      "word_text": "তরফে",
+      "char_indices": [
+        34,
+        46,
+        41,
+        65
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word31.jpg",
+      "word_text": "জানানো",
+      "char_indices": [
+        26,
+        56,
+        38,
+        56,
+        38,
+        69
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word32.jpg",
+      "word_text": "হয়েছে",
+      "char_indices": [
+        55,
+        45,
+        2,
+        65,
+        25,
+        65
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word33.jpg",
+      "word_text": "আগামী",
+      "char_indices": [
+        4,
+        21,
+        56,
+        44,
+        58
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word34.jpg",
+      "word_text": "শিক্ষাবর্ষের",
+      "char_indices": [
+        52,
+        57,
+        19,
+        71,
+        53,
+        56,
+        42,
+        46,
+        71,
+        53,
+        65,
+        46
+      ],
+      "word_length": 12,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word35.jpg",
+      "word_text": "অর্থাৎ",
+      "char_indices": [
+        3,
+        46,
+        71,
+        35,
+        56,
+        2
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word36.jpg",
+      "word_text": "২০২৩",
+      "char_indices": [
+        139,
+        137,
+        139,
+        140
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word37.jpg",
+      "word_text": "থেকে",
+      "char_indices": [
+        35,
+        65,
+        19,
+        65
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word38.jpg",
+      "word_text": "২০২৫",
+      "char_indices": [
+        139,
+        137,
+        139,
+        142
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word39.jpg",
+      "word_text": "সালে",
+      "char_indices": [
+        54,
+        56,
+        48,
+        65
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word40.jpg",
+      "word_text": "সংশ্লিষ্ট",
+      "char_indices": [
+        54,
+        73,
+        52,
+        71,
+        48,
+        57,
+        53,
+        71,
+        29
+      ],
+      "word_length": 9,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word41.jpg",
+      "word_text": "ব্যবস্থাটি",
+      "char_indices": [
+        42,
+        71,
+        45,
+        42,
+        54,
+        71,
+        35,
+        56,
+        29,
+        57
+      ],
+      "word_length": 10,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word42.jpg",
+      "word_text": "কার্যকর",
+      "char_indices": [
+        19,
+        56,
+        46,
+        71,
+        45,
+        19,
+        46
+      ],
+      "word_length": 7,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word43.jpg",
+      "word_text": "করা",
+      "char_indices": [
+        19,
+        46,
+        56
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word44.jpg",
+      "word_text": "হবে",
+      "char_indices": [
+        55,
+        42,
+        65
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word45.jpg",
+      "word_text": "সম্প্রতি",
+      "char_indices": [
+        54,
+        44,
+        71,
+        40,
+        71,
+        46,
+        34,
+        57
+      ],
+      "word_length": 8,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word46.jpg",
+      "word_text": "উচ্চ",
+      "char_indices": [
+        7,
+        24,
+        71,
+        24
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word47.jpg",
+      "word_text": "মাধ্যমিক",
+      "char_indices": [
+        44,
+        56,
+        37,
+        71,
+        45,
+        44,
+        57,
+        19
+      ],
+      "word_length": 8,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word48.jpg",
+      "word_text": "শিক্ষা",
+      "char_indices": [
+        52,
+        57,
+        19,
+        71,
+        53,
+        56
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word49.jpg",
+      "word_text": "সংসদের",
+      "char_indices": [
+        54,
+        73,
+        54,
+        36,
+        65,
+        46
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word50.jpg",
+      "word_text": "তরফে",
+      "char_indices": [
+        34,
+        46,
+        41,
+        65
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word51.jpg",
+      "word_text": "এই",
+      "char_indices": [
+        13,
+        5
+      ],
+      "word_length": 2,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word52.jpg",
+      "word_text": "সংক্রান্ত",
+      "char_indices": [
+        54,
+        73,
+        19,
+        71,
+        46,
+        56,
+        38,
+        71,
+        34
+      ],
+      "word_length": 9,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word53.jpg",
+      "word_text": "একটি",
+      "char_indices": [
+        13,
+        19,
+        29,
+        57
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word54.jpg",
+      "word_text": "বিজ্ঞপ্তি",
+      "char_indices": [
+        42,
+        57,
+        26,
+        71,
+        28,
+        40,
+        71,
+        34,
+        57
+      ],
+      "word_length": 9,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word55.jpg",
+      "word_text": "দেওয়া",
+      "char_indices": [
+        36,
+        65,
+        17,
+        45,
+        2,
+        56
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word56.jpg",
+      "word_text": "হয়",
+      "char_indices": [
+        55,
+        45,
+        2
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word57.jpg",
+      "word_text": "বিজ্ঞপ্তিতে",
+      "char_indices": [
+        42,
+        57,
+        26,
+        71,
+        28,
+        40,
+        71,
+        34,
+        57,
+        34,
+        65
+      ],
+      "word_length": 11,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word58.jpg",
+      "word_text": "উল্লেখ",
+      "char_indices": [
+        7,
+        48,
+        71,
+        48,
+        65,
+        20
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word59.jpg",
+      "word_text": "করা",
+      "char_indices": [
+        19,
+        46,
+        56
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word60.jpg",
+      "word_text": "হয়",
+      "char_indices": [
+        55,
+        45,
+        2
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word61.jpg",
+      "word_text": "যে",
+      "char_indices": [
+        45,
+        65
+      ],
+      "word_length": 2,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word62.jpg",
+      "word_text": "এবার",
+      "char_indices": [
+        13,
+        42,
+        56,
+        46
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word63.jpg",
+      "word_text": "থেকে",
+      "char_indices": [
+        35,
+        65,
+        19,
+        65
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word64.jpg",
+      "word_text": "একাদশ",
+      "char_indices": [
+        13,
+        19,
+        56,
+        36,
+        52
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word65.jpg",
+      "word_text": "শ্রেণীতেও",
+      "char_indices": [
+        52,
+        71,
+        46,
+        65,
+        33,
+        58,
+        34,
+        65,
+        17
+      ],
+      "word_length": 9,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word66.jpg",
+      "word_text": "ভোকেশনাল",
+      "char_indices": [
+        43,
+        69,
+        19,
+        65,
+        52,
+        38,
+        56,
+        48
+      ],
+      "word_length": 8,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word67.jpg",
+      "word_text": "বিষয়",
+      "char_indices": [
+        42,
+        57,
+        53,
+        45,
+        2
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word68.jpg",
+      "word_text": "নিয়ে",
+      "char_indices": [
+        38,
+        57,
+        45,
+        2,
+        65
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word69.jpg",
+      "word_text": "পড়া",
+      "char_indices": [
+        40,
+        31,
+        2,
+        56
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word70.jpg",
+      "word_text": "যাবে",
+      "char_indices": [
+        45,
+        56,
+        42,
+        65
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word71.jpg",
+      "word_text": "যার",
+      "char_indices": [
+        45,
+        56,
+        46
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word72.jpg",
+      "word_text": "জন্য",
+      "char_indices": [
+        26,
+        38,
+        71,
+        45
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word73.jpg",
+      "word_text": "মাধ্যমিকে",
+      "char_indices": [
+        44,
+        56,
+        37,
+        71,
+        45,
+        44,
+        57,
+        19,
+        65
+      ],
+      "word_length": 9,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word74.jpg",
+      "word_text": "সেই",
+      "char_indices": [
+        54,
+        65,
+        5
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word75.jpg",
+      "word_text": "ভোকেশনাল",
+      "char_indices": [
+        43,
+        69,
+        19,
+        65,
+        52,
+        38,
+        56,
+        48
+      ],
+      "word_length": 8,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word76.jpg",
+      "word_text": "বিষয়ে",
+      "char_indices": [
+        42,
+        57,
+        53,
+        45,
+        2,
+        65
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word77.jpg",
+      "word_text": "থাকা",
+      "char_indices": [
+        35,
+        56,
+        19,
+        56
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word78.jpg",
+      "word_text": "আর",
+      "char_indices": [
+        4,
+        46
+      ],
+      "word_length": 2,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word79.jpg",
+      "word_text": "বাঞ্ছনীয়",
+      "char_indices": [
+        42,
+        56,
+        28,
+        71,
+        25,
+        38,
+        58,
+        45,
+        2
+      ],
+      "word_length": 9,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word80.jpg",
+      "word_text": "নয়",
+      "char_indices": [
+        38,
+        45,
+        2
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word81.jpg",
+      "word_text": "২০২৩",
+      "char_indices": [
+        139,
+        137,
+        139,
+        140
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word82.jpg",
+      "word_text": "থেকে",
+      "char_indices": [
+        35,
+        65,
+        19,
+        65
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word83.jpg",
+      "word_text": "২০২৫",
+      "char_indices": [
+        139,
+        137,
+        139,
+        142
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word84.jpg",
+      "word_text": "শিক্ষাবর্ষের",
+      "char_indices": [
+        52,
+        57,
+        19,
+        71,
+        53,
+        56,
+        42,
+        46,
+        71,
+        53,
+        65,
+        46
+      ],
+      "word_length": 12,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word85.jpg",
+      "word_text": "এই",
+      "char_indices": [
+        13,
+        5
+      ],
+      "word_length": 2,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word86.jpg",
+      "word_text": "ব্যবস্থা",
+      "char_indices": [
+        42,
+        71,
+        45,
+        42,
+        54,
+        71,
+        35,
+        56
+      ],
+      "word_length": 8,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word87.jpg",
+      "word_text": "কার্যকর",
+      "char_indices": [
+        19,
+        56,
+        46,
+        71,
+        45,
+        19,
+        46
+      ],
+      "word_length": 7,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word88.jpg",
+      "word_text": "করা",
+      "char_indices": [
+        19,
+        46,
+        56
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word89.jpg",
+      "word_text": "হবে",
+      "char_indices": [
+        55,
+        42,
+        65
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word90.jpg",
+      "word_text": "বলে",
+      "char_indices": [
+        42,
+        48,
+        65
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word91.jpg",
+      "word_text": "জানিয়েছেন",
+      "char_indices": [
+        26,
+        56,
+        38,
+        57,
+        45,
+        2,
+        65,
+        25,
+        65,
+        38
+      ],
+      "word_length": 10,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word92.jpg",
+      "word_text": "উচ্চ",
+      "char_indices": [
+        7,
+        24,
+        71,
+        24
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word93.jpg",
+      "word_text": "মাধ্যমিক",
+      "char_indices": [
+        44,
+        56,
+        37,
+        71,
+        45,
+        44,
+        57,
+        19
+      ],
+      "word_length": 8,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word94.jpg",
+      "word_text": "শিক্ষা",
+      "char_indices": [
+        52,
+        57,
+        19,
+        71,
+        53,
+        56
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word95.jpg",
+      "word_text": "সংসদের",
+      "char_indices": [
+        54,
+        73,
+        54,
+        36,
+        65,
+        46
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word96.jpg",
+      "word_text": "সচিব",
+      "char_indices": [
+        54,
+        24,
+        57,
+        42
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word97.jpg",
+      "word_text": "তাপস",
+      "char_indices": [
+        34,
+        56,
+        40,
+        54
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0007_word98.jpg",
+      "word_text": "মুখোপাধ্যায়",
+      "char_indices": [
+        44,
+        59,
+        20,
+        69,
+        40,
+        56,
+        37,
+        71,
+        45,
+        56,
+        45,
+        2
+      ],
+      "word_length": 12,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word1.jpg",
+      "word_text": "বাজেট",
+      "char_indices": [
+        42,
+        56,
+        26,
+        65,
+        29
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word2.jpg",
+      "word_text": "সেগমেন্টে",
+      "char_indices": [
+        54,
+        65,
+        21,
+        44,
+        65,
+        38,
+        71,
+        29,
+        65
+      ],
+      "word_length": 9,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word3.jpg",
+      "word_text": "চিনা",
+      "char_indices": [
+        24,
+        57,
+        38,
+        56
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word4.jpg",
+      "word_text": "স্মার্টফোন",
+      "char_indices": [
+        54,
+        71,
+        44,
+        56,
+        46,
+        71,
+        29,
+        41,
+        69,
+        38
+      ],
+      "word_length": 10,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word5.jpg",
+      "word_text": "কোম্পানিগুলির",
+      "char_indices": [
+        19,
+        69,
+        44,
+        71,
+        40,
+        56,
+        38,
+        57,
+        21,
+        59,
+        48,
+        57,
+        46
+      ],
+      "word_length": 13,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word6.jpg",
+      "word_text": "সঙ্গে",
+      "char_indices": [
+        54,
+        23,
+        71,
+        21,
+        65
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word7.jpg",
+      "word_text": "প্রতিযোগিতায়",
+      "char_indices": [
+        40,
+        71,
+        46,
+        34,
+        57,
+        45,
+        69,
+        21,
+        57,
+        34,
+        56,
+        45,
+        2
+      ],
+      "word_length": 13,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word8.jpg",
+      "word_text": "একের",
+      "char_indices": [
+        13,
+        19,
+        65,
+        46
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word9.jpg",
+      "word_text": "পর",
+      "char_indices": [
+        40,
+        46
+      ],
+      "word_length": 2,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word10.jpg",
+      "word_text": "এক",
+      "char_indices": [
+        13,
+        19
+      ],
+      "word_length": 2,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word11.jpg",
+      "word_text": "নতুন",
+      "char_indices": [
+        38,
+        34,
+        59,
+        38
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word12.jpg",
+      "word_text": "মডেল",
+      "char_indices": [
+        44,
+        31,
+        65,
+        48
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word13.jpg",
+      "word_text": "বাজারে",
+      "char_indices": [
+        42,
+        56,
+        26,
+        56,
+        46,
+        65
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word14.jpg",
+      "word_text": "এসেছে",
+      "char_indices": [
+        13,
+        54,
+        65,
+        25,
+        65
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word15.jpg",
+      "word_text": "এবার",
+      "char_indices": [
+        13,
+        42,
+        56,
+        46
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word16.jpg",
+      "word_text": "কোম্পানির",
+      "char_indices": [
+        19,
+        69,
+        44,
+        71,
+        40,
+        56,
+        38,
+        57,
+        46
+      ],
+      "word_length": 9,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word17.jpg",
+      "word_text": "জনপ্রিয়",
+      "char_indices": [
+        26,
+        38,
+        40,
+        71,
+        46,
+        57,
+        45,
+        2
+      ],
+      "word_length": 8,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word18.jpg",
+      "word_text": "সিরিজে",
+      "char_indices": [
+        54,
+        57,
+        46,
+        57,
+        26,
+        65
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word19.jpg",
+      "word_text": "ফের",
+      "char_indices": [
+        41,
+        65,
+        46
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word20.jpg",
+      "word_text": "নতুন",
+      "char_indices": [
+        38,
+        34,
+        59,
+        38
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word21.jpg",
+      "word_text": "ফোন",
+      "char_indices": [
+        41,
+        69,
+        38
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word22.jpg",
+      "word_text": "লঞ্চ",
+      "char_indices": [
+        48,
+        28,
+        71,
+        24
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word23.jpg",
+      "word_text": "করতে",
+      "char_indices": [
+        19,
+        46,
+        34,
+        65
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word24.jpg",
+      "word_text": "চলেছে",
+      "char_indices": [
+        24,
+        48,
+        65,
+        25,
+        65
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word25.jpg",
+      "word_text": "সংস্থাটি",
+      "char_indices": [
+        54,
+        73,
+        54,
+        71,
+        35,
+        56,
+        29,
+        57
+      ],
+      "word_length": 8,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word26.jpg",
+      "word_text": "সব",
+      "char_indices": [
+        54,
+        42
+      ],
+      "word_length": 2,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word27.jpg",
+      "word_text": "ঠিক",
+      "char_indices": [
+        30,
+        57,
+        19
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word28.jpg",
+      "word_text": "থাকলে",
+      "char_indices": [
+        35,
+        56,
+        19,
+        48,
+        65
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word29.jpg",
+      "word_text": "তাড়াতাড়ি",
+      "char_indices": [
+        34,
+        56,
+        31,
+        2,
+        56,
+        34,
+        56,
+        31,
+        2,
+        57
+      ],
+      "word_length": 10,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word30.jpg",
+      "word_text": "ভারতে",
+      "char_indices": [
+        43,
+        56,
+        46,
+        34,
+        65
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word31.jpg",
+      "word_text": "লঞ্চ",
+      "char_indices": [
+        48,
+        28,
+        71,
+        24
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word32.jpg",
+      "word_text": "হতে",
+      "char_indices": [
+        55,
+        34,
+        65
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word33.jpg",
+      "word_text": "পারে",
+      "char_indices": [
+        40,
+        56,
+        46,
+        65
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word34.jpg",
+      "word_text": "সার্টিফিকেশন",
+      "char_indices": [
+        54,
+        56,
+        46,
+        71,
+        29,
+        57,
+        41,
+        57,
+        19,
+        65,
+        52,
+        38
+      ],
+      "word_length": 12,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word35.jpg",
+      "word_text": "ওয়েবসাইটে",
+      "char_indices": [
+        17,
+        45,
+        2,
+        65,
+        42,
+        54,
+        56,
+        5,
+        29,
+        65
+      ],
+      "word_length": 10,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word36.jpg",
+      "word_text": "সম্প্রতি",
+      "char_indices": [
+        54,
+        44,
+        71,
+        40,
+        71,
+        46,
+        34,
+        57
+      ],
+      "word_length": 8,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word37.jpg",
+      "word_text": "রি",
+      "char_indices": [
+        46,
+        57
+      ],
+      "word_length": 2,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word38.jpg",
+      "word_text": "ডিভাইসের",
+      "char_indices": [
+        31,
+        57,
+        43,
+        56,
+        5,
+        54,
+        65,
+        46
+      ],
+      "word_length": 8,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word39.jpg",
+      "word_text": "উপস্থিতি",
+      "char_indices": [
+        7,
+        40,
+        54,
+        71,
+        35,
+        57,
+        34,
+        57
+      ],
+      "word_length": 8,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word40.jpg",
+      "word_text": "চোখে",
+      "char_indices": [
+        24,
+        69,
+        20,
+        65
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word41.jpg",
+      "word_text": "পড়েছে",
+      "char_indices": [
+        40,
+        31,
+        2,
+        65,
+        25,
+        65
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word42.jpg",
+      "word_text": "প্রসঙ্গত",
+      "char_indices": [
+        40,
+        71,
+        46,
+        54,
+        23,
+        71,
+        21,
+        34
+      ],
+      "word_length": 8,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word43.jpg",
+      "word_text": "ভারতে",
+      "char_indices": [
+        43,
+        56,
+        46,
+        34,
+        65
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word44.jpg",
+      "word_text": "যেকোনো",
+      "char_indices": [
+        45,
+        65,
+        19,
+        69,
+        38,
+        69
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word45.jpg",
+      "word_text": "মোবাইল",
+      "char_indices": [
+        44,
+        69,
+        42,
+        56,
+        5,
+        48
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word46.jpg",
+      "word_text": "লঞ্চের",
+      "char_indices": [
+        48,
+        28,
+        71,
+        24,
+        65,
+        46
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word47.jpg",
+      "word_text": "আগেই",
+      "char_indices": [
+        4,
+        21,
+        65,
+        5
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word48.jpg",
+      "word_text": "সার্টিফিকেশন",
+      "char_indices": [
+        54,
+        56,
+        46,
+        71,
+        29,
+        57,
+        41,
+        57,
+        19,
+        65,
+        52,
+        38
+      ],
+      "word_length": 12,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word49.jpg",
+      "word_text": "পাওয়া",
+      "char_indices": [
+        40,
+        56,
+        17,
+        45,
+        2,
+        56
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word50.jpg",
+      "word_text": "বাধ্যতামূলক",
+      "char_indices": [
+        42,
+        56,
+        37,
+        71,
+        45,
+        34,
+        56,
+        44,
+        60,
+        48,
+        19
+      ],
+      "word_length": 11,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word51.jpg",
+      "word_text": "তাই",
+      "char_indices": [
+        34,
+        56,
+        5
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word52.jpg",
+      "word_text": "এখন",
+      "char_indices": [
+        13,
+        20,
+        38
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word53.jpg",
+      "word_text": "লঞ্চ",
+      "char_indices": [
+        48,
+        28,
+        71,
+        24
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word54.jpg",
+      "word_text": "সময়ের",
+      "char_indices": [
+        54,
+        44,
+        45,
+        2,
+        65,
+        46
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word55.jpg",
+      "word_text": "অপেক্ষা",
+      "char_indices": [
+        3,
+        40,
+        65,
+        19,
+        71,
+        53,
+        56
+      ],
+      "word_length": 7,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word56.jpg",
+      "word_text": "বলে",
+      "char_indices": [
+        42,
+        48,
+        65
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word57.jpg",
+      "word_text": "মত",
+      "char_indices": [
+        44,
+        34
+      ],
+      "word_length": 2,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word58.jpg",
+      "word_text": "টেক",
+      "char_indices": [
+        29,
+        65,
+        19
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word59.jpg",
+      "word_text": "মহলে",
+      "char_indices": [
+        44,
+        55,
+        48,
+        65
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word60.jpg",
+      "word_text": "সম্প্রতি",
+      "char_indices": [
+        54,
+        44,
+        71,
+        40,
+        71,
+        46,
+        34,
+        57
+      ],
+      "word_length": 8,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word61.jpg",
+      "word_text": "জনপ্রিয়",
+      "char_indices": [
+        26,
+        38,
+        40,
+        71,
+        46,
+        57,
+        45,
+        2
+      ],
+      "word_length": 8,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word62.jpg",
+      "word_text": "টিপস্টার",
+      "char_indices": [
+        29,
+        57,
+        40,
+        54,
+        71,
+        29,
+        56,
+        46
+      ],
+      "word_length": 8,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word63.jpg",
+      "word_text": "মুকুল",
+      "char_indices": [
+        44,
+        59,
+        19,
+        59,
+        48
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word64.jpg",
+      "word_text": "শর্মা",
+      "char_indices": [
+        52,
+        46,
+        71,
+        44,
+        56
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word65.jpg",
+      "word_text": "টুইটারে",
+      "char_indices": [
+        29,
+        59,
+        5,
+        29,
+        56,
+        46,
+        65
+      ],
+      "word_length": 7,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word66.jpg",
+      "word_text": "জানিয়েছেন",
+      "char_indices": [
+        26,
+        56,
+        38,
+        57,
+        45,
+        2,
+        65,
+        25,
+        65,
+        38
+      ],
+      "word_length": 10,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word67.jpg",
+      "word_text": "ওয়েবসাইটে",
+      "char_indices": [
+        17,
+        45,
+        2,
+        65,
+        42,
+        54,
+        56,
+        5,
+        29,
+        65
+      ],
+      "word_length": 10,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word68.jpg",
+      "word_text": "ফোনটি",
+      "char_indices": [
+        41,
+        69,
+        38,
+        29,
+        57
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word69.jpg",
+      "word_text": "দেখা",
+      "char_indices": [
+        36,
+        65,
+        20,
+        56
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word70.jpg",
+      "word_text": "গিয়েছে",
+      "char_indices": [
+        21,
+        57,
+        45,
+        2,
+        65,
+        25,
+        65
+      ],
+      "word_length": 7,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word71.jpg",
+      "word_text": "সেখানে",
+      "char_indices": [
+        54,
+        65,
+        20,
+        56,
+        38,
+        65
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word72.jpg",
+      "word_text": "মডেল",
+      "char_indices": [
+        44,
+        31,
+        65,
+        48
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word73.jpg",
+      "word_text": "নম্বরে",
+      "char_indices": [
+        38,
+        44,
+        71,
+        42,
+        46,
+        65
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word74.jpg",
+      "word_text": "এই",
+      "char_indices": [
+        13,
+        5
+      ],
+      "word_length": 2,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word75.jpg",
+      "word_text": "ফোন",
+      "char_indices": [
+        41,
+        69,
+        38
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word76.jpg",
+      "word_text": "বিভিন্ন",
+      "char_indices": [
+        42,
+        57,
+        43,
+        57,
+        38,
+        71,
+        38
+      ],
+      "word_length": 7,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word77.jpg",
+      "word_text": "স্পেসিফিকেশন",
+      "char_indices": [
+        54,
+        71,
+        40,
+        65,
+        54,
+        57,
+        41,
+        57,
+        19,
+        65,
+        52,
+        38
+      ],
+      "word_length": 12,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word78.jpg",
+      "word_text": "সামনে",
+      "char_indices": [
+        54,
+        56,
+        44,
+        38,
+        65
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word79.jpg",
+      "word_text": "এসেছে",
+      "char_indices": [
+        13,
+        54,
+        65,
+        25,
+        65
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word80.jpg",
+      "word_text": "এছাড়াও",
+      "char_indices": [
+        13,
+        25,
+        56,
+        31,
+        2,
+        56,
+        17
+      ],
+      "word_length": 7,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word81.jpg",
+      "word_text": "থাইল্যান্ডের",
+      "char_indices": [
+        35,
+        56,
+        5,
+        48,
+        71,
+        45,
+        56,
+        38,
+        71,
+        31,
+        65,
+        46
+      ],
+      "word_length": 12,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word82.jpg",
+      "word_text": "সার্টিফিকেশন",
+      "char_indices": [
+        54,
+        56,
+        46,
+        71,
+        29,
+        57,
+        41,
+        57,
+        19,
+        65,
+        52,
+        38
+      ],
+      "word_length": 12,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word83.jpg",
+      "word_text": "ওয়েবসাইট",
+      "char_indices": [
+        17,
+        45,
+        2,
+        65,
+        42,
+        54,
+        56,
+        5,
+        29
+      ],
+      "word_length": 9,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word84.jpg",
+      "word_text": "তেও",
+      "char_indices": [
+        34,
+        65,
+        17
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word85.jpg",
+      "word_text": "এই",
+      "char_indices": [
+        13,
+        5
+      ],
+      "word_length": 2,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word86.jpg",
+      "word_text": "ফোনের",
+      "char_indices": [
+        41,
+        69,
+        38,
+        65,
+        46
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word87.jpg",
+      "word_text": "উপস্থিতি",
+      "char_indices": [
+        7,
+        40,
+        54,
+        71,
+        35,
+        57,
+        34,
+        57
+      ],
+      "word_length": 8,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word88.jpg",
+      "word_text": "চোখে",
+      "char_indices": [
+        24,
+        69,
+        20,
+        65
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word89.jpg",
+      "word_text": "পড়েছে",
+      "char_indices": [
+        40,
+        31,
+        2,
+        65,
+        25,
+        65
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word90.jpg",
+      "word_text": "মনে",
+      "char_indices": [
+        44,
+        38,
+        65
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word91.jpg",
+      "word_text": "করা",
+      "char_indices": [
+        19,
+        46,
+        56
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word92.jpg",
+      "word_text": "হচ্ছে",
+      "char_indices": [
+        55,
+        24,
+        71,
+        25,
+        65
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word93.jpg",
+      "word_text": "খুব",
+      "char_indices": [
+        20,
+        59,
+        42
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word94.jpg",
+      "word_text": "তাড়াতাড়ি",
+      "char_indices": [
+        34,
+        56,
+        31,
+        2,
+        56,
+        34,
+        56,
+        31,
+        2,
+        57
+      ],
+      "word_length": 10,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word95.jpg",
+      "word_text": "ভারতে",
+      "char_indices": [
+        43,
+        56,
+        46,
+        34,
+        65
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word96.jpg",
+      "word_text": "এই",
+      "char_indices": [
+        13,
+        5
+      ],
+      "word_length": 2,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word97.jpg",
+      "word_text": "ফোন",
+      "char_indices": [
+        41,
+        69,
+        38
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word98.jpg",
+      "word_text": "লঞ্চ",
+      "char_indices": [
+        48,
+        28,
+        71,
+        24
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word99.jpg",
+      "word_text": "করতে",
+      "char_indices": [
+        19,
+        46,
+        34,
+        65
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word100.jpg",
+      "word_text": "পারে",
+      "char_indices": [
+        40,
+        56,
+        46,
+        65
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word101.jpg",
+      "word_text": "সস্তায়",
+      "char_indices": [
+        54,
+        54,
+        71,
+        34,
+        56,
+        45,
+        2
+      ],
+      "word_length": 7,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word102.jpg",
+      "word_text": "কানেক্টিভিটি",
+      "char_indices": [
+        19,
+        56,
+        38,
+        65,
+        19,
+        71,
+        29,
+        57,
+        43,
+        57,
+        29,
+        57
+      ],
+      "word_length": 12,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word103.jpg",
+      "word_text": "সহ",
+      "char_indices": [
+        54,
+        55
+      ],
+      "word_length": 2,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word104.jpg",
+      "word_text": "এই",
+      "char_indices": [
+        13,
+        5
+      ],
+      "word_length": 2,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word105.jpg",
+      "word_text": "ফোন",
+      "char_indices": [
+        41,
+        69,
+        38
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word106.jpg",
+      "word_text": "লঞ্চ",
+      "char_indices": [
+        48,
+        28,
+        71,
+        24
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word107.jpg",
+      "word_text": "হবে",
+      "char_indices": [
+        55,
+        42,
+        65
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word108.jpg",
+      "word_text": "ভারতে",
+      "char_indices": [
+        43,
+        56,
+        46,
+        34,
+        65
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word109.jpg",
+      "word_text": "টাকার",
+      "char_indices": [
+        29,
+        56,
+        19,
+        56,
+        46
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word110.jpg",
+      "word_text": "কম",
+      "char_indices": [
+        19,
+        44
+      ],
+      "word_length": 2,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word111.jpg",
+      "word_text": "বাজেটে",
+      "char_indices": [
+        42,
+        56,
+        26,
+        65,
+        29,
+        65
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word112.jpg",
+      "word_text": "ভারতে",
+      "char_indices": [
+        43,
+        56,
+        46,
+        34,
+        65
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word113.jpg",
+      "word_text": "লঞ্চ",
+      "char_indices": [
+        48,
+        28,
+        71,
+        24
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word114.jpg",
+      "word_text": "হতে",
+      "char_indices": [
+        55,
+        34,
+        65
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word115.jpg",
+      "word_text": "পারে",
+      "char_indices": [
+        40,
+        56,
+        46,
+        65
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word116.jpg",
+      "word_text": "কানেক্টিভিটি",
+      "char_indices": [
+        19,
+        56,
+        38,
+        65,
+        19,
+        71,
+        29,
+        57,
+        43,
+        57,
+        29,
+        57
+      ],
+      "word_length": 12,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word117.jpg",
+      "word_text": "সহ",
+      "char_indices": [
+        54,
+        55
+      ],
+      "word_length": 2,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word118.jpg",
+      "word_text": "তে",
+      "char_indices": [
+        34,
+        65
+      ],
+      "word_length": 2,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word119.jpg",
+      "word_text": "থাকবে",
+      "char_indices": [
+        35,
+        56,
+        19,
+        42,
+        65
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word120.jpg",
+      "word_text": "ডিসপ্লে",
+      "char_indices": [
+        31,
+        57,
+        54,
+        40,
+        71,
+        48,
+        65
+      ],
+      "word_length": 7,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word121.jpg",
+      "word_text": "যদিও",
+      "char_indices": [
+        45,
+        36,
+        57,
+        17
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word122.jpg",
+      "word_text": "এই",
+      "char_indices": [
+        13,
+        5
+      ],
+      "word_length": 2,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word123.jpg",
+      "word_text": "ফোনে",
+      "char_indices": [
+        41,
+        69,
+        38,
+        65
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word124.jpg",
+      "word_text": "কানেক্টিভিটি",
+      "char_indices": [
+        19,
+        56,
+        38,
+        65,
+        19,
+        71,
+        29,
+        57,
+        43,
+        57,
+        29,
+        57
+      ],
+      "word_length": 12,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word125.jpg",
+      "word_text": "দেয়নি",
+      "char_indices": [
+        36,
+        65,
+        45,
+        2,
+        38,
+        57
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word126.jpg",
+      "word_text": "এই",
+      "char_indices": [
+        13,
+        5
+      ],
+      "word_length": 2,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word127.jpg",
+      "word_text": "ফোন",
+      "char_indices": [
+        41,
+        69,
+        38
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word128.jpg",
+      "word_text": "অথবা",
+      "char_indices": [
+        3,
+        35,
+        42,
+        56
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word129.jpg",
+      "word_text": "চিপসেট",
+      "char_indices": [
+        24,
+        57,
+        40,
+        54,
+        65,
+        29
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word130.jpg",
+      "word_text": "থাকতে",
+      "char_indices": [
+        35,
+        56,
+        19,
+        34,
+        65
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word131.jpg",
+      "word_text": "পারে",
+      "char_indices": [
+        40,
+        56,
+        46,
+        65
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word132.jpg",
+      "word_text": "শীঘ্রই",
+      "char_indices": [
+        52,
+        58,
+        22,
+        71,
+        46,
+        5
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word133.jpg",
+      "word_text": "একই",
+      "char_indices": [
+        13,
+        19,
+        5
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word134.jpg",
+      "word_text": "দামে",
+      "char_indices": [
+        36,
+        56,
+        44,
+        65
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word135.jpg",
+      "word_text": "বাজারে",
+      "char_indices": [
+        42,
+        56,
+        26,
+        56,
+        46,
+        65
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word136.jpg",
+      "word_text": "আসতে",
+      "char_indices": [
+        4,
+        54,
+        34,
+        65
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word137.jpg",
+      "word_text": "পারে",
+      "char_indices": [
+        40,
+        56,
+        46,
+        65
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word138.jpg",
+      "word_text": "সেই",
+      "char_indices": [
+        54,
+        65,
+        5
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word139.jpg",
+      "word_text": "ফোনেও",
+      "char_indices": [
+        41,
+        69,
+        38,
+        65,
+        17
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word140.jpg",
+      "word_text": "একই",
+      "char_indices": [
+        13,
+        19,
+        5
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word141.jpg",
+      "word_text": "চিপসেট",
+      "char_indices": [
+        24,
+        57,
+        40,
+        54,
+        65,
+        29
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word142.jpg",
+      "word_text": "দেখা",
+      "char_indices": [
+        36,
+        65,
+        20,
+        56
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word143.jpg",
+      "word_text": "যেতে",
+      "char_indices": [
+        45,
+        65,
+        34,
+        65
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d3_conv\\crops\\IMG_20221226_0014_word144.jpg",
+      "word_text": "পারে",
+      "char_indices": [
+        40,
+        56,
+        46,
+        65
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    }
+  ]
+}
