@@ -24,7 +24,8 @@ class History:
 
 class BaseTrainer:
     def __init__(self, model: torch.nn.Module, optimizer: torch.optim.Optimizer,
-                 scheduler: Optional[ReduceLROnPlateau], patience: int, save_dir: str | Path):
+                 scheduler: Optional[ReduceLROnPlateau], patience: int, save_dir: str | Path,
+                 keep_last_n_checkpoints: int = 3):
         self.model = model
         self.optimizer = optimizer
         self.scheduler = scheduler
@@ -36,6 +37,8 @@ class BaseTrainer:
         self.start_epoch = 1
         self.history = History()
         self.csv_path = self.save_dir / 'training_log.csv'
+        self.keep_last_n_checkpoints = keep_last_n_checkpoints
+        self.saved_checkpoints = []  # Track saved checkpoint files
 
         if not self.csv_path.exists():
             with self.csv_path.open('w', newline='', encoding='utf-8') as f:
@@ -97,8 +100,26 @@ class BaseTrainer:
             'bad_epochs': self.bad_epochs,
             'metrics': metrics,
         }
-        torch.save(ckpt, self.save_dir / f'checkpoint_epoch{epoch}.pt')
-        torch.save(self.model.state_dict(), self.save_dir / 'model_best.pt')
+        
+        # Save checkpoint for this epoch
+        checkpoint_path = self.save_dir / f'checkpoint_epoch{epoch}.pt'
+        torch.save(ckpt, checkpoint_path)
+        self.saved_checkpoints.append(checkpoint_path)
+        
+        # Always update model_best.pt if this is the best model so far
+        val_loss = metrics.get('val_loss', float('inf'))
+        if val_loss <= self.best_val:
+            torch.save(self.model.state_dict(), self.save_dir / 'model_best.pt')
+            # Also save as best checkpoint
+            torch.save(ckpt, self.save_dir / 'checkpoint_best.pt')
+        
+        # Clean up old checkpoints, keep only last N
+        if len(self.saved_checkpoints) > self.keep_last_n_checkpoints:
+            old_checkpoints = self.saved_checkpoints[:-self.keep_last_n_checkpoints]
+            for old_path in old_checkpoints:
+                if old_path.exists() and old_path.name != 'checkpoint_best.pt':
+                    old_path.unlink()
+            self.saved_checkpoints = self.saved_checkpoints[-self.keep_last_n_checkpoints:]
 
     def load_checkpoint(self, path: str | Path) -> int:
         ck = torch.load(path, map_location='cpu')

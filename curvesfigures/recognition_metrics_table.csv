@@ -1,0 +1,6 @@
+Metric,Bengali,English,Overall,Description
+Character Error Rate (CER),0.630,0.579,0.619,Lower is better - Character-level accuracy
+Word Error Rate (WER),0.630,0.579,0.619,Lower is better - Word-level accuracy
+Word Accuracy,N/A,N/A,0.219,Higher is better - Exact word matches
+Character Accuracy,N/A,N/A,0.345,Higher is better - Character-level accuracy
+Average Confidence,N/A,N/A,0.842,Model prediction confidence

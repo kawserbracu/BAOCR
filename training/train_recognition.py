@@ -31,11 +31,17 @@ class RecDataset(Dataset):
         if vocab_path.exists():
             self.tok.load_vocab(vocab_path)
         self.augment = augment
-        # Keep image height fixed at 32 (done below) and avoid transforms that change size here
+        # Enhanced augmentation for handwritten data (REMOVED CoarseDropout - counterproductive)
         self.transform = A.Compose([
-            A.Rotate(limit=3, p=0.3),
-            A.RandomBrightnessContrast(p=0.3),
-            A.GaussNoise(p=0.2),
+            A.Rotate(limit=7, p=0.5, border_mode=cv2.BORDER_CONSTANT),  # Increased rotation probability and range
+            A.ShiftScaleRotate(shift_limit=0.08, scale_limit=0.15, rotate_limit=7, p=0.4, border_mode=cv2.BORDER_CONSTANT),  # More aggressive
+            A.ElasticTransform(alpha=1.5, sigma=25, p=0.3),  # Increased for more handwriting variations
+            A.GridDistortion(num_steps=5, distort_limit=0.15, p=0.3),  # Increased distortion
+            A.RandomBrightnessContrast(brightness_limit=0.3, contrast_limit=0.3, p=0.5),  # More brightness/contrast variation
+            A.GaussNoise(p=0.3),  # Increased noise probability
+            A.GaussianBlur(blur_limit=(3, 7), p=0.2),  # Stronger blur
+            A.MotionBlur(blur_limit=5, p=0.15),  # Increased motion blur
+            A.Sharpen(alpha=(0.2, 0.5), lightness=(0.5, 1.0), p=0.25),  # Increased sharpening
             ToTensorV2(),
         ]) if augment else A.Compose([ToTensorV2()])
 
@@ -46,12 +52,13 @@ class RecDataset(Dataset):
         it = self.items[idx]
         img = cv2.imread(it['crop_path'])
         if img is None:
-            img = np.zeros((32, 128, 3), dtype=np.uint8)
+            img = np.zeros((128, 512, 3), dtype=np.uint8)
         img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
-        # Resize height to 32, keep aspect (ensure consistent H across batch)
+        # Resize height to 128 (increased from 32 for better feature extraction)
         h, w = img.shape[:2]
-        scale = 32.0 / max(1, h)
-        img = cv2.resize(img, (int(round(w * scale)), 32), interpolation=cv2.INTER_AREA)
+        scale = 128.0 / max(1, h)
+        new_w = max(int(round(w * scale)), 1)
+        img = cv2.resize(img, (new_w, 128), interpolation=cv2.INTER_CUBIC)  # Use CUBIC for upscaling
         out = self.transform(image=img)
         img_t = out['image']  # (C,H,W)
         # Ensure float32 in [0,1]
@@ -90,9 +97,11 @@ def collate_fn(batch):
 
 
 class RecTrainer(BaseTrainer):
-    def __init__(self, model, optimizer, scheduler, patience, save_dir):
-        super().__init__(model, optimizer, scheduler, patience, save_dir)
+    def __init__(self, model, optimizer, scheduler, patience, save_dir, grad_clip_norm=5.0, label_smoothing=0.1, keep_last_n_checkpoints=3):
+        super().__init__(model, optimizer, scheduler, patience, save_dir, keep_last_n_checkpoints=keep_last_n_checkpoints)
         self.ctc = nn.CTCLoss(blank=0, reduction='mean', zero_infinity=True)
+        self.grad_clip_norm = grad_clip_norm
+        self.label_smoothing = label_smoothing
 
     def _compute_train_loss(self, batch) -> torch.Tensor:
         images, flat_targets, input_lengths, target_lengths = batch
@@ -104,12 +113,34 @@ class RecTrainer(BaseTrainer):
         logits = self.model(images)  # (T, N, V)
         log_probs = torch.nn.functional.log_softmax(logits, dim=-1)
         T, N, V = log_probs.shape
+        
+        # Apply label smoothing to CTC targets
+        if self.label_smoothing > 0 and self.model.training:
+            # Smooth the log_probs distribution
+            smooth_probs = log_probs * (1 - self.label_smoothing) + (torch.log(torch.tensor(1.0 / V, device=dev)) * self.label_smoothing)
+            log_probs = smooth_probs
+        
         # Scale input lengths from pixel widths to feature time-steps
         maxW = input_lengths.max().clamp(min=1)
         scaled_ilens = torch.clamp((input_lengths.float() / maxW.float()) * float(T), min=1.0, max=float(T)).round().long()
         # CTC expects (T, N, C)
         loss = self.ctc(log_probs, flat_targets, scaled_ilens, target_lengths)
         return loss
+    
+    def train_epoch(self, loader):
+        """Override to add gradient clipping"""
+        self.model.train()
+        total_loss = 0.0
+        for batch in loader:
+            self.optimizer.zero_grad()
+            loss = self._compute_train_loss(batch)
+            loss.backward()
+            # Apply gradient clipping
+            if self.grad_clip_norm > 0:
+                torch.nn.utils.clip_grad_norm_(self.model.parameters(), self.grad_clip_norm)
+            self.optimizer.step()
+            total_loss += loss.item()
+        return total_loss / max(1, len(loader))
 
 
 def main():
@@ -129,8 +160,8 @@ def main():
     model = CRNN(vocab_size=tok.vocab_size(), pretrained_backbone=True)
     model.to(device)
 
-    optimizer = Adam(model.parameters(), lr=1e-3, weight_decay=1e-4, amsgrad=True)
-    scheduler = ReduceLROnPlateau(optimizer, factor=0.5, patience=3, min_lr=1e-6)
+    optimizer = Adam(model.parameters(), lr=2e-4, weight_decay=1e-4, amsgrad=True)
+    scheduler = ReduceLROnPlateau(optimizer, factor=0.5, patience=5, min_lr=1e-6)  # Increased patience for scheduler
 
     train_json = data_dir / 'recognition_train.json'
     val_json = data_dir / 'recognition_val.json'
@@ -138,10 +169,13 @@ def main():
     train_ds = RecDataset(train_json, vocab_path=Path(args.vocab_path), augment=True)
     val_ds = RecDataset(val_json, vocab_path=Path(args.vocab_path), augment=False)
 
-    train_loader = DataLoader(train_ds, batch_size=64, shuffle=True, num_workers=0, collate_fn=collate_fn)
-    val_loader = DataLoader(val_ds, batch_size=64, shuffle=False, num_workers=0, collate_fn=collate_fn)
+    # Batch size 12 for larger combined dataset (reduced model size allows slightly larger batches)
+    train_loader = DataLoader(train_ds, batch_size=12, shuffle=True, num_workers=0, collate_fn=collate_fn)
+    val_loader = DataLoader(val_ds, batch_size=12, shuffle=False, num_workers=0, collate_fn=collate_fn)
 
-    trainer = RecTrainer(model, optimizer, scheduler, patience=15, save_dir=out_dir)
+    # Patience 25, gradient clipping 5.0, label smoothing 0.1, keep only last 3 checkpoints
+    trainer = RecTrainer(model, optimizer, scheduler, patience=25, save_dir=out_dir, 
+                        grad_clip_norm=5.0, label_smoothing=0.1, keep_last_n_checkpoints=3)
 
     # Verify loss on first batch
     images, flat_targets, input_lengths, target_lengths = next(iter(train_loader))
@@ -157,7 +191,7 @@ def main():
         scaled_ilens = torch.clamp((input_lengths.float() / maxW.float()) * float(T), min=1.0, max=float(T)).round().long()
         _ = trainer.ctc(log_probs, flat_targets, scaled_ilens, target_lengths)
 
-    max_epochs = 100
+    max_epochs = 200  # Increased to 200 as requested
     for epoch in range(1, max_epochs + 1):
         tr_loss = trainer.train_epoch(train_loader)
         val_loss = trainer.validate_epoch(val_loader)

@@ -1,0 +1,1512 @@
+{
+  "items": [
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\fa70c3cc-c0f9-484c-bbd0-5cafb75ed313_word1.jpg",
+      "word_text": "আমার",
+      "char_indices": [
+        4,
+        44,
+        56,
+        46
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\fa70c3cc-c0f9-484c-bbd0-5cafb75ed313_word2.jpg",
+      "word_text": "নাম",
+      "char_indices": [
+        38,
+        56,
+        44
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\fa70c3cc-c0f9-484c-bbd0-5cafb75ed313_word3.jpg",
+      "word_text": "সাইফ",
+      "char_indices": [
+        54,
+        56,
+        5,
+        41
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\fa70c3cc-c0f9-484c-bbd0-5cafb75ed313_word4.jpg",
+      "word_text": "আমি",
+      "char_indices": [
+        4,
+        44,
+        57
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\fa70c3cc-c0f9-484c-bbd0-5cafb75ed313_word5.jpg",
+      "word_text": "আকাআকি",
+      "char_indices": [
+        4,
+        19,
+        56,
+        4,
+        19,
+        57
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\fa70c3cc-c0f9-484c-bbd0-5cafb75ed313_word6.jpg",
+      "word_text": "পছন্দ",
+      "char_indices": [
+        40,
+        25,
+        38,
+        71,
+        36
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\fa70c3cc-c0f9-484c-bbd0-5cafb75ed313_word7.jpg",
+      "word_text": "করি",
+      "char_indices": [
+        19,
+        46,
+        57
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\fa70c3cc-c0f9-484c-bbd0-5cafb75ed313_word8.jpg",
+      "word_text": "রং",
+      "char_indices": [
+        46,
+        73
+      ],
+      "word_length": 2,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\fa70c3cc-c0f9-484c-bbd0-5cafb75ed313_word9.jpg",
+      "word_text": "তুলিতে",
+      "char_indices": [
+        34,
+        59,
+        48,
+        57,
+        34,
+        65
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\fa70c3cc-c0f9-484c-bbd0-5cafb75ed313_word10.jpg",
+      "word_text": "স্বপ্ন",
+      "char_indices": [
+        54,
+        71,
+        42,
+        40,
+        71,
+        38
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\fa70c3cc-c0f9-484c-bbd0-5cafb75ed313_word11.jpg",
+      "word_text": "আকতে",
+      "char_indices": [
+        4,
+        19,
+        34,
+        65
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\fa70c3cc-c0f9-484c-bbd0-5cafb75ed313_word12.jpg",
+      "word_text": "আমার",
+      "char_indices": [
+        4,
+        44,
+        56,
+        46
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\fa70c3cc-c0f9-484c-bbd0-5cafb75ed313_word13.jpg",
+      "word_text": "খুব",
+      "char_indices": [
+        20,
+        59,
+        42
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\fa70c3cc-c0f9-484c-bbd0-5cafb75ed313_word14.jpg",
+      "word_text": "ভাল",
+      "char_indices": [
+        43,
+        56,
+        48
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\fa70c3cc-c0f9-484c-bbd0-5cafb75ed313_word15.jpg",
+      "word_text": "আমি",
+      "char_indices": [
+        4,
+        44,
+        57
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\fa70c3cc-c0f9-484c-bbd0-5cafb75ed313_word16.jpg",
+      "word_text": "একদিন",
+      "char_indices": [
+        13,
+        19,
+        36,
+        57,
+        38
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\fa70c3cc-c0f9-484c-bbd0-5cafb75ed313_word17.jpg",
+      "word_text": "নামকরা",
+      "char_indices": [
+        38,
+        56,
+        44,
+        19,
+        46,
+        56
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\fa70c3cc-c0f9-484c-bbd0-5cafb75ed313_word18.jpg",
+      "word_text": "শিল্পী",
+      "char_indices": [
+        52,
+        57,
+        48,
+        71,
+        40,
+        58
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\fa70c3cc-c0f9-484c-bbd0-5cafb75ed313_word19.jpg",
+      "word_text": "হতে",
+      "char_indices": [
+        55,
+        34,
+        65
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\fa70c3cc-c0f9-484c-bbd0-5cafb75ed313_word20.jpg",
+      "word_text": "চাই",
+      "char_indices": [
+        24,
+        56,
+        5
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\fa70c3cc-c0f9-484c-bbd0-5cafb75ed313_word21.jpg",
+      "word_text": "লাগে",
+      "char_indices": [
+        48,
+        56,
+        21,
+        65
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\e53e2535-bbbd-4851-a154-a27b95f07762_word1.jpg",
+      "word_text": "গত",
+      "char_indices": [
+        21,
+        34
+      ],
+      "word_length": 2,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\e53e2535-bbbd-4851-a154-a27b95f07762_word2.jpg",
+      "word_text": "দুদিন",
+      "char_indices": [
+        36,
+        59,
+        36,
+        57,
+        38
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\e53e2535-bbbd-4851-a154-a27b95f07762_word3.jpg",
+      "word_text": "ধরে",
+      "char_indices": [
+        37,
+        46,
+        65
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\e53e2535-bbbd-4851-a154-a27b95f07762_word4.jpg",
+      "word_text": "বৃষ্টি",
+      "char_indices": [
+        42,
+        61,
+        53,
+        71,
+        29,
+        57
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\e53e2535-bbbd-4851-a154-a27b95f07762_word5.jpg",
+      "word_text": "বৃষ্টি",
+      "char_indices": [
+        42,
+        61,
+        53,
+        71,
+        29,
+        57
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\e53e2535-bbbd-4851-a154-a27b95f07762_word6.jpg",
+      "word_text": "সবার",
+      "char_indices": [
+        54,
+        42,
+        56,
+        46
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\e53e2535-bbbd-4851-a154-a27b95f07762_word7.jpg",
+      "word_text": "জন্য",
+      "char_indices": [
+        26,
+        38,
+        71,
+        45
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\e53e2535-bbbd-4851-a154-a27b95f07762_word8.jpg",
+      "word_text": "সুখের",
+      "char_indices": [
+        54,
+        59,
+        20,
+        65,
+        46
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\e53e2535-bbbd-4851-a154-a27b95f07762_word9.jpg",
+      "word_text": "না।",
+      "char_indices": [
+        38,
+        56,
+        2
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\e53e2535-bbbd-4851-a154-a27b95f07762_word10.jpg",
+      "word_text": "আগে",
+      "char_indices": [
+        4,
+        21,
+        65
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\e53e2535-bbbd-4851-a154-a27b95f07762_word11.jpg",
+      "word_text": "বৃষ্টি",
+      "char_indices": [
+        42,
+        61,
+        53,
+        71,
+        29,
+        57
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\e53e2535-bbbd-4851-a154-a27b95f07762_word12.jpg",
+      "word_text": "ভাল",
+      "char_indices": [
+        43,
+        56,
+        48
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\e53e2535-bbbd-4851-a154-a27b95f07762_word13.jpg",
+      "word_text": "লাগলেও",
+      "char_indices": [
+        48,
+        56,
+        21,
+        48,
+        65,
+        17
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\e53e2535-bbbd-4851-a154-a27b95f07762_word14.jpg",
+      "word_text": "এখন",
+      "char_indices": [
+        13,
+        20,
+        38
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\e53e2535-bbbd-4851-a154-a27b95f07762_word15.jpg",
+      "word_text": "সার্বিক",
+      "char_indices": [
+        54,
+        56,
+        46,
+        71,
+        42,
+        57,
+        19
+      ],
+      "word_length": 7,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\e53e2535-bbbd-4851-a154-a27b95f07762_word16.jpg",
+      "word_text": "বিবেচনা",
+      "char_indices": [
+        42,
+        57,
+        42,
+        65,
+        24,
+        38,
+        56
+      ],
+      "word_length": 7,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\e53e2535-bbbd-4851-a154-a27b95f07762_word17.jpg",
+      "word_text": "করে",
+      "char_indices": [
+        19,
+        46,
+        65
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\e53e2535-bbbd-4851-a154-a27b95f07762_word18.jpg",
+      "word_text": "বৃষ্টি",
+      "char_indices": [
+        42,
+        61,
+        53,
+        71,
+        29,
+        57
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\e53e2535-bbbd-4851-a154-a27b95f07762_word19.jpg",
+      "word_text": " আর",
+      "char_indices": [
+        2,
+        4,
+        46
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\e53e2535-bbbd-4851-a154-a27b95f07762_word20.jpg",
+      "word_text": "ভাল",
+      "char_indices": [
+        43,
+        56,
+        48
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\e53e2535-bbbd-4851-a154-a27b95f07762_word21.jpg",
+      "word_text": "লাগেনা।",
+      "char_indices": [
+        48,
+        56,
+        21,
+        65,
+        38,
+        56,
+        2
+      ],
+      "word_length": 7,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\e53e2535-bbbd-4851-a154-a27b95f07762_word22.jpg",
+      "word_text": "রোদ",
+      "char_indices": [
+        46,
+        69,
+        36
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\e53e2535-bbbd-4851-a154-a27b95f07762_word23.jpg",
+      "word_text": "ওঠার",
+      "char_indices": [
+        17,
+        30,
+        56,
+        46
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\e53e2535-bbbd-4851-a154-a27b95f07762_word24.jpg",
+      "word_text": " অপেক্ষায়",
+      "char_indices": [
+        2,
+        3,
+        40,
+        65,
+        19,
+        71,
+        53,
+        56,
+        45,
+        2
+      ],
+      "word_length": 10,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\e53e2535-bbbd-4851-a154-a27b95f07762_word25.jpg",
+      "word_text": " আছি।",
+      "char_indices": [
+        2,
+        4,
+        25,
+        57,
+        2
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\e3c7225f-725f-4d8a-ac2b-b3f59e9670b0_word1.jpg",
+      "word_text": "কি",
+      "char_indices": [
+        19,
+        57
+      ],
+      "word_length": 2,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\e3c7225f-725f-4d8a-ac2b-b3f59e9670b0_word2.jpg",
+      "word_text": "যে",
+      "char_indices": [
+        45,
+        65
+      ],
+      "word_length": 2,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\e3c7225f-725f-4d8a-ac2b-b3f59e9670b0_word3.jpg",
+      "word_text": "লিখব",
+      "char_indices": [
+        48,
+        57,
+        20,
+        42
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\e3c7225f-725f-4d8a-ac2b-b3f59e9670b0_word4.jpg",
+      "word_text": "কিছুই",
+      "char_indices": [
+        19,
+        57,
+        25,
+        59,
+        5
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\e3c7225f-725f-4d8a-ac2b-b3f59e9670b0_word5.jpg",
+      "word_text": "জানিনা",
+      "char_indices": [
+        26,
+        56,
+        38,
+        57,
+        38,
+        56
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\e3c7225f-725f-4d8a-ac2b-b3f59e9670b0_word6.jpg",
+      "word_text": "তাও",
+      "char_indices": [
+        34,
+        56,
+        17
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\e3c7225f-725f-4d8a-ac2b-b3f59e9670b0_word7.jpg",
+      "word_text": "বললে",
+      "char_indices": [
+        42,
+        48,
+        48,
+        65
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\e3c7225f-725f-4d8a-ac2b-b3f59e9670b0_word8.jpg",
+      "word_text": "দেখে",
+      "char_indices": [
+        36,
+        65,
+        20,
+        65
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\e3c7225f-725f-4d8a-ac2b-b3f59e9670b0_word9.jpg",
+      "word_text": "লিখতে",
+      "char_indices": [
+        48,
+        57,
+        20,
+        34,
+        65
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\e3c7225f-725f-4d8a-ac2b-b3f59e9670b0_word10.jpg",
+      "word_text": "শুরু",
+      "char_indices": [
+        52,
+        59,
+        46,
+        59
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\e3c7225f-725f-4d8a-ac2b-b3f59e9670b0_word11.jpg",
+      "word_text": "করলাম।",
+      "char_indices": [
+        19,
+        46,
+        48,
+        56,
+        44,
+        2
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\e3c7225f-725f-4d8a-ac2b-b3f59e9670b0_word12.jpg",
+      "word_text": "বাংলাদেশ",
+      "char_indices": [
+        42,
+        56,
+        73,
+        48,
+        56,
+        36,
+        65,
+        52
+      ],
+      "word_length": 8,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\e3c7225f-725f-4d8a-ac2b-b3f59e9670b0_word13.jpg",
+      "word_text": " আমার",
+      "char_indices": [
+        2,
+        4,
+        44,
+        56,
+        46
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\e3c7225f-725f-4d8a-ac2b-b3f59e9670b0_word14.jpg",
+      "word_text": "দেশ",
+      "char_indices": [
+        36,
+        65,
+        52
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\e3c7225f-725f-4d8a-ac2b-b3f59e9670b0_word15.jpg",
+      "word_text": " আমি",
+      "char_indices": [
+        2,
+        4,
+        44,
+        57
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\e3c7225f-725f-4d8a-ac2b-b3f59e9670b0_word16.jpg",
+      "word_text": "থাকি",
+      "char_indices": [
+        35,
+        56,
+        19,
+        57
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\e3c7225f-725f-4d8a-ac2b-b3f59e9670b0_word17.jpg",
+      "word_text": "ঢাকায়।",
+      "char_indices": [
+        32,
+        56,
+        19,
+        56,
+        45,
+        2,
+        2
+      ],
+      "word_length": 7,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\e3c7225f-725f-4d8a-ac2b-b3f59e9670b0_word18.jpg",
+      "word_text": "ঢাকা",
+      "char_indices": [
+        32,
+        56,
+        19,
+        56
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\e3c7225f-725f-4d8a-ac2b-b3f59e9670b0_word19.jpg",
+      "word_text": "বাংলাদেশের",
+      "char_indices": [
+        42,
+        56,
+        73,
+        48,
+        56,
+        36,
+        65,
+        52,
+        65,
+        46
+      ],
+      "word_length": 10,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\e3c7225f-725f-4d8a-ac2b-b3f59e9670b0_word20.jpg",
+      "word_text": "রাজধানী।",
+      "char_indices": [
+        46,
+        56,
+        26,
+        37,
+        56,
+        38,
+        58,
+        2
+      ],
+      "word_length": 8,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\d78c9e5b-2b8c-4abf-8c83-0e2c089e8ff9_word1.jpg",
+      "word_text": "খালিদ",
+      "char_indices": [
+        20,
+        56,
+        48,
+        57,
+        36
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\d78c9e5b-2b8c-4abf-8c83-0e2c089e8ff9_word2.jpg",
+      "word_text": "ইবনে",
+      "char_indices": [
+        5,
+        42,
+        38,
+        65
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\d78c9e5b-2b8c-4abf-8c83-0e2c089e8ff9_word3.jpg",
+      "word_text": "ওয়ালিদ",
+      "char_indices": [
+        17,
+        45,
+        2,
+        56,
+        48,
+        57,
+        36
+      ],
+      "word_length": 7,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\d78c9e5b-2b8c-4abf-8c83-0e2c089e8ff9_word4.jpg",
+      "word_text": "উহুদ",
+      "char_indices": [
+        7,
+        55,
+        59,
+        36
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\d78c9e5b-2b8c-4abf-8c83-0e2c089e8ff9_word5.jpg",
+      "word_text": "যুদ্ধে",
+      "char_indices": [
+        45,
+        59,
+        36,
+        71,
+        37,
+        65
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\d78c9e5b-2b8c-4abf-8c83-0e2c089e8ff9_word6.jpg",
+      "word_text": "কুরাইশদের",
+      "char_indices": [
+        19,
+        59,
+        46,
+        56,
+        5,
+        52,
+        36,
+        65,
+        46
+      ],
+      "word_length": 9,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\d78c9e5b-2b8c-4abf-8c83-0e2c089e8ff9_word7.jpg",
+      "word_text": "সেনানায়ক",
+      "char_indices": [
+        54,
+        65,
+        38,
+        56,
+        38,
+        56,
+        45,
+        2,
+        19
+      ],
+      "word_length": 9,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\d78c9e5b-2b8c-4abf-8c83-0e2c089e8ff9_word8.jpg",
+      "word_text": "খিসেবে",
+      "char_indices": [
+        20,
+        57,
+        54,
+        65,
+        42,
+        65
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\d78c9e5b-2b8c-4abf-8c83-0e2c089e8ff9_word9.jpg",
+      "word_text": " অংশগ্রহণ",
+      "char_indices": [
+        2,
+        3,
+        73,
+        52,
+        21,
+        71,
+        46,
+        55,
+        33
+      ],
+      "word_length": 9,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\d78c9e5b-2b8c-4abf-8c83-0e2c089e8ff9_word10.jpg",
+      "word_text": "করেন।",
+      "char_indices": [
+        19,
+        46,
+        65,
+        38,
+        2
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\d78c9e5b-2b8c-4abf-8c83-0e2c089e8ff9_word11.jpg",
+      "word_text": "আর",
+      "char_indices": [
+        4,
+        46
+      ],
+      "word_length": 2,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\d78c9e5b-2b8c-4abf-8c83-0e2c089e8ff9_word12.jpg",
+      "word_text": " উহুদ",
+      "char_indices": [
+        2,
+        7,
+        55,
+        59,
+        36
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\d78c9e5b-2b8c-4abf-8c83-0e2c089e8ff9_word13.jpg",
+      "word_text": "যুদ্ধে",
+      "char_indices": [
+        45,
+        59,
+        36,
+        71,
+        37,
+        65
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\d78c9e5b-2b8c-4abf-8c83-0e2c089e8ff9_word14.jpg",
+      "word_text": "তিনি",
+      "char_indices": [
+        34,
+        57,
+        38,
+        57
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\d78c9e5b-2b8c-4abf-8c83-0e2c089e8ff9_word15.jpg",
+      "word_text": "কী",
+      "char_indices": [
+        19,
+        58
+      ],
+      "word_length": 2,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\d78c9e5b-2b8c-4abf-8c83-0e2c089e8ff9_word16.jpg",
+      "word_text": "করেছিলাম,",
+      "char_indices": [
+        19,
+        46,
+        65,
+        25,
+        57,
+        48,
+        56,
+        44,
+        148
+      ],
+      "word_length": 9,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\d78c9e5b-2b8c-4abf-8c83-0e2c089e8ff9_word17.jpg",
+      "word_text": "তা",
+      "char_indices": [
+        34,
+        56
+      ],
+      "word_length": 2,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\d78c9e5b-2b8c-4abf-8c83-0e2c089e8ff9_word18.jpg",
+      "word_text": "আমাদের",
+      "char_indices": [
+        4,
+        44,
+        56,
+        36,
+        65,
+        46
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\d78c9e5b-2b8c-4abf-8c83-0e2c089e8ff9_word19.jpg",
+      "word_text": "সকলেরই",
+      "char_indices": [
+        54,
+        19,
+        48,
+        65,
+        46,
+        5
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\d78c9e5b-2b8c-4abf-8c83-0e2c089e8ff9_word20.jpg",
+      "word_text": "জানা",
+      "char_indices": [
+        26,
+        56,
+        38,
+        56
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\d78c9e5b-2b8c-4abf-8c83-0e2c089e8ff9_word21.jpg",
+      "word_text": "খালিদ",
+      "char_indices": [
+        20,
+        56,
+        48,
+        57,
+        36
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\d78c9e5b-2b8c-4abf-8c83-0e2c089e8ff9_word22.jpg",
+      "word_text": "মুসলিম",
+      "char_indices": [
+        44,
+        59,
+        54,
+        48,
+        57,
+        44
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\d78c9e5b-2b8c-4abf-8c83-0e2c089e8ff9_word23.jpg",
+      "word_text": "বাহিনীর",
+      "char_indices": [
+        42,
+        56,
+        55,
+        57,
+        38,
+        58,
+        46
+      ],
+      "word_length": 7,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\d78c9e5b-2b8c-4abf-8c83-0e2c089e8ff9_word24.jpg",
+      "word_text": "ওপর",
+      "char_indices": [
+        17,
+        40,
+        46
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\d78c9e5b-2b8c-4abf-8c83-0e2c089e8ff9_word25.jpg",
+      "word_text": "প্রতিআক্রমণ",
+      "char_indices": [
+        40,
+        71,
+        46,
+        34,
+        57,
+        4,
+        19,
+        71,
+        46,
+        44,
+        33
+      ],
+      "word_length": 11,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\d78c9e5b-2b8c-4abf-8c83-0e2c089e8ff9_word26.jpg",
+      "word_text": "করে",
+      "char_indices": [
+        19,
+        46,
+        65
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\d78c9e5b-2b8c-4abf-8c83-0e2c089e8ff9_word27.jpg",
+      "word_text": "তাদের",
+      "char_indices": [
+        34,
+        56,
+        36,
+        65,
+        46
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\d78c9e5b-2b8c-4abf-8c83-0e2c089e8ff9_word28.jpg",
+      "word_text": "বিপর্যস্ত",
+      "char_indices": [
+        42,
+        57,
+        40,
+        46,
+        71,
+        45,
+        54,
+        71,
+        34
+      ],
+      "word_length": 9,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\d78c9e5b-2b8c-4abf-8c83-0e2c089e8ff9_word29.jpg",
+      "word_text": "করে",
+      "char_indices": [
+        19,
+        46,
+        65
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\d78c9e5b-2b8c-4abf-8c83-0e2c089e8ff9_word30.jpg",
+      "word_text": "দেন।",
+      "char_indices": [
+        36,
+        65,
+        38,
+        2
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\252ae2a2-85cc-4998-85bd-9ccea0547bb6_word1.jpg",
+      "word_text": "আমি",
+      "char_indices": [
+        4,
+        44,
+        57
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\252ae2a2-85cc-4998-85bd-9ccea0547bb6_word2.jpg",
+      "word_text": " অনেক",
+      "char_indices": [
+        2,
+        3,
+        38,
+        65,
+        19
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\252ae2a2-85cc-4998-85bd-9ccea0547bb6_word3.jpg",
+      "word_text": " অলস।",
+      "char_indices": [
+        2,
+        3,
+        48,
+        54,
+        2
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\252ae2a2-85cc-4998-85bd-9ccea0547bb6_word4.jpg",
+      "word_text": "কিছুই",
+      "char_indices": [
+        19,
+        57,
+        25,
+        59,
+        5
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\252ae2a2-85cc-4998-85bd-9ccea0547bb6_word5.jpg",
+      "word_text": "লিখতে",
+      "char_indices": [
+        48,
+        57,
+        20,
+        34,
+        65
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\252ae2a2-85cc-4998-85bd-9ccea0547bb6_word6.jpg",
+      "word_text": "ইচ্ছে",
+      "char_indices": [
+        5,
+        24,
+        71,
+        25,
+        65
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\252ae2a2-85cc-4998-85bd-9ccea0547bb6_word7.jpg",
+      "word_text": "করছেনা।",
+      "char_indices": [
+        19,
+        46,
+        25,
+        65,
+        38,
+        56,
+        2
+      ],
+      "word_length": 7,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\252ae2a2-85cc-4998-85bd-9ccea0547bb6_word8.jpg",
+      "word_text": "সবাই",
+      "char_indices": [
+        54,
+        42,
+        56,
+        5
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\252ae2a2-85cc-4998-85bd-9ccea0547bb6_word9.jpg",
+      "word_text": " আমার",
+      "char_indices": [
+        2,
+        4,
+        44,
+        56,
+        46
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\252ae2a2-85cc-4998-85bd-9ccea0547bb6_word10.jpg",
+      "word_text": "জন্য",
+      "char_indices": [
+        26,
+        38,
+        71,
+        45
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\252ae2a2-85cc-4998-85bd-9ccea0547bb6_word11.jpg",
+      "word_text": "দোয়া",
+      "char_indices": [
+        36,
+        69,
+        45,
+        2,
+        56
+      ],
+      "word_length": 5,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\252ae2a2-85cc-4998-85bd-9ccea0547bb6_word12.jpg",
+      "word_text": "করবেন।",
+      "char_indices": [
+        19,
+        46,
+        42,
+        65,
+        38,
+        2
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\252ae2a2-85cc-4998-85bd-9ccea0547bb6_word13.jpg",
+      "word_text": "কেননা,",
+      "char_indices": [
+        19,
+        65,
+        38,
+        38,
+        56,
+        148
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\252ae2a2-85cc-4998-85bd-9ccea0547bb6_word14.jpg",
+      "word_text": "আমি",
+      "char_indices": [
+        4,
+        44,
+        57
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\252ae2a2-85cc-4998-85bd-9ccea0547bb6_word15.jpg",
+      "word_text": "খুব",
+      "char_indices": [
+        20,
+        59,
+        42
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\252ae2a2-85cc-4998-85bd-9ccea0547bb6_word16.jpg",
+      "word_text": "দ্রুতই",
+      "char_indices": [
+        36,
+        71,
+        46,
+        59,
+        34,
+        5
+      ],
+      "word_length": 6,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\252ae2a2-85cc-4998-85bd-9ccea0547bb6_word17.jpg",
+      "word_text": "বিশ্ববিদ্যালয়",
+      "char_indices": [
+        42,
+        57,
+        52,
+        71,
+        42,
+        42,
+        57,
+        36,
+        71,
+        45,
+        56,
+        48,
+        45,
+        2
+      ],
+      "word_length": 14,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\252ae2a2-85cc-4998-85bd-9ccea0547bb6_word18.jpg",
+      "word_text": "থেকে",
+      "char_indices": [
+        35,
+        65,
+        19,
+        65
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\252ae2a2-85cc-4998-85bd-9ccea0547bb6_word19.jpg",
+      "word_text": "বের",
+      "char_indices": [
+        42,
+        65,
+        46
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\252ae2a2-85cc-4998-85bd-9ccea0547bb6_word20.jpg",
+      "word_text": "হতে",
+      "char_indices": [
+        55,
+        34,
+        65
+      ],
+      "word_length": 3,
+      "language": "bengali"
+    },
+    {
+      "crop_path": "C:\\Users\\T2510600\\Downloads\\BAOCR\\out\\d4\\crops\\252ae2a2-85cc-4998-85bd-9ccea0547bb6_word21.jpg",
+      "word_text": "চাই।",
+      "char_indices": [
+        24,
+        56,
+        5,
+        2
+      ],
+      "word_length": 4,
+      "language": "bengali"
+    }
+  ]
+}

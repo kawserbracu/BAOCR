@@ -22,17 +22,46 @@ class BengaliWordOCRTokenizer:
         # Build vocabulary
         chars: List[str] = []
 
-        # Bengali letters
-        # Independent vowels U+0985–U+0994 (we include 0985–09B9 per spec plus vowel signs 09BE–09CC and 09CD)
-        for cp in range(0x0985, 0x09BA):  # U+0985..U+09B9 inclusive
+        # Bengali independent vowels: U+0985–U+0994
+        for cp in range(0x0985, 0x0994 + 1):
             chars.append(chr(cp))
-        # Bengali vowel signs U+09BE–U+09CC
-        for cp in range(0x09BE, 0x09CD + 1):
+
+        # Bengali consonants: U+0995–U+09B9
+        for cp in range(0x0995, 0x09B9 + 1):
             chars.append(chr(cp))
-        # Nukta/Chandrabindu/Anusvara/Visarga U+0981–U+0983
+
+        # Bengali vowel signs (dependent vowels): U+09BE–U+09CC
+        for cp in range(0x09BE, 0x09CC + 1):
+            chars.append(chr(cp))
+
+        # Virama/Hasant: U+09CD
+        chars.append(chr(0x09CD))
+
+        # Khanda Ta: U+09CE
+        chars.append(chr(0x09CE))
+
+        # AU length mark: U+09D7
+        chars.append(chr(0x09D7))
+
+        # Additional consonants with nukta: U+09DC–U+09DF (ড়, ঢ়, য়)
+        for cp in range(0x09DC, 0x09DF + 1):
+            chars.append(chr(cp))
+
+        # Bengali diacritical marks: U+0981–U+0983 (Candrabindu, Anusvara, Visarga)
         for cp in range(0x0981, 0x0983 + 1):
             chars.append(chr(cp))
-        # Explicitly ensure virama/hasant (U+09CD) included (already via 09BE–09CD)
+
+        # Bengali digits: ০–৯ (U+09E6–U+09EF)
+        for cp in range(0x09E6, 0x09EF + 1):
+            chars.append(chr(cp))
+
+        # Bengali punctuation: Danda/Double Danda
+        chars.append(chr(0x0964))  # ।
+        chars.append(chr(0x0965))  # ॥
+
+        # Zero Width Joiner / Non-Joiner
+        chars.append('\u200D')  # ZWJ
+        chars.append('\u200C')  # ZWNJ
 
         # English letters
         for cp in range(ord('a'), ord('z') + 1):
@@ -40,15 +69,16 @@ class BengaliWordOCRTokenizer:
         for cp in range(ord('A'), ord('Z') + 1):
             chars.append(chr(cp))
 
-        # Digits: ASCII 0-9 and Bengali ০-৯ (U+09E6–U+09EF)
+        # ASCII digits: 0–9
         for cp in range(ord('0'), ord('9') + 1):
             chars.append(chr(cp))
-        for cp in range(0x09E6, 0x09EF + 1):
-            chars.append(chr(cp))
 
-        # Punctuation: . , ; : ! ? - " ' ( )
-        punctuation = list(".,;:!?-\"'()")
+        # Common punctuation (extended)
+        punctuation = list(".,;:!?-\"'()[]{}/<>@#$%&*+=_|\\~`")
         chars.extend(punctuation)
+
+        # Space
+        chars.append(' ')
 
         # Deduplicate while preserving order
         seen = set()
@@ -64,6 +94,14 @@ class BengaliWordOCRTokenizer:
         self.idx_to_char: Dict[int, str] = {i: ch for ch, i in self.char_to_idx.items()}
 
     def normalize_text(self, text: str) -> str:
+        """
+        Normalize text to NFC form for consistent Bengali representation.
+
+        CRITICAL: All training data MUST be normalized the same way (NFC).
+        Without consistent normalization, visually identical text may encode
+        differently (e.g., ক্ষ as precomposed vs. sequence ক + ◌্ + ষ),
+        causing mismatches.
+        """
         return unicodedata.normalize('NFC', text or "")
 
     def encode_word(self, word: str) -> List[int]:
@@ -112,15 +150,30 @@ class BengaliWordOCRTokenizer:
 if __name__ == "__main__":
     tok = BengaliWordOCRTokenizer()
     print("Vocab size:", tok.vocab_size())
-    samples = ["বাংলাদেশ", "Bangladesh", "ক্ষ"]
+
+    # Test with diverse Bengali/English samples
+    samples = [
+        "বাংলাদেশ",      # Bangladesh
+        "Bangladesh",    # English
+        "ক্ষ",           # Conjunct (Ka + Hasant + Ssa)
+        "য়",            # Ya with nukta
+        "১২৩৪৫",        # Bengali digits
+        "কলকাতা",       # Kolkata
+        "প্রধানমন্ত্রী",  # Complex conjuncts
+        "বাক্য।",        # Danda
+        "শ্লোক॥"         # Double Danda
+    ]
     for s in samples:
         enc = tok.encode_word(s)
         dec = tok.decode_indices(enc)
-        print(f"text={s} -> ids[:10]={enc[:10]} -> dec={dec}")
-    # Save/load roundtrip to project data/ folder
+        match = "✓" if s == dec else "✗"
+        print(f"{match} text={s} -> ids={enc[:15]}{'...' if len(enc) > 15 else ''} -> dec={dec}")
+
+    # Save/load roundtrip
     project_root = Path(__file__).resolve().parents[1]
     tmp = project_root / "data" / "vocab.json"
     tok.save_vocab(tmp)
     tok2 = BengaliWordOCRTokenizer()
     tok2.load_vocab(tmp)
-    print("Loaded vocab size:", tok2.vocab_size())
+    print(f"\nLoaded vocab size: {tok2.vocab_size()}")
+    print("Roundtrip test passed!" if tok.vocab_size() == tok2.vocab_size() else "Roundtrip test failed!")

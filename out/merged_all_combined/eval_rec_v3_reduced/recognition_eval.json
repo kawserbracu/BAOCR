@@ -1,0 +1,12 @@
+{
+  "count": 8500,
+  "word_accuracy": 0.21929411764705883,
+  "character_accuracy": 0.3452818958987123,
+  "CER_mean": 0.6190552566714331,
+  "WER_mean": 0.6191302715258598,
+  "CER_bengali_mean": 0.6304073873459706,
+  "WER_bengali_mean": 0.6305034877623422,
+  "CER_english_mean": 0.578668453976765,
+  "WER_english_mean": 0.578668453976765,
+  "avg_confidence": 0.8423850209362367
+}

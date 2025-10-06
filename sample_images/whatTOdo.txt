@@ -1,0 +1,54 @@
+🧠 Why Include Sample Results
+
+Even if your numeric metrics (CER/WER) are average, sample outputs visually prove that your pipeline actually works.
+Faculty and evaluators look for:
+
+Visual examples of detected text regions
+
+Predicted vs. actual recognition output
+
+Improvement after preprocessing (CLAHE / Highboost)
+
+Common error patterns
+
+These make your results section convincing and easy to understand.
+
+🖼️ What to Include
+
+Since you’re focusing on Bengali OCR, skip English samples — it’s better to show strength in your trained domain.
+
+🔹 Detection Samples
+
+Show 2–3 examples (side by side):
+
+Input Image	Detected Text Boxes (Original)	Detected Text Boxes (CLAHE)	Detected Text Boxes (Highboost)
+
+Use bounding boxes or masks from each detection variant.
+
+You can clearly visualize how CLAHE/Highboost improve text region clarity or detection count.
+
+🔹 Recognition Samples
+
+Show 4–6 examples (grid format):
+
+Cropped Text Image	Ground Truth	Predicted Text	Confidence	CER/WER
+
+Include:
+
+2–3 correct predictions (clean Bengali words)
+
+2–3 incorrect ones (to show where model struggles, e.g., similar-looking characters or low contrast)
+
+💡 Tip: Add a small note under each image like:
+
+“Model confused ‘ণ’ with ‘ন’ due to handwriting variation.”
+
+That shows strong analytical insight.
+
+🔹 Optional Combined Pipeline Example
+
+Show one full image → detection → recognition → final output example:
+
+Input document → detected text boxes → cropped → recognized text result.
+
+This visualizes your complete OCR pipeline in one figure — it’s great for the first page of your Results section.

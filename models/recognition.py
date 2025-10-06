@@ -4,6 +4,7 @@ import torch
 import torch.nn as nn
 import torch.nn.functional as F
 from torchvision.models import vgg16_bn
+import math
 
 
 class CRNN(nn.Module):
@@ -32,10 +33,15 @@ class CRNN(nn.Module):
         # Project features to a fixed channel size for RNN
         self.conv_proj = nn.Conv2d(512, 256, kernel_size=1)
 
-        # BiLSTM
-        self.rnn = nn.LSTM(input_size=256 * 1, hidden_size=256, num_layers=2,
-                           batch_first=False, bidirectional=True, dropout=0.3)
-        self.fc = nn.Linear(512, vocab_size)
+        # Reduced BiLSTM (1 layer instead of 2, smaller hidden size)
+        self.rnn = nn.LSTM(input_size=256 * 1, hidden_size=128, num_layers=1,
+                           batch_first=False, bidirectional=True, dropout=0.2)
+        
+        # Simplified attention mechanism (fewer heads, smaller embed_dim)
+        self.attention = nn.MultiheadAttention(embed_dim=256, num_heads=4, dropout=0.1, batch_first=False)
+        self.attention_norm = nn.LayerNorm(256)
+        
+        self.fc = nn.Linear(256, vocab_size)
 
     def forward(self, x: torch.Tensor) -> torch.Tensor:
         # x: (N, 3, H, W)
@@ -45,7 +51,12 @@ class CRNN(nn.Module):
         feats = feats.mean(dim=2)    # (N, 256, Wc)
         # Prepare for LSTM: (Wc, N, 256)
         seq = feats.permute(2, 0, 1)
-        out, _ = self.rnn(seq)       # (Wc, N, 512)
+        out, _ = self.rnn(seq)       # (Wc, N, 256) - bidirectional 128*2=256
+        
+        # Apply self-attention for better context modeling
+        attn_out, _ = self.attention(out, out, out)  # (Wc, N, 256)
+        out = self.attention_norm(out + attn_out)  # Residual connection + LayerNorm
+        
         logits = self.fc(out)        # (Wc, N, vocab)
         return logits
 

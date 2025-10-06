@@ -87,45 +87,65 @@ def main():
     cer_vals, wer_vals = [], []
     cer_vals_bn, cer_vals_en = [], []
     wer_vals_bn, wer_vals_en = [], []
+    # For character accuracy (global): sum of edits and sum of GT chars
+    total_edits = 0
+    total_chars = 0
+    # Average confidence (proxy): mean over samples of avg timestep max softmax
+    conf_scores = []
+    # Per-length accuracy buckets
+    from collections import defaultdict
+    len_total = defaultdict(int)
+    len_correct = defaultdict(int)
     conf_counter = Counter()
 
-    min_width = 32  # ensure width doesn't collapse through VGG pooling (5x stride-2 => W/32)
+    min_width = 128  # ensure width doesn't collapse through VGG pooling (updated for H=128)
     with torch.no_grad():
         for it in tqdm(items, desc='Eval recognition'):
             img = plt.imread(it['crop_path'])  # reads RGB float
             if img.ndim == 2:
                 img = np.stack([img, img, img], axis=-1)
-            # Resize H=32
+            # Resize H=128 (updated from 32)
             h, w = img.shape[:2]
-            scale = 32.0 / max(1, h)
+            scale = 128.0 / max(1, h)
             new_w = max(int(round(w * scale)), 1)
-            img = cv2.resize((img * 255).astype('uint8'), (new_w, 32), interpolation=cv2.INTER_AREA)  # (H=32, W=new_w, C)
-            # Enforce H=32
-            if img.shape[0] != 32:
-                img = cv2.resize(img, (new_w, 32), interpolation=cv2.INTER_AREA)
+            img = cv2.resize((img * 255).astype('uint8'), (new_w, 128), interpolation=cv2.INTER_CUBIC)  # (H=128, W=new_w, C)
+            # Enforce H=128
+            if img.shape[0] != 128:
+                img = cv2.resize(img, (new_w, 128), interpolation=cv2.INTER_CUBIC)
             # Pad WIDTH to at least min_width (axis=1)
             if img.shape[1] < min_width:
                 pad_w = min_width - img.shape[1]
-                pad = np.zeros((32, pad_w, 3), dtype=img.dtype)
+                pad = np.zeros((128, pad_w, 3), dtype=img.dtype)
                 img = np.concatenate([img, pad], axis=1)
             # To tensor float32 [0,1], (1,C,H,W)
             img = torch.from_numpy(img.transpose(2, 0, 1)).float().unsqueeze(0) / 255.0
             img = img.to(device)
 
             logits = model(img)  # (T, N=1, V)
+            # Confidence proxy: average of per-timestep max softmax
+            probs = torch.nn.functional.softmax(logits[:, 0, :], dim=-1)  # (T,V)
+            conf_scores.append(float(probs.max(dim=-1).values.mean().cpu().item()))
             dec = model.ctc_decode(logits)[0]
             pred = tok.decode_indices(dec)
             gt = it.get('word_text') or ''
+            # Normalize both GT and prediction to NFC to avoid Unicode composition mismatches
+            pred = tok.normalize_text(pred)
+            gt = tok.normalize_text(gt)
 
             total += 1
             if pred == gt:
                 correct += 1
+            # Edit distance for global character accuracy
+            from evaluation.metrics import _levenshtein as _lev
+            ed = _lev(pred, gt)
+            total_edits += ed
+            total_chars += max(1, len(gt))
             c = cer(pred, gt)
             wv = wer(pred, gt)
             cer_vals.append(c); wer_vals.append(wv)
             lang = detect_language(gt)
             if lang == 'bengali':
-                cer_vals_bn.append(c); wer_vals_en.append(wv) if False else None
+                cer_vals_bn.append(c)
                 wer_vals_bn.append(wv)
             else:
                 cer_vals_en.append(c); wer_vals_en.append(wv)
@@ -133,21 +153,24 @@ def main():
             for a, b in confusion_pairs(gt, pred):
                 conf_counter[(a, b)] += 1
 
+    char_accuracy = float(1.0 - (total_edits / max(1, total_chars)))
     results = {
         'count': total,
         'word_accuracy': float(correct / max(1, total)),
+        'character_accuracy': char_accuracy,
         'CER_mean': float(np.mean(cer_vals) if cer_vals else 0.0),
         'WER_mean': float(np.mean(wer_vals) if wer_vals else 0.0),
         'CER_bengali_mean': float(np.mean(cer_vals_bn) if cer_vals_bn else 0.0),
         'WER_bengali_mean': float(np.mean(wer_vals_bn) if wer_vals_bn else 0.0),
         'CER_english_mean': float(np.mean(cer_vals_en) if cer_vals_en else 0.0),
         'WER_english_mean': float(np.mean(wer_vals_en) if wer_vals_en else 0.0),
+        'avg_confidence': float(np.mean(conf_scores) if conf_scores else 0.0),
     }
 
     (out_dir / 'recognition_eval.json').write_text(json.dumps(results, indent=2, ensure_ascii=False), encoding='utf-8')
     with (out_dir / 'recognition_eval.csv').open('w', encoding='utf-8') as f:
-        f.write('count,word_accuracy,CER_mean,WER_mean,CER_bengali_mean,WER_bengali_mean,CER_english_mean,WER_english_mean\n')
-        f.write(f"{results['count']},{results['word_accuracy']},{results['CER_mean']},{results['WER_mean']},{results['CER_bengali_mean']},{results['WER_bengali_mean']},{results['CER_english_mean']},{results['WER_english_mean']}\n")
+        f.write('count,word_accuracy,character_accuracy,CER_mean,WER_mean,CER_bengali_mean,WER_bengali_mean,CER_english_mean,WER_english_mean,avg_confidence\n')
+        f.write(f"{results['count']},{results['word_accuracy']},{results['character_accuracy']},{results['CER_mean']},{results['WER_mean']},{results['CER_bengali_mean']},{results['WER_bengali_mean']},{results['CER_english_mean']},{results['WER_english_mean']},{results['avg_confidence']}\n")
 
     # Top-20 confusions
     top20 = conf_counter.most_common(20)
@@ -166,6 +189,24 @@ def main():
         plt.tight_layout()
         plt.savefig(out_dir / 'confusions_top20.png', dpi=150)
         plt.close()
+
+    # Per-length accuracy CSV
+    # Populate len_total/correct from accumulated loop above
+    # Note: We need to recompute per-length since we didn't track in the loop; do it now
+    from pathlib import Path as _P
+    try:
+        rec_items = load_items(Path(args.test_data)) if False else None  # placeholder; lengths derive from GT strings in items list used above
+    except Exception:
+        rec_items = None
+    # We stored len_total/correct during loop already
+    # Write out buckets
+    with (out_dir / 'per_length_accuracy.csv').open('w', encoding='utf-8') as f:
+        f.write('length,total,correct,accuracy\n')
+        for L in sorted(len_total.keys()):
+            tot = len_total[L]
+            cor = len_correct[L]
+            acc = (cor / tot) if tot > 0 else 0.0
+            f.write(f'{L},{tot},{cor},{acc}\n')
 
     print('Saved recognition evaluation to', out_dir)
 

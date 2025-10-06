@@ -6,8 +6,14 @@ from typing import Any, Dict, List
 import cv2
 from tqdm import tqdm
 
-from ..models.detection import build_detection_model
-from .metrics import calculate_map, calculate_precision_recall_f1, calculate_iou
+import sys
+from pathlib import Path
+# Allow running as a script without package context
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+if str(PROJECT_ROOT) not in sys.path:
+    sys.path.insert(0, str(PROJECT_ROOT))
+from models.detection import build_detection_model
+from evaluation.metrics import calculate_map, calculate_precision_recall_f1, calculate_iou
 
 
 def load_detection_items(p: Path) -> List[Dict[str, Any]]:
@@ -24,13 +30,24 @@ def run_inference(model, img_path: str) -> List[List[float]]:
     preds = model([page])
     # Flatten polygons to boxes (min/max)
     boxes: List[List[float]] = []
-    for p in preds.pages[0].blocks:
-        for l in p.lines:
-            for w in l.words:
-                poly = np.array(w.geometry, dtype=float)  # [[x,y],...], normalized 0..1
-                xs = poly[:, 0]
-                ys = poly[:, 1]
-                boxes.append([float(xs.min()), float(ys.min()), float(xs.max()), float(ys.max())])
+    obj = preds[0] if isinstance(preds, (list, tuple)) and len(preds) > 0 else preds
+    if hasattr(obj, 'pages'):
+        for p in obj.pages:
+            for l in getattr(p, 'lines', []):
+                for w in getattr(l, 'words', []):
+                    poly = np.array(w.geometry, dtype=float)
+                    xs = poly[:, 0]; ys = poly[:, 1]
+                    boxes.append([float(xs.min()), float(ys.min()), float(xs.max()), float(ys.max())])
+    elif isinstance(obj, dict):
+        for p in obj.get('pages', []):
+            for blk in p.get('blocks', []):
+                for ln in blk.get('lines', []):
+                    for wd in ln.get('words', []):
+                        poly = np.array(wd.get('geometry', []), dtype=float)
+                        if poly.size == 0:
+                            continue
+                        xs = poly[:, 0]; ys = poly[:, 1]
+                        boxes.append([float(xs.min()), float(ys.min()), float(xs.max()), float(ys.max())])
     return boxes
 
 

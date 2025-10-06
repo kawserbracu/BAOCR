@@ -1,0 +1,137 @@
+crop_path,word_text,char_indices,word_length,language
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\e3c7225f-725f-4d8a-ac2b-b3f59e9670b0_word1.jpg,কি,19 57,2,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\e3c7225f-725f-4d8a-ac2b-b3f59e9670b0_word2.jpg,যে,45 65,2,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\e3c7225f-725f-4d8a-ac2b-b3f59e9670b0_word3.jpg,লিখব,48 57 20 42,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\e3c7225f-725f-4d8a-ac2b-b3f59e9670b0_word4.jpg,কিছুই,19 57 25 59 5,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\e3c7225f-725f-4d8a-ac2b-b3f59e9670b0_word5.jpg,জানিনা,26 56 38 57 38 56,6,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\e3c7225f-725f-4d8a-ac2b-b3f59e9670b0_word6.jpg,তাও,34 56 17,3,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\e3c7225f-725f-4d8a-ac2b-b3f59e9670b0_word7.jpg,বললে,42 48 48 65,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\e3c7225f-725f-4d8a-ac2b-b3f59e9670b0_word8.jpg,দেখে,36 65 20 65,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\e3c7225f-725f-4d8a-ac2b-b3f59e9670b0_word9.jpg,লিখতে,48 57 20 34 65,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\e3c7225f-725f-4d8a-ac2b-b3f59e9670b0_word10.jpg,শুরু,52 59 46 59,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\e3c7225f-725f-4d8a-ac2b-b3f59e9670b0_word11.jpg,করলাম।,19 46 48 56 44 2,6,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\e3c7225f-725f-4d8a-ac2b-b3f59e9670b0_word12.jpg,বাংলাদেশ,42 56 73 48 56 36 65 52,8,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\e3c7225f-725f-4d8a-ac2b-b3f59e9670b0_word13.jpg, আমার,2 4 44 56 46,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\e3c7225f-725f-4d8a-ac2b-b3f59e9670b0_word14.jpg,দেশ,36 65 52,3,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\e3c7225f-725f-4d8a-ac2b-b3f59e9670b0_word15.jpg, আমি,2 4 44 57,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\e3c7225f-725f-4d8a-ac2b-b3f59e9670b0_word16.jpg,থাকি,35 56 19 57,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\e3c7225f-725f-4d8a-ac2b-b3f59e9670b0_word17.jpg,ঢাকায়।,32 56 19 56 45 2 2,7,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\e3c7225f-725f-4d8a-ac2b-b3f59e9670b0_word18.jpg,ঢাকা,32 56 19 56,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\e3c7225f-725f-4d8a-ac2b-b3f59e9670b0_word19.jpg,বাংলাদেশের,42 56 73 48 56 36 65 52 65 46,10,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\e3c7225f-725f-4d8a-ac2b-b3f59e9670b0_word20.jpg,রাজধানী।,46 56 26 37 56 38 58 2,8,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\b3b994ae-4ddd-4043-8a1a-d1401b4e84fc_word1.jpg,পৃথিবীর,40 61 35 57 42 58 46,7,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\b3b994ae-4ddd-4043-8a1a-d1401b4e84fc_word2.jpg,যত,45 34,2,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\b3b994ae-4ddd-4043-8a1a-d1401b4e84fc_word3.jpg,সুখ,54 59 20,3,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\b3b994ae-4ddd-4043-8a1a-d1401b4e84fc_word4.jpg,যত,45 34,2,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\b3b994ae-4ddd-4043-8a1a-d1401b4e84fc_word5.jpg,ভালবাসা,43 56 48 42 56 54 56,7,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\b3b994ae-4ddd-4043-8a1a-d1401b4e84fc_word6.jpg,সব,54 42,2,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\b3b994ae-4ddd-4043-8a1a-d1401b4e84fc_word7.jpg,তোমায়,34 69 44 56 45 2,6,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\b3b994ae-4ddd-4043-8a1a-d1401b4e84fc_word8.jpg,দিব,36 57 42,3,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\b3b994ae-4ddd-4043-8a1a-d1401b4e84fc_word9.jpg,কিন্তু,19 57 38 71 34 59,6,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\b3b994ae-4ddd-4043-8a1a-d1401b4e84fc_word10.jpg,একটাই,13 19 29 56 5,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\b3b994ae-4ddd-4043-8a1a-d1401b4e84fc_word11.jpg, আশা।,2 4 52 56 2,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\b3b994ae-4ddd-4043-8a1a-d1401b4e84fc_word12.jpg,তুমি,34 59 44 57,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\b3b994ae-4ddd-4043-8a1a-d1401b4e84fc_word13.jpg,ভুলে,43 59 48 65,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\b3b994ae-4ddd-4043-8a1a-d1401b4e84fc_word14.jpg,যেওনা,45 65 17 38 56,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\b3b994ae-4ddd-4043-8a1a-d1401b4e84fc_word15.jpg,আমাকে।,4 44 56 19 65 2,6,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\b3b994ae-4ddd-4043-8a1a-d1401b4e84fc_word16.jpg,আমি,4 44 57,3,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\b3b994ae-4ddd-4043-8a1a-d1401b4e84fc_word17.jpg,ভালবাসি,43 56 48 42 56 54 57,7,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\b3b994ae-4ddd-4043-8a1a-d1401b4e84fc_word18.jpg,তোমাকে।,34 69 44 56 19 65 2,7,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\493f7725-f541-41b4-878e-2df909ff90ba_word1.jpg,তুমি,34 59 44 57,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\493f7725-f541-41b4-878e-2df909ff90ba_word2.jpg,কেনো,19 65 38 69,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\493f7725-f541-41b4-878e-2df909ff90ba_word3.jpg,খবর,20 42 46,3,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\493f7725-f541-41b4-878e-2df909ff90ba_word4.jpg,রাখো,46 56 20 69,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\493f7725-f541-41b4-878e-2df909ff90ba_word5.jpg,না,38 56,2,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\493f7725-f541-41b4-878e-2df909ff90ba_word6.jpg,আম্মা।,4 44 71 44 56 2,6,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\493f7725-f541-41b4-878e-2df909ff90ba_word7.jpg,স্বাধীন,54 71 42 56 37 58 38,7,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\493f7725-f541-41b4-878e-2df909ff90ba_word8.jpg,বাংলার,42 56 73 48 56 46,6,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\493f7725-f541-41b4-878e-2df909ff90ba_word9.jpg,দাবির,36 56 42 57 46,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\493f7725-f541-41b4-878e-2df909ff90ba_word10.jpg,কথা,19 35 56,3,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\493f7725-f541-41b4-878e-2df909ff90ba_word11.jpg,তো,34 69,2,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\493f7725-f541-41b4-878e-2df909ff90ba_word12.jpg, অনেক,2 3 38 65 19,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\493f7725-f541-41b4-878e-2df909ff90ba_word13.jpg, অনেক,2 3 38 65 19,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\493f7725-f541-41b4-878e-2df909ff90ba_word14.jpg,পুরনো,40 59 46 38 69,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\493f7725-f541-41b4-878e-2df909ff90ba_word15.jpg,ব্যাপার।,42 71 45 56 40 56 46 2,8,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\493f7725-f541-41b4-878e-2df909ff90ba_word16.jpg,ভেতরে,43 65 34 46 65,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\493f7725-f541-41b4-878e-2df909ff90ba_word17.jpg,ভেতরে,43 65 34 46 65,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\493f7725-f541-41b4-878e-2df909ff90ba_word18.jpg,বহুদিন,42 55 59 36 57 38,6,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\493f7725-f541-41b4-878e-2df909ff90ba_word19.jpg,থেকেই,35 65 19 65 5,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\493f7725-f541-41b4-878e-2df909ff90ba_word20.jpg,গুমরাচ্ছিল।,21 59 44 46 56 24 71 25 57 48 2,11,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\493f7725-f541-41b4-878e-2df909ff90ba_word21.jpg,গত,21 34,2,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\493f7725-f541-41b4-878e-2df909ff90ba_word22.jpg,বছর,42 25 46,3,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\493f7725-f541-41b4-878e-2df909ff90ba_word23.jpg,নভেম্বরের,38 43 65 44 71 42 46 65 46,9,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\493f7725-f541-41b4-878e-2df909ff90ba_word24.jpg,সাইক্লোনের,54 56 5 19 71 48 69 38 65 46,10,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\493f7725-f541-41b4-878e-2df909ff90ba_word25.jpg,পরে,40 46 65,3,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\493f7725-f541-41b4-878e-2df909ff90ba_word26.jpg,তা,34 56,2,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\493f7725-f541-41b4-878e-2df909ff90ba_word27.jpg,ফেটে,41 65 29 65,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\493f7725-f541-41b4-878e-2df909ff90ba_word28.jpg,পড়েছে।,40 31 2 65 25 65 2,7,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\252ae2a2-85cc-4998-85bd-9ccea0547bb6_word1.jpg,আমি,4 44 57,3,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\252ae2a2-85cc-4998-85bd-9ccea0547bb6_word2.jpg, অনেক,2 3 38 65 19,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\252ae2a2-85cc-4998-85bd-9ccea0547bb6_word3.jpg, অলস।,2 3 48 54 2,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\252ae2a2-85cc-4998-85bd-9ccea0547bb6_word4.jpg,কিছুই,19 57 25 59 5,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\252ae2a2-85cc-4998-85bd-9ccea0547bb6_word5.jpg,লিখতে,48 57 20 34 65,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\252ae2a2-85cc-4998-85bd-9ccea0547bb6_word6.jpg,ইচ্ছে,5 24 71 25 65,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\252ae2a2-85cc-4998-85bd-9ccea0547bb6_word7.jpg,করছেনা।,19 46 25 65 38 56 2,7,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\252ae2a2-85cc-4998-85bd-9ccea0547bb6_word8.jpg,সবাই,54 42 56 5,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\252ae2a2-85cc-4998-85bd-9ccea0547bb6_word9.jpg, আমার,2 4 44 56 46,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\252ae2a2-85cc-4998-85bd-9ccea0547bb6_word10.jpg,জন্য,26 38 71 45,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\252ae2a2-85cc-4998-85bd-9ccea0547bb6_word11.jpg,দোয়া,36 69 45 2 56,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\252ae2a2-85cc-4998-85bd-9ccea0547bb6_word12.jpg,করবেন।,19 46 42 65 38 2,6,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\252ae2a2-85cc-4998-85bd-9ccea0547bb6_word13.jpg,"কেননা,",19 65 38 38 56 148,6,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\252ae2a2-85cc-4998-85bd-9ccea0547bb6_word14.jpg,আমি,4 44 57,3,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\252ae2a2-85cc-4998-85bd-9ccea0547bb6_word15.jpg,খুব,20 59 42,3,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\252ae2a2-85cc-4998-85bd-9ccea0547bb6_word16.jpg,দ্রুতই,36 71 46 59 34 5,6,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\252ae2a2-85cc-4998-85bd-9ccea0547bb6_word17.jpg,বিশ্ববিদ্যালয়,42 57 52 71 42 42 57 36 71 45 56 48 45 2,14,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\252ae2a2-85cc-4998-85bd-9ccea0547bb6_word18.jpg,থেকে,35 65 19 65,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\252ae2a2-85cc-4998-85bd-9ccea0547bb6_word19.jpg,বের,42 65 46,3,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\252ae2a2-85cc-4998-85bd-9ccea0547bb6_word20.jpg,হতে,55 34 65,3,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\252ae2a2-85cc-4998-85bd-9ccea0547bb6_word21.jpg,চাই।,24 56 5 2,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\179c4d65-bce2-499e-9675-f4fa45aee868_word1.jpg,এই,13 5,2,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\179c4d65-bce2-499e-9675-f4fa45aee868_word2.jpg,পটভূমিতেই,40 29 43 60 44 57 34 65 5,9,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\179c4d65-bce2-499e-9675-f4fa45aee868_word3.jpg,১৯৭১-,138 146 144 138 153,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\179c4d65-bce2-499e-9675-f4fa45aee868_word4.jpg,এর,13 46,2,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\179c4d65-bce2-499e-9675-f4fa45aee868_word5.jpg,৭ই,144 5,2,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\179c4d65-bce2-499e-9675-f4fa45aee868_word6.jpg,মার্চ,44 56 46 71 24,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\179c4d65-bce2-499e-9675-f4fa45aee868_word7.jpg,ঢাকার,32 56 19 56 46,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\179c4d65-bce2-499e-9675-f4fa45aee868_word8.jpg,রেসকোর্স,46 65 54 19 69 46 71 54,8,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\179c4d65-bce2-499e-9675-f4fa45aee868_word9.jpg,ময়দানে,44 45 2 36 56 38 65,7,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\179c4d65-bce2-499e-9675-f4fa45aee868_word10.jpg,বঙ্গবন্ধু,42 23 71 21 42 38 71 37 59,9,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\179c4d65-bce2-499e-9675-f4fa45aee868_word11.jpg,শেখ,52 65 20,3,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\179c4d65-bce2-499e-9675-f4fa45aee868_word12.jpg,মুজিবুর,44 59 26 57 42 59 46,7,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\179c4d65-bce2-499e-9675-f4fa45aee868_word13.jpg,রহমান,46 55 44 56 38,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\179c4d65-bce2-499e-9675-f4fa45aee868_word14.jpg,এক,13 19,2,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\179c4d65-bce2-499e-9675-f4fa45aee868_word15.jpg,ঐতিহাসিক,14 34 57 55 56 54 57 19,8,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\179c4d65-bce2-499e-9675-f4fa45aee868_word16.jpg,ভাষণ,43 56 53 33,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\179c4d65-bce2-499e-9675-f4fa45aee868_word17.jpg,দেন।,36 65 38 2,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\179c4d65-bce2-499e-9675-f4fa45aee868_word18.jpg,"আবেগে,",4 42 65 21 65 148,6,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\179c4d65-bce2-499e-9675-f4fa45aee868_word19.jpg,বক্তব্যে,42 19 71 34 42 71 45 65,8,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\179c4d65-bce2-499e-9675-f4fa45aee868_word20.jpg,দিক-,36 57 19 153,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\179c4d65-bce2-499e-9675-f4fa45aee868_word21.jpg,নির্দেশনায়,38 57 46 71 36 65 52 38 56 45 2,11,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\179c4d65-bce2-499e-9675-f4fa45aee868_word22.jpg,এটি,13 29 57,3,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\179c4d65-bce2-499e-9675-f4fa45aee868_word23.jpg,পৃথিবীর,40 61 35 57 42 58 46,7,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\179c4d65-bce2-499e-9675-f4fa45aee868_word24.jpg, অন্যতম,2 3 38 71 45 34 44,7,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\179c4d65-bce2-499e-9675-f4fa45aee868_word25.jpg,শ্রেষ্ঠ,52 71 46 65 53 71 30,7,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\179c4d65-bce2-499e-9675-f4fa45aee868_word26.jpg,ভাষণ,43 56 53 33,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\179c4d65-bce2-499e-9675-f4fa45aee868_word27.jpg,হিসেবে,55 57 54 65 42 65,6,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\179c4d65-bce2-499e-9675-f4fa45aee868_word28.jpg,স্বীকৃত।,54 71 42 58 19 61 34 2,8,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\6a3fd145-28ab-4f19-a403-61ccc1bcd3c8_word1.jpg,আমার,4 44 56 46,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\6a3fd145-28ab-4f19-a403-61ccc1bcd3c8_word2.jpg,নাম,38 56 44,3,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\6a3fd145-28ab-4f19-a403-61ccc1bcd3c8_word3.jpg,জারিফ।,26 56 46 57 41 2,6,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\6a3fd145-28ab-4f19-a403-61ccc1bcd3c8_word4.jpg, আমি,2 4 44 57,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\6a3fd145-28ab-4f19-a403-61ccc1bcd3c8_word5.jpg,ব্র্যাক,42 71 46 71 45 56 19,7,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\6a3fd145-28ab-4f19-a403-61ccc1bcd3c8_word6.jpg,বিশ্ববিদ্যালয়ে,42 57 52 71 42 42 57 36 71 45 56 48 45 2 65,15,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\6a3fd145-28ab-4f19-a403-61ccc1bcd3c8_word7.jpg,পড়ি।,40 31 2 57 2,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\6a3fd145-28ab-4f19-a403-61ccc1bcd3c8_word8.jpg,কিন্তু,19 57 38 71 34 59,6,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\6a3fd145-28ab-4f19-a403-61ccc1bcd3c8_word9.jpg, আমার,2 4 44 56 46,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\6a3fd145-28ab-4f19-a403-61ccc1bcd3c8_word10.jpg,পড়াশোনা,40 31 2 56 52 69 38 56,8,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\6a3fd145-28ab-4f19-a403-61ccc1bcd3c8_word11.jpg,ভাল,43 56 48,3,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\6a3fd145-28ab-4f19-a403-61ccc1bcd3c8_word12.jpg,লাগেনা।,48 56 21 65 38 56 2,7,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\6a3fd145-28ab-4f19-a403-61ccc1bcd3c8_word13.jpg,কাজের,19 56 26 65 46,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\6a3fd145-28ab-4f19-a403-61ccc1bcd3c8_word14.jpg,মাঝে,44 56 27 65,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\6a3fd145-28ab-4f19-a403-61ccc1bcd3c8_word15.jpg,করি,19 46 57,3,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\6a3fd145-28ab-4f19-a403-61ccc1bcd3c8_word16.jpg,শুধু,52 59 37 59,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\6a3fd145-28ab-4f19-a403-61ccc1bcd3c8_word17.jpg,তিনটি,34 57 38 29 57,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\6a3fd145-28ab-4f19-a403-61ccc1bcd3c8_word18.jpg,"খাই,",20 56 5 148,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\6a3fd145-28ab-4f19-a403-61ccc1bcd3c8_word19.jpg,দাই,36 56 5,3,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\6a3fd145-28ab-4f19-a403-61ccc1bcd3c8_word20.jpg, আর,2 4 46,3,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d4_conv\crops\6a3fd145-28ab-4f19-a403-61ccc1bcd3c8_word21.jpg,ঘুমাই।,22 59 44 56 5 2,6,bengali

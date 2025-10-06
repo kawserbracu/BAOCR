@@ -1,0 +1,7 @@
+Sample,Ground_Truth,Prediction,Confidence,CER,WER,Status
+Sample_1,করে,করে,0.980,0.000,0.000,Correct
+Sample_2,ভালবাসি,ভালবাসি,0.978,0.000,0.000,Correct
+Sample_3,স্মার্টফোনের,স্মার্টফোনের,0.986,0.000,0.000,Correct
+Sample_4,ব্যবসায়ের,ভ্যবসায়ের,0.720,0.111,1.000,Error
+Sample_5,থেকে,থেে,0.579,0.250,1.000,Error
+Sample_6,সম্ভব,সম্াভব,0.691,0.200,1.000,Error

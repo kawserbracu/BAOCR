@@ -13,14 +13,25 @@ if str(PROJECT_ROOT) not in sys.path:
     sys.path.insert(0, str(PROJECT_ROOT))
 
 from models.detection import build_detection_model
+from models.detection_mnv3seg import MNV3Seg
 from models.recognition import CRNN
 from data.tokenizer import BengaliWordOCRTokenizer
 
 
 class EndToEndOCR:
-    def __init__(self, detection_model_path: str | None, recognition_model_path: str, tokenizer_path: str):
-        # Detection: use pretrained predictor (path optional, predictor not usually loaded from ckpt)
-        self.detector = build_detection_model(pretrained=True)
+    def __init__(self, detection_model_path: str | None, recognition_model_path: str, tokenizer_path: str,
+                 custom_det_model: str | None = None, custom_backbone: str = 'large', mask_threshold: float = 0.3):
+        # Detection: DocTR predictor by default, or custom MNV3Seg if provided
+        self.use_custom_det = custom_det_model is not None
+        self.mask_threshold = float(mask_threshold)
+        if self.use_custom_det:
+            state = torch.load(custom_det_model, map_location='cpu')
+            bb = state.get('backbone', custom_backbone)
+            self.custom = MNV3Seg(backbone=bb, pretrained=False)
+            self.custom.load_state_dict(state['state_dict'])
+            self.custom.eval()
+        else:
+            self.detector = build_detection_model(pretrained=True)
         # Recognition
         self.tok = BengaliWordOCRTokenizer()
         self.tok.load_vocab(Path(tokenizer_path))
@@ -32,21 +43,59 @@ class EndToEndOCR:
 
     def detect_words(self, image: np.ndarray) -> List[List[float]]:
         # returns normalized boxes [x1,y1,x2,y2]
-        from doctr.io.image import read_img_as_tensor
-        import numpy as np
+        if self.use_custom_det:
+            return self._detect_words_custom(image)
+        else:
+            from doctr.io.image import read_img_as_tensor
+            rgb = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
+            tmp = Path("_tmp_det.jpg")
+            cv2.imwrite(str(tmp), cv2.cvtColor(rgb, cv2.COLOR_RGB2BGR))
+            page = read_img_as_tensor(str(tmp))
+            preds = self.detector([page])
+            tmp.unlink(missing_ok=True)
+            boxes: List[List[float]] = []
+            # Handle different predictor return types across doctr versions
+            obj = preds[0] if isinstance(preds, (list, tuple)) and len(preds) > 0 else preds
+            if hasattr(obj, 'pages'):
+                for p in obj.pages:
+                    for l in getattr(p, 'lines', []):
+                        for w in getattr(l, 'words', []):
+                            poly = np.array(w.geometry, dtype=float)
+                            xs = poly[:, 0]; ys = poly[:, 1]
+                            boxes.append([float(xs.min()), float(ys.min()), float(xs.max()), float(ys.max())])
+            elif isinstance(obj, dict):
+                pages = obj.get('pages', [])
+                for p in pages:
+                    for blk in p.get('blocks', []):
+                        for ln in blk.get('lines', []):
+                            for wd in ln.get('words', []):
+                                poly = np.array(wd.get('geometry', []), dtype=float)
+                                if poly.size == 0:
+                                    continue
+                                xs = poly[:, 0]; ys = poly[:, 1]
+                                boxes.append([float(xs.min()), float(ys.min()), float(xs.max()), float(ys.max())])
+            return boxes
+
+    def _detect_words_custom(self, image: np.ndarray) -> List[List[float]]:
+        # Preprocess to 768x1024, forward through MNV3Seg, threshold to mask, contours->boxes
+        H, W = image.shape[:2]
         rgb = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
-        tmp = Path("_tmp_det.jpg")
-        cv2.imwrite(str(tmp), cv2.cvtColor(rgb, cv2.COLOR_RGB2BGR))
-        page = read_img_as_tensor(str(tmp))
-        preds = self.detector([page])
-        tmp.unlink(missing_ok=True)
+        resized = cv2.resize(rgb, (1024, 768), interpolation=cv2.INTER_AREA)
+        img_t = torch.from_numpy(resized.transpose(2, 0, 1)).float().unsqueeze(0) / 255.0
+        with torch.no_grad():
+            logits = self.custom(img_t)
+            probs = torch.sigmoid(logits)[0, 0].cpu().numpy()
+        # Resize back to original size
+        mask = cv2.resize(probs, (W, H), interpolation=cv2.INTER_LINEAR)
+        mask_bin = (mask >= self.mask_threshold).astype(np.uint8) * 255
+        contours, _ = cv2.findContours(mask_bin, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
         boxes: List[List[float]] = []
-        for p in preds.pages[0].blocks:
-            for l in p.lines:
-                for w in l.words:
-                    poly = np.array(w.geometry, dtype=float)
-                    xs = poly[:, 0]; ys = poly[:, 1]
-                    boxes.append([float(xs.min()), float(ys.min()), float(xs.max()), float(ys.max())])
+        for cnt in contours:
+            x, y, w, h = cv2.boundingRect(cnt)
+            if w < 5 or h < 5:
+                continue
+            x1 = x / W; y1 = y / H; x2 = (x + w) / W; y2 = (y + h) / H
+            boxes.append([float(x1), float(y1), float(x2), float(y2)])
         return boxes
 
     @torch.no_grad()
@@ -106,13 +155,17 @@ def main():
     ap.add_argument('--vocab', type=str, required=True, help='Path to vocab.json')
     ap.add_argument('--output_dir', type=str, required=True)
     ap.add_argument('--limit', type=int, default=0, help='Optional limit on number of images')
+    ap.add_argument('--custom_det_model', type=str, default=None, help='Path to custom MNV3Seg model_best.pt to use instead of DocTR predictor')
+    ap.add_argument('--custom_backbone', type=str, default='large', choices=['large','small'])
+    ap.add_argument('--mask_threshold', type=float, default=0.3, help='Threshold for custom detector mask->boxes')
     args = ap.parse_args()
 
     images_dir = Path(args.images_dir)
     out_dir = Path(args.output_dir)
     out_dir.mkdir(parents=True, exist_ok=True)
 
-    ocr = EndToEndOCR(detection_model_path=None, recognition_model_path=args.rec_model, tokenizer_path=args.vocab)
+    ocr = EndToEndOCR(detection_model_path=None, recognition_model_path=args.rec_model, tokenizer_path=args.vocab,
+                      custom_det_model=args.custom_det_model, custom_backbone=args.custom_backbone, mask_threshold=args.mask_threshold)
 
     # Collect images
     exts = {'.jpg', '.jpeg', '.png', '.bmp'}

@@ -1,0 +1,391 @@
+crop_path,word_text,char_indices,word_length,language
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word1.jpg,ছুটি,25 59 29 57,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word2.jpg,এমন,13 44 38,3,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word3.jpg,একটি,13 19 29 57,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word4.jpg,বিষয়,42 57 53 45 2,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word5.jpg,যার,45 56 46,3,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word6.jpg,নানা,38 56 38 56,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word7.jpg,দিক,36 57 19,3,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word8.jpg,আছে,4 25 65,3,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word9.jpg,কেউ,19 65 7,3,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word10.jpg,ছুটি,25 59 29 57,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word11.jpg,কাটাতে,19 56 29 56 34 65,6,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word12.jpg,চান,24 56 38,3,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word13.jpg,একা,13 19 56,3,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word14.jpg,কেউ,19 65 7,3,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word15.jpg,আবার,4 42 56 46,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word16.jpg,দলবল,36 48 42 48,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word17.jpg,নিয়ে,38 57 45 2 65,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word18.jpg,আবার,4 42 56 46,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word19.jpg,দলবলের,36 48 42 48 65 46,6,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word20.jpg,মধ্যে,44 37 71 45 65,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word21.jpg,পড়তে,40 31 2 34 65,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word22.jpg,পারে,40 56 46 65,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word23.jpg,পরিবারের,40 46 57 42 56 46 65 46,8,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word24.jpg,লোকজন,48 69 19 26 38,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word25.jpg,কিংবা,19 57 73 42 56,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word26.jpg,বন্ধু,42 38 71 37 59,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word27.jpg,বান্ধব,42 56 38 71 37 42,6,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word28.jpg,ও,17,1,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word29.jpg,হ্যাঁ,55 71 45 56 72,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word30.jpg,ছুটি,25 59 29 57,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word31.jpg,কাটানো,19 56 29 56 38 69,6,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word32.jpg,মানে,44 56 38 65,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word33.jpg,কিন্তু,19 57 38 71 34 59,6,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word34.jpg,বেড়াতে,42 65 31 2 56 34 65,7,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word35.jpg,যাওয়ার,45 56 17 45 2 56 46,7,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word36.jpg,কথা,19 35 56,3,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word37.jpg,হচ্ছে,55 24 71 25 65,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word38.jpg,ভারতীয়দের,43 56 46 34 58 45 2 36 65 46,10,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word39.jpg,মধ্যে,44 37 71 45 65,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word40.jpg,পরিবারের,40 46 57 42 56 46 65 46,8,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word41.jpg,সঙ্গে,54 23 71 21 65,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word42.jpg,ভ্রমণের,43 71 46 44 33 65 46,7,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word43.jpg,প্রবনতা,40 71 46 42 38 34 56,7,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word44.jpg,অবশ্য,3 42 52 71 45,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word45.jpg,বেশি,42 65 52 57,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word46.jpg,কিন্তু,19 57 38 71 34 59,6,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word47.jpg,এমন,13 44 38,3,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word48.jpg,কিছু,19 57 25 59,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word49.jpg,ভ্রমনস্থল,43 71 46 44 38 54 71 35 48,9,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word50.jpg,রয়েছে,46 45 2 65 25 65,6,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word51.jpg,যেখানে,45 65 20 56 38 65,6,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word52.jpg,পরিবারের,40 46 57 42 56 46 65 46,8,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word53.jpg,সঙ্গে,54 23 71 21 65,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word54.jpg,না,38 56,2,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word55.jpg,যাওয়াই,45 56 17 45 2 56 5,7,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word56.jpg,ভালো,43 56 48 69,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word57.jpg,গেলে,21 65 48 65,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word58.jpg,লজ্জায়,48 26 71 26 56 45 2,7,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word59.jpg,পড়তে,40 31 2 34 65,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word60.jpg,হয়,55 45 2,3,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word61.jpg,তাই,34 56 5,3,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word62.jpg,এসব,13 54 42,3,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word63.jpg,স্থানে,54 71 35 56 38 65,6,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word64.jpg,বন্ধুদের,42 38 71 37 59 36 65 46,8,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word65.jpg,সঙ্গেই,54 23 71 21 65 5,6,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word66.jpg,বেড়াতে,42 65 31 2 56 34 65,7,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word67.jpg,যান,45 56 38,3,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word68.jpg,দারুন,36 56 46 59 38,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word69.jpg,উপভোগ,7 40 43 69 21,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word70.jpg,করবেন,19 46 42 65 38,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word71.jpg,বন্ধুদের,42 38 71 37 59 36 65 46,8,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word72.jpg,সঙ্গে,54 23 71 21 65,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word73.jpg,ঘুরতে,22 59 46 34 65,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word74.jpg,যাওয়ার,45 56 17 45 2 56 46,7,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word75.jpg,জন্য,26 38 71 45,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word76.jpg,দারুন,36 56 46 59 38,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word77.jpg,জায়গা,26 56 45 2 21 56,6,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word78.jpg,হল,55 48,2,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word79.jpg,কসউল,19 54 7 48,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word80.jpg,হিমাচল,55 57 44 56 24 48,6,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word81.jpg,প্রদেশের,40 71 46 36 65 52 65 46,8,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word82.jpg,কুলু,19 59 48 59,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word83.jpg,জেলার,26 65 48 56 46,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word84.jpg,এই,13 5,2,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word85.jpg,সাজানো,54 56 26 56 38 69,6,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word86.jpg,গোছানো,21 69 25 56 38 69,6,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word87.jpg,গ্রাম,21 71 46 56 44,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word88.jpg,বা,42 56,2,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word89.jpg,শিল,52 57 48,3,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word90.jpg,শহর,52 55 46,3,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word91.jpg,হল,55 48,2,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word92.jpg,এই,13 5,2,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word93.jpg,কসউল,19 54 7 48,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word94.jpg,এখানে,13 20 56 38 65,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word95.jpg,লোকজন,48 69 19 26 38,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word96.jpg,মূলত,44 60 48 34,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word97.jpg,অবসর,3 42 54 46,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word98.jpg,যাপনের,45 56 40 38 65 46,6,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word99.jpg,জন্য,26 38 71 45,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word100.jpg,যান,45 56 38,3,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word101.jpg,তবে,34 42 65,3,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word102.jpg,হ্যাঁ,55 71 45 56 72,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word103.jpg,মা,44 56,2,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word104.jpg,বাবার,42 56 42 56 46,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word105.jpg,সঙ্গে,54 23 71 21 65,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word106.jpg,এখানে,13 20 56 38 65,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word107.jpg,না,38 56,2,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word108.jpg,যাওয়াই,45 56 17 45 2 56 5,7,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word109.jpg,ভালো,43 56 48 69,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word110.jpg,আসলে,4 54 48 65,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word111.jpg,হিল,55 57 48,3,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word112.jpg,স্টেশন,54 71 29 65 52 38,6,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word113.jpg,হওয়া,55 17 45 2 56,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word114.jpg,সত্ত্বেও,54 34 71 34 71 42 65 17,8,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word115.jpg,কসউল,19 54 7 48,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word116.jpg,আসলে,4 54 48 65,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word117.jpg,একটি,13 19 29 57,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word118.jpg,লাভাস,48 56 43 56 54,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word119.jpg,পয়েন্ট,40 45 2 65 38 71 29,7,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word120.jpg,এখানে,13 20 56 38 65,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word121.jpg,প্রধানত,40 71 46 37 56 38 34,7,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word122.jpg,দম্পতিরা,36 44 71 40 34 57 46 56,8,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word123.jpg,হানিমুন,55 56 38 57 44 59 38,7,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word124.jpg,এবং,13 42 73,3,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word125.jpg,রোমান্স,46 69 44 56 38 71 54,7,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word126.jpg,করতেই,19 46 34 65 5,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word127.jpg,যান,45 56 38,3,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word128.jpg,এবার,13 42 56 46,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word129.jpg,বুঝলেন,42 59 27 48 65 38,6,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word130.jpg,তো,34 69,2,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word131.jpg,পরিবারের,40 46 57 42 56 46 65 46,8,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word132.jpg,সঙ্গে,54 23 71 21 65,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word133.jpg,যেতে,45 65 34 65,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word134.jpg,কেন,19 65 38,3,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word135.jpg,বারন,42 56 46 38,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0001_word136.jpg,করছি,19 46 25 57,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word1.jpg,একদিকে,13 19 36 57 19 65,6,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word2.jpg,পেশায়,40 65 52 56 45 2,6,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word3.jpg,ডাক্তার,31 56 19 71 34 56 46,7,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word4.jpg,আবার,4 42 56 46,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word5.jpg,অন্যদিকে,3 38 71 45 36 57 19 65,8,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word6.jpg,প্রথম,40 71 46 35 44,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word7.jpg,বার,42 56 46,3,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word8.jpg,সিভিল,54 57 43 57 48,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word9.jpg,সার্ভিস,54 56 46 71 43 57 54,7,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word10.jpg,পরীক্ষায়,40 46 58 19 71 53 56 45 2,9,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word11.jpg,বসেই,42 54 65 5,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word12.jpg,দুর্দান্ত,36 59 46 71 36 56 38 71 34,9,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word13.jpg,ফলাফল,41 48 56 41 48,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word14.jpg,তাও,34 56 17,3,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word15.jpg,আবার,4 42 56 46,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word16.jpg,কোনও,19 69 38 17,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word17.jpg,কোচিং,19 69 24 57 73,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word18.jpg,ছাড়াই,25 56 31 2 56 5,6,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word19.jpg,সিভিল,54 57 43 57 48,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word20.jpg,সার্ভিস,54 56 46 71 43 57 54,7,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word21.jpg,পরীক্ষায়,40 46 58 19 71 53 56 45 2,9,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word22.jpg,এহেন,13 55 65 38,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word23.jpg,ফলাফলে,41 48 56 41 48 65,6,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word24.jpg,নিদর্শন,38 57 36 46 71 52 38,7,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word25.jpg,রেখেছেন,46 65 20 65 25 65 38,7,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word26.jpg,বারানসীর,42 56 46 56 38 54 58 46,8,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word27.jpg,আরতিকা,4 46 34 57 19 56,6,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word28.jpg,শুক্লা,52 59 19 71 48 56,6,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word29.jpg,কোনও,19 69 38 17,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word30.jpg,কোচিং,19 69 24 57 73,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word31.jpg,ছাড়াই,25 56 31 2 56 5,6,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word32.jpg,তিনি,34 57 38 57,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word33.jpg,সংশ্লিষ্ট,54 73 52 71 48 57 53 71 29,9,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word34.jpg,পরীক্ষায়,40 46 58 19 71 53 56 45 2,9,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word35.jpg,৪র্থ,141 46 71 35,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word36.jpg,র‍্যাঙ্ক ,46 2 71 45 56 23 71 19 2,9,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word37.jpg,অর্জন,3 46 71 26 38,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word38.jpg,করেছেন,19 46 65 25 65 38,6,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word39.jpg,আরতিকা,4 46 34 57 19 56,6,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word40.jpg,শুক্লা,52 59 19 71 48 56,6,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word41.jpg,বর্তমানে,42 46 71 34 44 56 38 65,8,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word42.jpg,আজমিরের,4 26 44 57 46 65 46,7,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word43.jpg,সাব,54 56 42,3,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word44.jpg,ডিভিশনাল,31 57 43 57 52 38 56 48,8,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word45.jpg,ম্যাজিস্ট্রেট,44 71 45 56 26 57 54 71 29 71 46 65 29,13,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word46.jpg,পদে,40 36 65,3,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word47.jpg,কর্মরত,19 46 71 44 46 34,6,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word48.jpg,রয়েছেন,46 45 2 65 25 65 38,7,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word49.jpg,ডাক্তারি,31 56 19 71 34 56 46 57,8,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word50.jpg,পড়তে,40 31 2 34 65,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word51.jpg,শুরু,52 59 46 59,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word52.jpg,করলেও,19 46 48 65 17,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word53.jpg,স্বপ্নকে,54 71 42 40 71 38 19 65,8,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word54.jpg,পূরণ,40 60 46 33,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word55.jpg,করার,19 46 56 46,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word56.jpg,জন্য,26 38 71 45,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word57.jpg,মাঝপথেই,44 56 27 40 35 65 5,7,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word58.jpg,এমডি,13 44 31 57,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word59.jpg,কোর্স,19 69 46 71 54,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word60.jpg,ছেড়ে,25 65 31 2 65,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word61.jpg,দেন,36 65 38,3,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word62.jpg,আরতিকা,4 46 34 57 19 56,6,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word63.jpg,শুক্লা,52 59 19 71 48 56,6,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word64.jpg,সালের,54 56 48 65 46,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word65.jpg,সেপ্টেম্বর,54 65 40 71 29 65 44 71 42 46,10,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word66.jpg,জন্ম,26 38 71 44,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word67.jpg,হয়,55 45 2,3,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word68.jpg,আরতিকা,4 46 34 57 19 56,6,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word69.jpg,শুক্লার,52 59 19 71 48 56 46,7,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word70.jpg,ছোটবেলা,25 69 29 42 65 48 56,7,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word71.jpg,থেকেই,35 65 19 65 5,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word72.jpg,তিনি,34 57 38 57,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word73.jpg,পড়াশুনায়,40 31 2 56 52 59 38 56 45 2,10,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word74.jpg,উজ্জ্বল,7 26 71 26 71 42 48,7,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word75.jpg,ছাত্রী,25 56 34 71 46 58,6,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word76.jpg,ছিলেন,25 57 48 65 38,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word77.jpg,বারানসীর,42 56 46 56 38 54 58 46,8,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word78.jpg,সেন্ট,54 65 38 71 29,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word79.jpg,জন্স,26 38 71 54,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word80.jpg,স্কুল,54 71 19 59 48,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word81.jpg,থেকে,35 65 19 65,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word82.jpg,স্কুলের,54 71 19 59 48 65 46,7,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word83.jpg,শিক্ষা,52 57 19 71 53 56,6,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word84.jpg,শেষ,52 65 53,3,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word85.jpg,করেন,19 46 65 38,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word86.jpg,বছর,42 25 46,3,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word87.jpg,এর,13 46,2,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word88.jpg,ইউ,5 7,2,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word89.jpg,পি,40 57,2,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word90.jpg,এস,13 54,2,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word91.jpg,সি,54 57,2,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0010a_word92.jpg,কৃতী,19 61 34 58,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word1.jpg,বিমানে,42 57 44 56 38 65,6,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word2.jpg,ওঠার,17 30 56 46,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word3.jpg,পর,40 46,2,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word4.jpg,থেকে,35 65 19 65,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word5.jpg,যাত্রীদের,45 56 34 71 46 58 36 65 46,9,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word6.jpg,বিভিন্নভাবে,42 57 43 57 38 71 38 43 56 42 65,11,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word7.jpg,বিমান,42 57 44 56 38,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word8.jpg,সেবিকারা,54 65 42 57 19 56 46 56,8,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word9.jpg,সাহায্য,54 56 55 56 45 71 45,7,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word10.jpg,করে,19 46 65,3,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word11.jpg,থাকেন,35 56 19 65 38,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word12.jpg,আবার,4 42 56 46,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word13.jpg,খাবার,20 56 42 56 46,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word14.jpg,থেকে,35 65 19 65,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word15.jpg,শৌচাগার,52 70 24 56 21 56 46,7,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word16.jpg,সহ,54 55,2,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word17.jpg,বিমানের,42 57 44 56 38 65 46,7,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word18.jpg,যাবতীয়,45 56 42 34 58 45 2,7,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word19.jpg,কোন,19 69 38,3,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word20.jpg,অভিযোগও,3 43 57 45 69 21 17,7,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word21.jpg,বিমানসেবিকাকেই,42 57 44 56 38 54 65 42 57 19 56 19 65 5,14,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word22.jpg,শুনতে,52 59 38 34 65,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word23.jpg,হয়,55 45 2,3,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word24.jpg,কিন্তু,19 57 38 71 34 59,6,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word25.jpg,সাধারণত,54 56 37 56 46 33 34,7,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word26.jpg,যাত্রীদের,45 56 34 71 46 58 36 65 46,9,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word27.jpg,হাজার,55 56 26 56 46,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word28.jpg,রকমের,46 19 44 65 46,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word29.jpg,খেয়ালিপনার,20 65 45 2 56 48 57 40 38 56 46,11,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word30.jpg,সহ্য,54 55 71 45,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word31.jpg,করেও,19 46 65 17,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word32.jpg,বিমানসেবিকারা,42 57 44 56 38 54 65 42 57 19 56 46 56,13,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word33.jpg,মেজাজ,44 65 26 56 26,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word34.jpg,হারান,55 56 46 56 38,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word35.jpg,না,38 56,2,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word36.jpg,কিন্তু,19 57 38 71 34 59,6,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word37.jpg,সাম্প্রতিককালে,54 56 44 71 40 71 46 34 57 19 19 56 48 65,14,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word38.jpg,বিমানসেবিকার,42 57 44 56 38 54 65 42 57 19 56 46,12,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word39.jpg,এক,13 19,2,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word40.jpg,যাত্রীর,45 56 34 71 46 58 46,7,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word41.jpg,সঙ্গে,54 23 71 21 65,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word42.jpg,তুমুল,34 59 44 59 48,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word43.jpg,বিতর্কে,42 57 34 46 71 19 65,7,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word44.jpg,জড়িয়ে,26 31 2 57 45 2 65,7,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word45.jpg,পড়ার,40 31 2 56 46,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word46.jpg,ভিডিয়ো,43 57 31 57 45 2 69,7,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word47.jpg,সামনে,54 56 44 38 65,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word48.jpg,এসেছে,13 54 65 25 65,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word49.jpg,খানিক,20 56 38 57 19,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word50.jpg,শুনতে,52 59 38 34 65,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word51.jpg,অস্বাভাবিক,3 54 71 42 56 43 56 42 57 19,10,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word52.jpg,লাগলেও,48 56 21 48 65 17,6,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word53.jpg,এমনই,13 44 38 5,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word54.jpg,এক,13 19,2,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word55.jpg,দৃশের,36 61 52 65 46,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word56.jpg,সাক্ষী,54 56 19 71 53 58,6,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word57.jpg,হয়েছে,55 45 2 65 25 65,6,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word58.jpg,সোশ্যাল,54 69 52 71 45 56 48,7,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word59.jpg,মিডিয়া,44 57 31 57 45 2 56,7,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word60.jpg,ঘটনাটি,22 29 38 56 29 57,6,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word61.jpg,ঘটেছে,22 29 65 25 65,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word62.jpg,ইস্তাবুল,5 54 71 34 56 42 59 48,8,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word63.jpg,থেকে,35 65 19 65,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word64.jpg,দিল্লীগামী,36 57 48 71 48 58 21 56 44 58,10,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word65.jpg,এক,13 19,2,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word66.jpg,ইন্দিগোর,5 38 71 36 57 21 69 46,8,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word67.jpg,বিমানে,42 57 44 56 38 65,6,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word68.jpg,সম্প্রতি,54 44 71 40 71 46 34 57,8,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word69.jpg,ইন্দিগোর,5 38 71 36 57 21 69 46,8,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word70.jpg,ওই,17 5,2,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word71.jpg,বিমানের,42 57 44 56 38 65 46,7,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word72.jpg,একটি,13 19 29 57,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word73.jpg,ভিডিয়ো,43 57 31 57 45 2 69,7,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word74.jpg,ভাইরাল,43 56 5 46 56 48,6,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word75.jpg,হয়েছে,55 45 2 65 25 65,6,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word76.jpg,নামে,38 56 44 65,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word77.jpg,এক,13 19,2,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word78.jpg,টুইটার,29 59 5 29 56 46,6,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word79.jpg,অ্যাকাউন্ট,3 71 45 56 19 56 7 38 71 29,10,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word80.jpg,থেকে,35 65 19 65,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word81.jpg,ভিডিয়োটি,43 57 31 57 45 2 69 29 57,9,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word82.jpg,শেয়ার,52 65 45 2 56 46,6,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word83.jpg,করা,19 46 56,3,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word84.jpg,হয়েছে,55 45 2 65 25 65,6,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word85.jpg,সংশ্লিষ্ট,54 73 52 71 48 57 53 71 29,9,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word86.jpg,ভিডিয়োটিতে,43 57 31 57 45 2 69 29 57 34 65,11,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word87.jpg,দেখা,36 65 20 56,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word88.jpg,গিয়েছে,21 57 45 2 65 25 65,7,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word89.jpg,এক,13 19,2,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word90.jpg,যাত্রী,45 56 34 71 46 58,6,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word91.jpg,খারাপ,20 56 46 56 40,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word92.jpg,খাবার,20 56 42 56 46,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word93.jpg,পাওয়ার,40 56 17 45 2 56 46,7,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word94.jpg,অভিযোগ,3 43 57 45 69 21,6,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word95.jpg,বিমানসেবিকার,42 57 44 56 38 54 65 42 57 19 56 46,12,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word96.jpg,সঙ্গে,54 23 71 21 65,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word97.jpg,খারাপ,20 56 46 56 40,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word98.jpg,ব্যবহার,42 71 45 42 55 56 46,7,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word99.jpg,করছেন,19 46 25 65 38,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word100.jpg,আসলে,4 54 48 65,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word101.jpg,বিমানে,42 57 44 56 38 65,6,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word102.jpg,নিজের,38 57 26 65 46,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word103.jpg,পছন্দের,40 25 38 71 36 65 46,7,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word104.jpg,খাবার,20 56 42 56 46,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word105.jpg,না,38 56,2,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word106.jpg,পেয়েই,40 65 45 2 65 5,6,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word107.jpg,বেজার,42 65 26 56 46,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word108.jpg,চটে,24 29 65,3,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word109.jpg,যান,45 56 38,3,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word110.jpg,ঐ,14,1,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word111.jpg,যাত্রী,45 56 34 71 46 58,6,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word112.jpg,ফলে,41 48 65,3,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word113.jpg,রীতিমতো,46 58 34 57 44 34 69,7,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word114.jpg,খারাপ,20 56 46 56 40,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word115.jpg,ব্যবহার,42 71 45 42 55 56 46,7,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word116.jpg,করতে,19 46 34 65,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word117.jpg,থাকেন,35 56 19 65 38,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word118.jpg,বিমান,42 57 44 56 38,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word119.jpg,সেবিকার,54 65 42 57 19 56 46,7,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word120.jpg,সঙ্গে,54 23 71 21 65,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word121.jpg,আসলে,4 54 48 65,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word122.jpg,ঘটনাটির,22 29 38 56 29 57 46,7,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word123.jpg,সুত্রপাত,54 59 34 71 46 40 56 34,8,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word124.jpg,খাবার,20 56 42 56 46,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word125.jpg,কেন্দ্র,19 65 38 71 36 71 46,7,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word126.jpg,করে,19 46 65,3,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word127.jpg,হলেও,55 48 65 17,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word128.jpg,তা,34 56,2,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word129.jpg,ধীরে ধীরে,37 58 46 65 2 37 58 46 65,9,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word130.jpg,যথেষ্ট,45 35 65 53 71 29,6,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word131.jpg,বিতর্কের,42 57 34 46 71 19 65 46,8,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word132.jpg,দিকে,36 57 19 65,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word133.jpg,মোড়,44 69 31 2,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word134.jpg,নেয়,38 65 45 2,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word135.jpg,এমনকি,13 44 38 19 57,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word136.jpg,সংশ্লিষ্ট,54 73 52 71 48 57 53 71 29,9,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word137.jpg,ভিডিয়োটিতে,43 57 31 57 45 2 69 29 57 34 65,11,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word138.jpg,দেখা,36 65 20 56,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word139.jpg,গিয়েছে,21 57 45 2 65 25 65,7,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word140.jpg,এক,13 19,2,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word141.jpg,যাত্রীর,45 56 34 71 46 58 46,7,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word142.jpg,খারাপ,20 56 46 56 40,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word143.jpg,ব্যবহারের,42 71 45 42 55 56 46 65 46,9,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word144.jpg,জন্য,26 38 71 45,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word145.jpg,এক,13 19,2,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word146.jpg,বিমানসেবিকা,42 57 44 56 38 54 65 42 57 19 56,11,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word147.jpg,কেঁদে,19 65 72 36 65,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word148.jpg,দিয়েছেন,36 57 45 2 65 25 65 38,8,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word149.jpg,আর,4 46,2,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word150.jpg,সহকর্মীর,54 55 19 46 71 44 58 46,8,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word151.jpg,পাশে,40 56 52 65,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word152.jpg,দাঁড়াতেই,36 56 72 31 2 56 34 65 5,9,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word153.jpg,আরেক,4 46 65 19,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word154.jpg,বিমানসেবিকা,42 57 44 56 38 54 65 42 57 19 56,11,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word155.jpg,ওই,17 5,2,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word156.jpg,যাত্রীকে,45 56 34 71 46 58 19 65,8,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word157.jpg,তাঁর,34 56 72 46,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word158.jpg,খারাপ,20 56 46 56 40,5,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word159.jpg,ব্যবহারের,42 71 45 42 55 56 46 65 46,9,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word160.jpg,জন্য,26 38 71 45,4,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word161.jpg,দোষারোপ,36 69 53 56 46 69 40,7,bengali
+C:\Users\T2510600\Downloads\BAOCR\out\d3_conv\crops\IMG_20221226_0018_word162.jpg,করেন,19 46 65 38,4,bengali
