@@ -228,11 +228,7 @@ foreach ($t in 0.20,0.30,0.40,0.50,0.60,0.70,0.80) { python "c:\Users\T2510600\D
   - **Training Logs**: `out/merged_all_combined/runs/rec_v3_reduced_combined_augplus/`
   - **Model Weights**: `model_best.pt` (62MB, optimized)
 
-### **Performance Improvements**
-- **Dataset Size**: 5,663 → 59,457 samples (10.5x increase)
-- **Model Efficiency**: 50% parameter reduction + attention mechanism
-- **Bengali CER**: Expected ~1.0 → 0.4-0.6 (significant improvement)
-- **Storage**: 98% checkpoint storage reduction (smart cleanup)
+
 
 ### **Visualization Outputs**
 - **Training Curves**: `training_log.csv` (real-time monitoring)
