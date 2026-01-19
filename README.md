@@ -69,9 +69,7 @@ This runs:
 - `tools/` – Dataset combination, fine-tuning utilities
 - `inference/` – End-to-end OCR pipeline
 
-## Faculty Requirements Implementation
-
-✅ **All faculty suggestions implemented**:
+--------------------------------------------------------------------------------------------------------------------------------
 - **Image scaling**: 32 → 128 pixels height (4x increase)
 - **Preprocessing**: CLAHE + High-boost filtering variants
 - **Data augmentation**: Enhanced for handwritten Bengali text
